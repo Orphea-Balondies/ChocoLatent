@@ -1,0 +1,11 @@
+pytorch
+diffusers==0.10.2
+transformers
+scipy
+accelerate
+torchvision
+huggingface_hub==0.25.2
+scikit-image
+lpips
+tensorboard
+#--extra-index-url https://download.pytorch.org/whl/cu113
