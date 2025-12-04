@@ -1,11 +1,21 @@
-pytorch
-diffusers==0.10.2
+diffusers
 transformers
 scipy
 accelerate
 torchvision
-huggingface_hub==0.25.2
+huggingface_hub
 scikit-image
 lpips
 tensorboard
+datasets
+timm
+peft
+accelerate>=0.16.0
+torchvision
+transformers>=4.25.1
+datasets>=2.19.1
+ftfy
+tensorboard
+Jinja2
+peft>=0.17.0
 #--extra-index-url https://download.pytorch.org/whl/cu113

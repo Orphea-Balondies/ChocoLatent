@@ -81,8 +81,6 @@ class DiffusionT2I:
         print("\n[DONE] All images generated.\n")
 
 if __name__ == "__main__":
-    base_model = 
-
 
     import argparse
     

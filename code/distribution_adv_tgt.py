@@ -9,7 +9,7 @@ import torch.nn.functional as F
 import requests
 from torch.utils.data import DataLoader, DistributedSampler
 from diffusers import StableDiffusionPipeline
-from transformers import CLIPProcessor, CLIPModel
+from transformers import CLIPVisionModel
 from torch.utils.tensorboard import SummaryWriter
 import torchvision.transforms as T
 from dataset import CLDataset
@@ -45,6 +45,7 @@ def parse_args():
     parser.add_argument('--adv_output_root', type=str, default='exp', help='select the output directory')
     parser.add_argument('--rewrite',type=bool, default=True)
     parser.add_argument('--nproc_per_gpu',type=int, default=1)
+    parser.add_argument('--batch_size',type=int, default=4)   
 
     args = parser.parse_args()
     return args
@@ -72,19 +73,24 @@ def main(rank, world_size):
     model = model.to("cuda")
     pipe = model.vae
 
+    clip_model = CLIPVisionModel.from_pretrained("model/clip-vit-base-patch32").to("cuda")
+
     dataset = CLDataset(image_dir)
     sampler = DistributedSampler(dataset, num_replicas=world_size, rank=rank)
-    dataloader = DataLoader(dataset, sampler=sampler, batch_size=1)
+    dataloader = DataLoader(dataset, sampler=sampler, batch_size=args.batch_size)
 
 
-    lr = 0.5
+    lr = 0.2
     e = 600
     fc = 8
     id = 0.1
     il = 0.2
     md = 20
     ml = 0.15
-    exp_version = f"{lr}lr{e}e-{fc}fc_meanpatch-{id}id{il}il{md}md{ml}ml".replace('.', '')
+    dcc = 8
+    dl = 0.1
+    #exp_version = f"{lr}lr{e}e-{fc}fc_meanpatch-{id}id{il}il{md}md{ml}ml".replace('.', '')
+    exp_version = f"{lr}lr{e}e-{dl}decoded_lpips-{id}id{il}il{md}md{ml}ml".replace('.', '')
     step_collector = StepLossCollector()
     for init_images, image_args in dataloader :
         image_name = image_args["image_name"][0]
@@ -99,7 +105,8 @@ def main(rank, world_size):
         rewrite=args.rewrite
         if not os.path.exists(image_adv_path) or rewrite:
             print('create photoguard adv image to generate')
-            X_adv = pgd(init_image,pipe,iters=e,initial_lr=lr,step_collector=step_collector,r_f_c=fc,r_i_d=id,r_i_l=il,max_img_Dis=md,max_img_lpips=ml,r_d_d=0.05)
+            X_adv = pgd(init_image,pipe,iters=e,initial_lr=lr,step_collector=step_collector,clip_model=clip_model,\
+                        r_f_c=fc,r_i_d=id,r_i_l=il,r_d_l=dl,max_img_Dis=md,max_img_lpips=ml,r_d_cc=dcc)
             X_adv = (X_adv / 2 + 0.5).clamp(0, 1)
             adv_image = to_pil(X_adv[0]).convert("RGB")
             adv_image.save(image_adv_path)
