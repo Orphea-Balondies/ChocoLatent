@@ -20,18 +20,10 @@ DISTRIBUTED_ARGS="
     --nnodes $NNODES \
     --node_rank $NODE_RANK \
     --master_addr $MASTER_ADDR \
-    --master_port $MASTER_PORT 
+    --master_port $MASTER_PORT
 "
 
-init_path="init_images/lego-minifigure-faces/"
 model_path='model/stable-diffusion-v1-5'
 
-out_dir="output/lego-minifigure-faces/"
-
 torchrun $DISTRIBUTED_ARGS code/distribution_adv_tgt.py\
-    --model_path $model_path\
-    #--image_dirname "kk"\
-    # --image_root $init_path\
-    # --adv_output_root $out_dir\
-    # --rewrite False\
-    # --nproc_per_gpu $NPROC_PER_GPU\
+    --model_path $model_path

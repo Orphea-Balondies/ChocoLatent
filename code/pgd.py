@@ -65,10 +65,10 @@ def pgd(X, model, iters=200, max_img_Dis=15, max_img_lpips=15, initial_lr=0.001,
         optimizer.zero_grad()
         #loss = -kwargs.r_f_c*feat_cos + kwargs.r_i_d*max(adv_img_Dis-max_img_Dis,0)
 
-        loss = kwargs["r_d_l"]*decoded_img_lpips +\
+        loss = -kwargs["r_d_l"]*decoded_img_lpips +\
             kwargs["r_i_d"]*max(adv_img_Dis-max_img_Dis,0) + kwargs["r_i_l"]*max(adv_img_lpips-max_img_lpips,0)
         if i % (len(pbar)//4) == 0:
-            pbar.set_description(f"[Running attack]: Loss {loss.item():.5f} | step lr: {optimizer.param_groups[0]['lr']:.4}")
+            pbar.set_description(f"[Running attack]: Loss {loss.item():.4} ")# | step lr: {optimizer.param_groups[0]['lr']:.4}")
             print(f"'adv_img_lpips': {adv_img_lpips.item():.3}|\
                 'adv_img_Dis': {adv_img_Dis.item():.3}|\
                 'feat_Dis': {feat_Dis.item():.3}|\
@@ -80,17 +80,17 @@ def pgd(X, model, iters=200, max_img_Dis=15, max_img_lpips=15, initial_lr=0.001,
             pbar.update(len(pbar)//4)
 
         if i == iters:
-            x=X.squeeze().detach().cpu().numpy()
-            x_adv=X_adv.squeeze().detach().cpu().numpy()
-            decoded_x_adv=decoded_X_adv.squeeze().detach().cpu().numpy()
+            x=X[0].detach().cpu().numpy()
+            x_adv=X_adv[0].detach().cpu().numpy()
+            decoded_x_adv=decoded_X_adv[0].detach().cpu().numpy()
             adv_img_psnr = psnr(x, x_adv,data_range=2.0)
             adv_img_ssim = ssim(x, x_adv,data_range=2.0,channel_axis=0)
             decoded_img_psnr = psnr(x, decoded_x_adv,data_range=2.0)
             decoded_img_ssim = ssim(x, decoded_x_adv,data_range=2.,channel_axis=0)
-            print(f"'adv_img_psnr': {adv_img_psnr:.3}| \
-                    'adv_img_ssim': {adv_img_ssim:.3}| \
-                    'decoded_img_psnr': {decoded_img_psnr:.3}| \
-                    'decoded_img_ssim': {decoded_img_ssim:.3}|\
+            print(f"'adv_firstimg_psnr': {adv_img_psnr:.3}| \
+                    'adv_firstimg_ssim': {adv_img_ssim:.3}| \
+                    'decoded_firstimg_psnr': {decoded_img_psnr:.3}| \
+                    'decoded_firstimg_ssim': {decoded_img_ssim:.3}|\
                     'adv_img_lpips': {adv_img_lpips.item():.3}|\
                     'adv_img_Dis': {adv_img_Dis.item():.3}|\
                     'feat_Dis': {feat_Dis.item():.3}|\

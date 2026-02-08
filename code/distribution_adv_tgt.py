@@ -80,7 +80,7 @@ def main(rank, world_size):
     dataloader = DataLoader(dataset, sampler=sampler, batch_size=args.batch_size)
 
 
-    lr = 0.2
+    lr = 4
     e = 600
     fc = 8
     id = 0.1
