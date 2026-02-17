@@ -1,0 +1,5 @@
+dataset_type: D1
+dataset_name: lego-minifigure-faces
+image_root: init_images
+image_dirname: lego-minifigure-faces
+task_type: style_imitation

@@ -1,0 +1,9 @@
+method: glaze
+objective: maximize_alignment_to_style_transferred_target
+clip_model_path: model/clip-vit-base-patch32
+glaze_style_backend: onnx_mosaic
+glaze_style_onnx_path: model/style_transfer/mosaic-9.onnx
+glaze_style_image_path: null
+glaze_style_alpha: 1.0
+strict_lpips_projection: true
+lpips_bisection_steps: 6

@@ -1,0 +1,6 @@
+method: chocolatent
+objective: maximize_lpips_between_clean_and_decoded_adv
+strict_lpips_projection: true
+lpips_bisection_steps: 6
+budget_penalty_l2: 20.0
+budget_penalty_lpips: 20.0

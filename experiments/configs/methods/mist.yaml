@@ -1,0 +1,5 @@
+method: mist
+objective: minimize_lpips_to_target_image
+target_image_path: null
+strict_lpips_projection: true
+lpips_bisection_steps: 6

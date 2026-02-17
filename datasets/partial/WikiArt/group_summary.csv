@@ -1,0 +1,16 @@
+dataset,group,available_in_loaded_shards,saved_images,target_images
+WikiArt,Impressionism,4355,40,40
+WikiArt,Realism,2763,40,40
+WikiArt,Post_Impressionism,1442,40,40
+WikiArt,Symbolism,1238,40,40
+WikiArt,Romanticism,1215,40,40
+WikiArt,Art_Nouveau,1094,40,40
+WikiArt,Naive_Art_Primitivism,641,40,40
+WikiArt,Expressionism,584,40,40
+WikiArt,Northern_Renaissance,486,40,40
+WikiArt,Baroque,452,40,40
+WikiArt,Cubism,298,40,40
+WikiArt,Pointillism,40,40,40
+WikiArt,Synthetic_Cubism,30,30,40
+WikiArt,Analytical_Cubism,28,28,40
+WikiArt,Fauvism,27,27,40

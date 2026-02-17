@@ -1,0 +1,566 @@
+dataset,group,artist,genre,source_shard,source_row,output_path
+WikiArt,Realism,vincent-van-gogh,landscape,train-00000-of-00072.parquet,0,datasets/partial/WikiArt/realism/realism_0001.jpg
+WikiArt,Baroque,rembrandt,religious_painting,train-00000-of-00072.parquet,1,datasets/partial/WikiArt/baroque/baroque_0001.jpg
+WikiArt,Post_Impressionism,paul-cezanne,portrait,train-00000-of-00072.parquet,2,datasets/partial/WikiArt/post_impressionism/post_impressionism_0001.jpg
+WikiArt,Impressionism,pierre-auguste-renoir,genre_painting,train-00000-of-00072.parquet,3,datasets/partial/WikiArt/impressionism/impressionism_0001.jpg
+WikiArt,Romanticism,ivan-aivazovsky,Unknown Genre,train-00000-of-00072.parquet,4,datasets/partial/WikiArt/romanticism/romanticism_0001.jpg
+WikiArt,Art_Nouveau,boris-kustodiev,genre_painting,train-00000-of-00072.parquet,5,datasets/partial/WikiArt/art_nouveau/art_nouveau_0001.jpg
+WikiArt,Realism,vincent-van-gogh,Unknown Genre,train-00000-of-00072.parquet,6,datasets/partial/WikiArt/realism/realism_0002.jpg
+WikiArt,Romanticism,ivan-aivazovsky,landscape,train-00000-of-00072.parquet,7,datasets/partial/WikiArt/romanticism/romanticism_0002.jpg
+WikiArt,Northern_Renaissance,albrecht-durer,religious_painting,train-00000-of-00072.parquet,8,datasets/partial/WikiArt/northern_renaissance/northern_renaissance_0001.jpg
+WikiArt,Realism,john-singer-sargent,portrait,train-00000-of-00072.parquet,9,datasets/partial/WikiArt/realism/realism_0003.jpg
+WikiArt,Romanticism,ivan-aivazovsky,landscape,train-00000-of-00072.parquet,10,datasets/partial/WikiArt/romanticism/romanticism_0003.jpg
+WikiArt,Symbolism,nicholas-roerich,genre_painting,train-00000-of-00072.parquet,11,datasets/partial/WikiArt/symbolism/symbolism_0001.jpg
+WikiArt,Symbolism,nicholas-roerich,landscape,train-00000-of-00072.parquet,12,datasets/partial/WikiArt/symbolism/symbolism_0002.jpg
+WikiArt,Realism,boris-kustodiev,portrait,train-00000-of-00072.parquet,13,datasets/partial/WikiArt/realism/realism_0004.jpg
+WikiArt,Impressionism,pierre-auguste-renoir,portrait,train-00000-of-00072.parquet,14,datasets/partial/WikiArt/impressionism/impressionism_0002.jpg
+WikiArt,Naive_Art_Primitivism,marc-chagall,still_life,train-00000-of-00072.parquet,15,datasets/partial/WikiArt/naive_art_primitivism/naive_art_primitivism_0001.jpg
+WikiArt,Realism,vincent-van-gogh,sketch_and_study,train-00000-of-00072.parquet,16,datasets/partial/WikiArt/realism/realism_0005.jpg
+WikiArt,Romanticism,gustave-dore,illustration,train-00000-of-00072.parquet,17,datasets/partial/WikiArt/romanticism/romanticism_0004.jpg
+WikiArt,Romanticism,ivan-aivazovsky,landscape,train-00000-of-00072.parquet,18,datasets/partial/WikiArt/romanticism/romanticism_0005.jpg
+WikiArt,Romanticism,gustave-dore,illustration,train-00000-of-00072.parquet,19,datasets/partial/WikiArt/romanticism/romanticism_0006.jpg
+WikiArt,Baroque,rembrandt,sketch_and_study,train-00000-of-00072.parquet,20,datasets/partial/WikiArt/baroque/baroque_0002.jpg
+WikiArt,Realism,pyotr-konchalovsky,landscape,train-00000-of-00072.parquet,21,datasets/partial/WikiArt/realism/realism_0006.jpg
+WikiArt,Impressionism,pierre-auguste-renoir,cityscape,train-00000-of-00072.parquet,22,datasets/partial/WikiArt/impressionism/impressionism_0003.jpg
+WikiArt,Expressionism,martiros-saryan,sketch_and_study,train-00000-of-00072.parquet,23,datasets/partial/WikiArt/expressionism/expressionism_0001.jpg
+WikiArt,Baroque,rembrandt,portrait,train-00000-of-00072.parquet,24,datasets/partial/WikiArt/baroque/baroque_0003.jpg
+WikiArt,Impressionism,claude-monet,cityscape,train-00000-of-00072.parquet,25,datasets/partial/WikiArt/impressionism/impressionism_0004.jpg
+WikiArt,Symbolism,nicholas-roerich,landscape,train-00000-of-00072.parquet,26,datasets/partial/WikiArt/symbolism/symbolism_0003.jpg
+WikiArt,Expressionism,martiros-saryan,Unknown Genre,train-00000-of-00072.parquet,27,datasets/partial/WikiArt/expressionism/expressionism_0002.jpg
+WikiArt,Realism,ivan-shishkin,sketch_and_study,train-00000-of-00072.parquet,28,datasets/partial/WikiArt/realism/realism_0007.jpg
+WikiArt,Realism,vincent-van-gogh,nude_painting,train-00000-of-00072.parquet,29,datasets/partial/WikiArt/realism/realism_0008.jpg
+WikiArt,Realism,vincent-van-gogh,portrait,train-00000-of-00072.parquet,30,datasets/partial/WikiArt/realism/realism_0009.jpg
+WikiArt,Northern_Renaissance,albrecht-durer,religious_painting,train-00000-of-00072.parquet,31,datasets/partial/WikiArt/northern_renaissance/northern_renaissance_0002.jpg
+WikiArt,Post_Impressionism,paul-cezanne,still_life,train-00000-of-00072.parquet,32,datasets/partial/WikiArt/post_impressionism/post_impressionism_0002.jpg
+WikiArt,Naive_Art_Primitivism,marc-chagall,Unknown Genre,train-00000-of-00072.parquet,33,datasets/partial/WikiArt/naive_art_primitivism/naive_art_primitivism_0002.jpg
+WikiArt,Expressionism,pablo-picasso,portrait,train-00000-of-00072.parquet,34,datasets/partial/WikiArt/expressionism/expressionism_0003.jpg
+WikiArt,Romanticism,ivan-aivazovsky,landscape,train-00000-of-00072.parquet,35,datasets/partial/WikiArt/romanticism/romanticism_0007.jpg
+WikiArt,Naive_Art_Primitivism,marc-chagall,religious_painting,train-00000-of-00072.parquet,36,datasets/partial/WikiArt/naive_art_primitivism/naive_art_primitivism_0003.jpg
+WikiArt,Art_Nouveau,nicholas-roerich,Unknown Genre,train-00000-of-00072.parquet,37,datasets/partial/WikiArt/art_nouveau/art_nouveau_0002.jpg
+WikiArt,Art_Nouveau,raphael-kirchner,nude_painting,train-00000-of-00072.parquet,38,datasets/partial/WikiArt/art_nouveau/art_nouveau_0003.jpg
+WikiArt,Baroque,rembrandt,portrait,train-00000-of-00072.parquet,39,datasets/partial/WikiArt/baroque/baroque_0004.jpg
+WikiArt,Impressionism,pierre-auguste-renoir,still_life,train-00000-of-00072.parquet,40,datasets/partial/WikiArt/impressionism/impressionism_0005.jpg
+WikiArt,Realism,ilya-repin,portrait,train-00000-of-00072.parquet,41,datasets/partial/WikiArt/realism/realism_0010.jpg
+WikiArt,Symbolism,nicholas-roerich,sketch_and_study,train-00000-of-00072.parquet,42,datasets/partial/WikiArt/symbolism/symbolism_0004.jpg
+WikiArt,Impressionism,eugene-boudin,landscape,train-00000-of-00072.parquet,43,datasets/partial/WikiArt/impressionism/impressionism_0006.jpg
+WikiArt,Impressionism,pierre-auguste-renoir,still_life,train-00000-of-00072.parquet,44,datasets/partial/WikiArt/impressionism/impressionism_0007.jpg
+WikiArt,Expressionism,salvador-dali,genre_painting,train-00000-of-00072.parquet,45,datasets/partial/WikiArt/expressionism/expressionism_0004.jpg
+WikiArt,Northern_Renaissance,albrecht-durer,portrait,train-00000-of-00072.parquet,46,datasets/partial/WikiArt/northern_renaissance/northern_renaissance_0003.jpg
+WikiArt,Post_Impressionism,paul-cezanne,landscape,train-00000-of-00072.parquet,47,datasets/partial/WikiArt/post_impressionism/post_impressionism_0003.jpg
+WikiArt,Realism,vincent-van-gogh,sketch_and_study,train-00000-of-00072.parquet,48,datasets/partial/WikiArt/realism/realism_0011.jpg
+WikiArt,Post_Impressionism,pablo-picasso,genre_painting,train-00000-of-00072.parquet,49,datasets/partial/WikiArt/post_impressionism/post_impressionism_0004.jpg
+WikiArt,Post_Impressionism,paul-cezanne,portrait,train-00000-of-00072.parquet,50,datasets/partial/WikiArt/post_impressionism/post_impressionism_0005.jpg
+WikiArt,Art_Nouveau,raphael-kirchner,genre_painting,train-00000-of-00072.parquet,51,datasets/partial/WikiArt/art_nouveau/art_nouveau_0004.jpg
+WikiArt,Realism,vincent-van-gogh,sketch_and_study,train-00000-of-00072.parquet,52,datasets/partial/WikiArt/realism/realism_0012.jpg
+WikiArt,Impressionism,salvador-dali,Unknown Genre,train-00000-of-00072.parquet,53,datasets/partial/WikiArt/impressionism/impressionism_0008.jpg
+WikiArt,Post_Impressionism,paul-cezanne,landscape,train-00000-of-00072.parquet,54,datasets/partial/WikiArt/post_impressionism/post_impressionism_0006.jpg
+WikiArt,Baroque,rembrandt,portrait,train-00000-of-00072.parquet,55,datasets/partial/WikiArt/baroque/baroque_0005.jpg
+WikiArt,Realism,boris-kustodiev,cityscape,train-00000-of-00072.parquet,56,datasets/partial/WikiArt/realism/realism_0013.jpg
+WikiArt,Impressionism,paul-cezanne,landscape,train-00000-of-00072.parquet,57,datasets/partial/WikiArt/impressionism/impressionism_0009.jpg
+WikiArt,Realism,boris-kustodiev,nude_painting,train-00000-of-00072.parquet,58,datasets/partial/WikiArt/realism/realism_0014.jpg
+WikiArt,Symbolism,nicholas-roerich,landscape,train-00000-of-00072.parquet,59,datasets/partial/WikiArt/symbolism/symbolism_0005.jpg
+WikiArt,Northern_Renaissance,albrecht-durer,portrait,train-00000-of-00072.parquet,60,datasets/partial/WikiArt/northern_renaissance/northern_renaissance_0004.jpg
+WikiArt,Northern_Renaissance,albrecht-durer,genre_painting,train-00000-of-00072.parquet,61,datasets/partial/WikiArt/northern_renaissance/northern_renaissance_0005.jpg
+WikiArt,Romanticism,gustave-dore,illustration,train-00000-of-00072.parquet,62,datasets/partial/WikiArt/romanticism/romanticism_0008.jpg
+WikiArt,Art_Nouveau,nicholas-roerich,Unknown Genre,train-00000-of-00072.parquet,63,datasets/partial/WikiArt/art_nouveau/art_nouveau_0005.jpg
+WikiArt,Realism,john-singer-sargent,genre_painting,train-00000-of-00072.parquet,64,datasets/partial/WikiArt/realism/realism_0015.jpg
+WikiArt,Romanticism,ivan-aivazovsky,Unknown Genre,train-00000-of-00072.parquet,65,datasets/partial/WikiArt/romanticism/romanticism_0009.jpg
+WikiArt,Romanticism,gustave-dore,illustration,train-00000-of-00072.parquet,66,datasets/partial/WikiArt/romanticism/romanticism_0010.jpg
+WikiArt,Impressionism,pierre-auguste-renoir,portrait,train-00000-of-00072.parquet,67,datasets/partial/WikiArt/impressionism/impressionism_0010.jpg
+WikiArt,Naive_Art_Primitivism,marc-chagall,genre_painting,train-00000-of-00072.parquet,68,datasets/partial/WikiArt/naive_art_primitivism/naive_art_primitivism_0004.jpg
+WikiArt,Realism,ilya-repin,religious_painting,train-00000-of-00072.parquet,69,datasets/partial/WikiArt/realism/realism_0016.jpg
+WikiArt,Northern_Renaissance,albrecht-durer,portrait,train-00000-of-00072.parquet,70,datasets/partial/WikiArt/northern_renaissance/northern_renaissance_0006.jpg
+WikiArt,Impressionism,claude-monet,landscape,train-00000-of-00072.parquet,71,datasets/partial/WikiArt/impressionism/impressionism_0011.jpg
+WikiArt,Realism,vincent-van-gogh,genre_painting,train-00000-of-00072.parquet,72,datasets/partial/WikiArt/realism/realism_0017.jpg
+WikiArt,Symbolism,salvador-dali,religious_painting,train-00000-of-00072.parquet,73,datasets/partial/WikiArt/symbolism/symbolism_0006.jpg
+WikiArt,Impressionism,edgar-degas,portrait,train-00000-of-00072.parquet,74,datasets/partial/WikiArt/impressionism/impressionism_0012.jpg
+WikiArt,Impressionism,pierre-auguste-renoir,portrait,train-00000-of-00072.parquet,75,datasets/partial/WikiArt/impressionism/impressionism_0013.jpg
+WikiArt,Impressionism,childe-hassam,cityscape,train-00000-of-00072.parquet,76,datasets/partial/WikiArt/impressionism/impressionism_0014.jpg
+WikiArt,Impressionism,paul-cezanne,landscape,train-00000-of-00072.parquet,77,datasets/partial/WikiArt/impressionism/impressionism_0015.jpg
+WikiArt,Impressionism,claude-monet,landscape,train-00000-of-00072.parquet,78,datasets/partial/WikiArt/impressionism/impressionism_0016.jpg
+WikiArt,Impressionism,camille-pissarro,cityscape,train-00000-of-00072.parquet,79,datasets/partial/WikiArt/impressionism/impressionism_0017.jpg
+WikiArt,Post_Impressionism,vincent-van-gogh,landscape,train-00000-of-00072.parquet,80,datasets/partial/WikiArt/post_impressionism/post_impressionism_0007.jpg
+WikiArt,Impressionism,claude-monet,genre_painting,train-00000-of-00072.parquet,81,datasets/partial/WikiArt/impressionism/impressionism_0018.jpg
+WikiArt,Romanticism,gustave-dore,illustration,train-00000-of-00072.parquet,82,datasets/partial/WikiArt/romanticism/romanticism_0011.jpg
+WikiArt,Symbolism,nicholas-roerich,landscape,train-00000-of-00072.parquet,83,datasets/partial/WikiArt/symbolism/symbolism_0007.jpg
+WikiArt,Impressionism,pierre-auguste-renoir,Unknown Genre,train-00000-of-00072.parquet,84,datasets/partial/WikiArt/impressionism/impressionism_0019.jpg
+WikiArt,Impressionism,claude-monet,cityscape,train-00000-of-00072.parquet,85,datasets/partial/WikiArt/impressionism/impressionism_0020.jpg
+WikiArt,Impressionism,john-singer-sargent,cityscape,train-00000-of-00072.parquet,86,datasets/partial/WikiArt/impressionism/impressionism_0021.jpg
+WikiArt,Post_Impressionism,pyotr-konchalovsky,genre_painting,train-00000-of-00072.parquet,87,datasets/partial/WikiArt/post_impressionism/post_impressionism_0008.jpg
+WikiArt,Art_Nouveau,boris-kustodiev,cityscape,train-00000-of-00072.parquet,88,datasets/partial/WikiArt/art_nouveau/art_nouveau_0006.jpg
+WikiArt,Impressionism,pierre-auguste-renoir,nude_painting,train-00000-of-00072.parquet,89,datasets/partial/WikiArt/impressionism/impressionism_0022.jpg
+WikiArt,Impressionism,paul-cezanne,genre_painting,train-00000-of-00072.parquet,90,datasets/partial/WikiArt/impressionism/impressionism_0023.jpg
+WikiArt,Expressionism,marc-chagall,Unknown Genre,train-00000-of-00072.parquet,91,datasets/partial/WikiArt/expressionism/expressionism_0005.jpg
+WikiArt,Impressionism,edgar-degas,landscape,train-00000-of-00072.parquet,92,datasets/partial/WikiArt/impressionism/impressionism_0024.jpg
+WikiArt,Realism,ilya-repin,portrait,train-00000-of-00072.parquet,93,datasets/partial/WikiArt/realism/realism_0018.jpg
+WikiArt,Impressionism,edgar-degas,landscape,train-00000-of-00072.parquet,94,datasets/partial/WikiArt/impressionism/impressionism_0025.jpg
+WikiArt,Symbolism,nicholas-roerich,landscape,train-00000-of-00072.parquet,95,datasets/partial/WikiArt/symbolism/symbolism_0008.jpg
+WikiArt,Impressionism,pablo-picasso,genre_painting,train-00000-of-00072.parquet,96,datasets/partial/WikiArt/impressionism/impressionism_0026.jpg
+WikiArt,Impressionism,camille-pissarro,landscape,train-00000-of-00072.parquet,97,datasets/partial/WikiArt/impressionism/impressionism_0027.jpg
+WikiArt,Baroque,rembrandt,Unknown Genre,train-00000-of-00072.parquet,98,datasets/partial/WikiArt/baroque/baroque_0006.jpg
+WikiArt,Cubism,pablo-picasso,still_life,train-00000-of-00072.parquet,99,datasets/partial/WikiArt/cubism/cubism_0001.jpg
+WikiArt,Northern_Renaissance,albrecht-durer,genre_painting,train-00000-of-00072.parquet,100,datasets/partial/WikiArt/northern_renaissance/northern_renaissance_0007.jpg
+WikiArt,Symbolism,nicholas-roerich,landscape,train-00000-of-00072.parquet,101,datasets/partial/WikiArt/symbolism/symbolism_0009.jpg
+WikiArt,Expressionism,pyotr-konchalovsky,still_life,train-00000-of-00072.parquet,102,datasets/partial/WikiArt/expressionism/expressionism_0006.jpg
+WikiArt,Cubism,pablo-picasso,Unknown Genre,train-00000-of-00072.parquet,103,datasets/partial/WikiArt/cubism/cubism_0002.jpg
+WikiArt,Post_Impressionism,salvador-dali,landscape,train-00000-of-00072.parquet,104,datasets/partial/WikiArt/post_impressionism/post_impressionism_0009.jpg
+WikiArt,Symbolism,nicholas-roerich,sketch_and_study,train-00000-of-00072.parquet,105,datasets/partial/WikiArt/symbolism/symbolism_0010.jpg
+WikiArt,Art_Nouveau,boris-kustodiev,nude_painting,train-00000-of-00072.parquet,106,datasets/partial/WikiArt/art_nouveau/art_nouveau_0007.jpg
+WikiArt,Romanticism,ivan-aivazovsky,landscape,train-00000-of-00072.parquet,107,datasets/partial/WikiArt/romanticism/romanticism_0012.jpg
+WikiArt,Cubism,pablo-picasso,still_life,train-00000-of-00072.parquet,108,datasets/partial/WikiArt/cubism/cubism_0003.jpg
+WikiArt,Symbolism,nicholas-roerich,genre_painting,train-00000-of-00072.parquet,109,datasets/partial/WikiArt/symbolism/symbolism_0011.jpg
+WikiArt,Post_Impressionism,vincent-van-gogh,landscape,train-00000-of-00072.parquet,110,datasets/partial/WikiArt/post_impressionism/post_impressionism_0010.jpg
+WikiArt,Baroque,rembrandt,Unknown Genre,train-00000-of-00072.parquet,111,datasets/partial/WikiArt/baroque/baroque_0007.jpg
+WikiArt,Symbolism,nicholas-roerich,landscape,train-00000-of-00072.parquet,112,datasets/partial/WikiArt/symbolism/symbolism_0012.jpg
+WikiArt,Realism,vincent-van-gogh,Unknown Genre,train-00000-of-00072.parquet,113,datasets/partial/WikiArt/realism/realism_0019.jpg
+WikiArt,Baroque,rembrandt,genre_painting,train-00000-of-00072.parquet,114,datasets/partial/WikiArt/baroque/baroque_0008.jpg
+WikiArt,Post_Impressionism,pyotr-konchalovsky,genre_painting,train-00000-of-00072.parquet,115,datasets/partial/WikiArt/post_impressionism/post_impressionism_0011.jpg
+WikiArt,Impressionism,childe-hassam,landscape,train-00000-of-00072.parquet,116,datasets/partial/WikiArt/impressionism/impressionism_0028.jpg
+WikiArt,Realism,pyotr-konchalovsky,landscape,train-00000-of-00072.parquet,117,datasets/partial/WikiArt/realism/realism_0020.jpg
+WikiArt,Realism,boris-kustodiev,sketch_and_study,train-00000-of-00072.parquet,118,datasets/partial/WikiArt/realism/realism_0021.jpg
+WikiArt,Impressionism,eugene-boudin,cityscape,train-00000-of-00072.parquet,119,datasets/partial/WikiArt/impressionism/impressionism_0029.jpg
+WikiArt,Romanticism,ivan-aivazovsky,religious_painting,train-00000-of-00072.parquet,120,datasets/partial/WikiArt/romanticism/romanticism_0013.jpg
+WikiArt,Naive_Art_Primitivism,marc-chagall,illustration,train-00000-of-00072.parquet,121,datasets/partial/WikiArt/naive_art_primitivism/naive_art_primitivism_0005.jpg
+WikiArt,Impressionism,claude-monet,cityscape,train-00000-of-00072.parquet,122,datasets/partial/WikiArt/impressionism/impressionism_0030.jpg
+WikiArt,Romanticism,gustave-dore,illustration,train-00000-of-00072.parquet,123,datasets/partial/WikiArt/romanticism/romanticism_0014.jpg
+WikiArt,Realism,pyotr-konchalovsky,landscape,train-00000-of-00072.parquet,124,datasets/partial/WikiArt/realism/realism_0022.jpg
+WikiArt,Northern_Renaissance,albrecht-durer,portrait,train-00000-of-00072.parquet,125,datasets/partial/WikiArt/northern_renaissance/northern_renaissance_0008.jpg
+WikiArt,Impressionism,childe-hassam,landscape,train-00000-of-00072.parquet,126,datasets/partial/WikiArt/impressionism/impressionism_0031.jpg
+WikiArt,Baroque,rembrandt,sketch_and_study,train-00000-of-00072.parquet,127,datasets/partial/WikiArt/baroque/baroque_0009.jpg
+WikiArt,Post_Impressionism,vincent-van-gogh,sketch_and_study,train-00000-of-00072.parquet,128,datasets/partial/WikiArt/post_impressionism/post_impressionism_0012.jpg
+WikiArt,Post_Impressionism,pablo-picasso,genre_painting,train-00000-of-00072.parquet,129,datasets/partial/WikiArt/post_impressionism/post_impressionism_0013.jpg
+WikiArt,Romanticism,gustave-dore,illustration,train-00000-of-00072.parquet,130,datasets/partial/WikiArt/romanticism/romanticism_0015.jpg
+WikiArt,Realism,ilya-repin,portrait,train-00000-of-00072.parquet,131,datasets/partial/WikiArt/realism/realism_0023.jpg
+WikiArt,Realism,camille-pissarro,landscape,train-00000-of-00072.parquet,132,datasets/partial/WikiArt/realism/realism_0024.jpg
+WikiArt,Realism,vincent-van-gogh,genre_painting,train-00000-of-00072.parquet,133,datasets/partial/WikiArt/realism/realism_0025.jpg
+WikiArt,Impressionism,pierre-auguste-renoir,landscape,train-00000-of-00072.parquet,134,datasets/partial/WikiArt/impressionism/impressionism_0032.jpg
+WikiArt,Naive_Art_Primitivism,marc-chagall,genre_painting,train-00000-of-00072.parquet,135,datasets/partial/WikiArt/naive_art_primitivism/naive_art_primitivism_0006.jpg
+WikiArt,Realism,ivan-shishkin,landscape,train-00000-of-00072.parquet,136,datasets/partial/WikiArt/realism/realism_0026.jpg
+WikiArt,Art_Nouveau,boris-kustodiev,genre_painting,train-00000-of-00072.parquet,137,datasets/partial/WikiArt/art_nouveau/art_nouveau_0008.jpg
+WikiArt,Symbolism,nicholas-roerich,landscape,train-00000-of-00072.parquet,138,datasets/partial/WikiArt/symbolism/symbolism_0013.jpg
+WikiArt,Naive_Art_Primitivism,marc-chagall,illustration,train-00000-of-00072.parquet,139,datasets/partial/WikiArt/naive_art_primitivism/naive_art_primitivism_0007.jpg
+WikiArt,Realism,vincent-van-gogh,still_life,train-00000-of-00072.parquet,140,datasets/partial/WikiArt/realism/realism_0027.jpg
+WikiArt,Impressionism,claude-monet,landscape,train-00000-of-00072.parquet,141,datasets/partial/WikiArt/impressionism/impressionism_0033.jpg
+WikiArt,Symbolism,nicholas-roerich,sketch_and_study,train-00000-of-00072.parquet,142,datasets/partial/WikiArt/symbolism/symbolism_0014.jpg
+WikiArt,Impressionism,john-singer-sargent,cityscape,train-00000-of-00072.parquet,143,datasets/partial/WikiArt/impressionism/impressionism_0034.jpg
+WikiArt,Realism,pyotr-konchalovsky,landscape,train-00000-of-00072.parquet,144,datasets/partial/WikiArt/realism/realism_0028.jpg
+WikiArt,Realism,pyotr-konchalovsky,Unknown Genre,train-00000-of-00072.parquet,145,datasets/partial/WikiArt/realism/realism_0029.jpg
+WikiArt,Post_Impressionism,pyotr-konchalovsky,sketch_and_study,train-00000-of-00072.parquet,146,datasets/partial/WikiArt/post_impressionism/post_impressionism_0014.jpg
+WikiArt,Northern_Renaissance,albrecht-durer,portrait,train-00000-of-00072.parquet,147,datasets/partial/WikiArt/northern_renaissance/northern_renaissance_0009.jpg
+WikiArt,Impressionism,claude-monet,genre_painting,train-00000-of-00072.parquet,148,datasets/partial/WikiArt/impressionism/impressionism_0035.jpg
+WikiArt,Cubism,paul-cezanne,landscape,train-00000-of-00072.parquet,149,datasets/partial/WikiArt/cubism/cubism_0004.jpg
+WikiArt,Expressionism,martiros-saryan,genre_painting,train-00000-of-00072.parquet,150,datasets/partial/WikiArt/expressionism/expressionism_0007.jpg
+WikiArt,Impressionism,john-singer-sargent,landscape,train-00000-of-00072.parquet,151,datasets/partial/WikiArt/impressionism/impressionism_0036.jpg
+WikiArt,Realism,vincent-van-gogh,landscape,train-00000-of-00072.parquet,152,datasets/partial/WikiArt/realism/realism_0030.jpg
+WikiArt,Post_Impressionism,pyotr-konchalovsky,Unknown Genre,train-00000-of-00072.parquet,153,datasets/partial/WikiArt/post_impressionism/post_impressionism_0015.jpg
+WikiArt,Romanticism,gustave-dore,illustration,train-00000-of-00072.parquet,154,datasets/partial/WikiArt/romanticism/romanticism_0016.jpg
+WikiArt,Impressionism,childe-hassam,cityscape,train-00000-of-00072.parquet,155,datasets/partial/WikiArt/impressionism/impressionism_0037.jpg
+WikiArt,Art_Nouveau,nicholas-roerich,cityscape,train-00000-of-00072.parquet,156,datasets/partial/WikiArt/art_nouveau/art_nouveau_0009.jpg
+WikiArt,Impressionism,childe-hassam,Unknown Genre,train-00000-of-00072.parquet,157,datasets/partial/WikiArt/impressionism/impressionism_0038.jpg
+WikiArt,Romanticism,ivan-aivazovsky,landscape,train-00000-of-00072.parquet,158,datasets/partial/WikiArt/romanticism/romanticism_0017.jpg
+WikiArt,Cubism,paul-cezanne,cityscape,train-00000-of-00072.parquet,159,datasets/partial/WikiArt/cubism/cubism_0005.jpg
+WikiArt,Impressionism,edgar-degas,Unknown Genre,train-00000-of-00072.parquet,160,datasets/partial/WikiArt/impressionism/impressionism_0039.jpg
+WikiArt,Impressionism,camille-pissarro,landscape,train-00000-of-00072.parquet,161,datasets/partial/WikiArt/impressionism/impressionism_0040.jpg
+WikiArt,Post_Impressionism,vincent-van-gogh,landscape,train-00000-of-00072.parquet,162,datasets/partial/WikiArt/post_impressionism/post_impressionism_0016.jpg
+WikiArt,Post_Impressionism,martiros-saryan,landscape,train-00000-of-00072.parquet,163,datasets/partial/WikiArt/post_impressionism/post_impressionism_0017.jpg
+WikiArt,Realism,vincent-van-gogh,sketch_and_study,train-00000-of-00072.parquet,164,datasets/partial/WikiArt/realism/realism_0031.jpg
+WikiArt,Naive_Art_Primitivism,marc-chagall,religious_painting,train-00000-of-00072.parquet,165,datasets/partial/WikiArt/naive_art_primitivism/naive_art_primitivism_0008.jpg
+WikiArt,Northern_Renaissance,albrecht-durer,portrait,train-00000-of-00072.parquet,166,datasets/partial/WikiArt/northern_renaissance/northern_renaissance_0010.jpg
+WikiArt,Northern_Renaissance,albrecht-durer,religious_painting,train-00000-of-00072.parquet,167,datasets/partial/WikiArt/northern_renaissance/northern_renaissance_0011.jpg
+WikiArt,Post_Impressionism,vincent-van-gogh,sketch_and_study,train-00000-of-00072.parquet,168,datasets/partial/WikiArt/post_impressionism/post_impressionism_0018.jpg
+WikiArt,Art_Nouveau,boris-kustodiev,genre_painting,train-00000-of-00072.parquet,169,datasets/partial/WikiArt/art_nouveau/art_nouveau_0010.jpg
+WikiArt,Northern_Renaissance,albrecht-durer,religious_painting,train-00000-of-00072.parquet,170,datasets/partial/WikiArt/northern_renaissance/northern_renaissance_0012.jpg
+WikiArt,Realism,ivan-shishkin,landscape,train-00000-of-00072.parquet,171,datasets/partial/WikiArt/realism/realism_0032.jpg
+WikiArt,Symbolism,nicholas-roerich,Unknown Genre,train-00000-of-00072.parquet,173,datasets/partial/WikiArt/symbolism/symbolism_0015.jpg
+WikiArt,Symbolism,nicholas-roerich,landscape,train-00000-of-00072.parquet,174,datasets/partial/WikiArt/symbolism/symbolism_0016.jpg
+WikiArt,Expressionism,pablo-picasso,nude_painting,train-00000-of-00072.parquet,175,datasets/partial/WikiArt/expressionism/expressionism_0008.jpg
+WikiArt,Post_Impressionism,vincent-van-gogh,still_life,train-00000-of-00072.parquet,176,datasets/partial/WikiArt/post_impressionism/post_impressionism_0019.jpg
+WikiArt,Art_Nouveau,nicholas-roerich,Unknown Genre,train-00000-of-00072.parquet,179,datasets/partial/WikiArt/art_nouveau/art_nouveau_0011.jpg
+WikiArt,Romanticism,gustave-dore,illustration,train-00000-of-00072.parquet,180,datasets/partial/WikiArt/romanticism/romanticism_0018.jpg
+WikiArt,Northern_Renaissance,albrecht-durer,sketch_and_study,train-00000-of-00072.parquet,181,datasets/partial/WikiArt/northern_renaissance/northern_renaissance_0013.jpg
+WikiArt,Expressionism,pablo-picasso,genre_painting,train-00000-of-00072.parquet,183,datasets/partial/WikiArt/expressionism/expressionism_0009.jpg
+WikiArt,Cubism,marc-chagall,genre_painting,train-00000-of-00072.parquet,184,datasets/partial/WikiArt/cubism/cubism_0006.jpg
+WikiArt,Symbolism,nicholas-roerich,Unknown Genre,train-00000-of-00072.parquet,187,datasets/partial/WikiArt/symbolism/symbolism_0017.jpg
+WikiArt,Cubism,pablo-picasso,portrait,train-00000-of-00072.parquet,189,datasets/partial/WikiArt/cubism/cubism_0007.jpg
+WikiArt,Realism,john-singer-sargent,genre_painting,train-00000-of-00072.parquet,190,datasets/partial/WikiArt/realism/realism_0033.jpg
+WikiArt,Realism,ilya-repin,Unknown Genre,train-00000-of-00072.parquet,191,datasets/partial/WikiArt/realism/realism_0034.jpg
+WikiArt,Post_Impressionism,vincent-van-gogh,sketch_and_study,train-00000-of-00072.parquet,192,datasets/partial/WikiArt/post_impressionism/post_impressionism_0020.jpg
+WikiArt,Baroque,rembrandt,Unknown Genre,train-00000-of-00072.parquet,193,datasets/partial/WikiArt/baroque/baroque_0010.jpg
+WikiArt,Baroque,rembrandt,portrait,train-00000-of-00072.parquet,194,datasets/partial/WikiArt/baroque/baroque_0011.jpg
+WikiArt,Symbolism,nicholas-roerich,landscape,train-00000-of-00072.parquet,196,datasets/partial/WikiArt/symbolism/symbolism_0018.jpg
+WikiArt,Realism,vincent-van-gogh,sketch_and_study,train-00000-of-00072.parquet,197,datasets/partial/WikiArt/realism/realism_0035.jpg
+WikiArt,Post_Impressionism,vincent-van-gogh,portrait,train-00000-of-00072.parquet,199,datasets/partial/WikiArt/post_impressionism/post_impressionism_0021.jpg
+WikiArt,Realism,vincent-van-gogh,landscape,train-00000-of-00072.parquet,200,datasets/partial/WikiArt/realism/realism_0036.jpg
+WikiArt,Cubism,salvador-dali,nude_painting,train-00000-of-00072.parquet,201,datasets/partial/WikiArt/cubism/cubism_0008.jpg
+WikiArt,Realism,pyotr-konchalovsky,Unknown Genre,train-00000-of-00072.parquet,202,datasets/partial/WikiArt/realism/realism_0037.jpg
+WikiArt,Post_Impressionism,vincent-van-gogh,landscape,train-00000-of-00072.parquet,203,datasets/partial/WikiArt/post_impressionism/post_impressionism_0022.jpg
+WikiArt,Romanticism,gustave-dore,illustration,train-00000-of-00072.parquet,204,datasets/partial/WikiArt/romanticism/romanticism_0019.jpg
+WikiArt,Naive_Art_Primitivism,marc-chagall,religious_painting,train-00000-of-00072.parquet,205,datasets/partial/WikiArt/naive_art_primitivism/naive_art_primitivism_0009.jpg
+WikiArt,Cubism,pablo-picasso,sketch_and_study,train-00000-of-00072.parquet,206,datasets/partial/WikiArt/cubism/cubism_0009.jpg
+WikiArt,Expressionism,martiros-saryan,landscape,train-00000-of-00072.parquet,207,datasets/partial/WikiArt/expressionism/expressionism_0010.jpg
+WikiArt,Romanticism,ivan-aivazovsky,Unknown Genre,train-00000-of-00072.parquet,208,datasets/partial/WikiArt/romanticism/romanticism_0020.jpg
+WikiArt,Realism,vincent-van-gogh,sketch_and_study,train-00000-of-00072.parquet,209,datasets/partial/WikiArt/realism/realism_0038.jpg
+WikiArt,Romanticism,paul-cezanne,genre_painting,train-00000-of-00072.parquet,210,datasets/partial/WikiArt/romanticism/romanticism_0021.jpg
+WikiArt,Romanticism,ivan-aivazovsky,cityscape,train-00000-of-00072.parquet,211,datasets/partial/WikiArt/romanticism/romanticism_0022.jpg
+WikiArt,Cubism,salvador-dali,genre_painting,train-00000-of-00072.parquet,212,datasets/partial/WikiArt/cubism/cubism_0010.jpg
+WikiArt,Realism,vincent-van-gogh,sketch_and_study,train-00000-of-00072.parquet,213,datasets/partial/WikiArt/realism/realism_0039.jpg
+WikiArt,Realism,martiros-saryan,portrait,train-00000-of-00072.parquet,214,datasets/partial/WikiArt/realism/realism_0040.jpg
+WikiArt,Cubism,pyotr-konchalovsky,sketch_and_study,train-00000-of-00072.parquet,217,datasets/partial/WikiArt/cubism/cubism_0011.jpg
+WikiArt,Naive_Art_Primitivism,marc-chagall,genre_painting,train-00000-of-00072.parquet,218,datasets/partial/WikiArt/naive_art_primitivism/naive_art_primitivism_0010.jpg
+WikiArt,Romanticism,gustave-dore,illustration,train-00000-of-00072.parquet,222,datasets/partial/WikiArt/romanticism/romanticism_0023.jpg
+WikiArt,Post_Impressionism,martiros-saryan,Unknown Genre,train-00000-of-00072.parquet,223,datasets/partial/WikiArt/post_impressionism/post_impressionism_0023.jpg
+WikiArt,Post_Impressionism,pyotr-konchalovsky,Unknown Genre,train-00000-of-00072.parquet,224,datasets/partial/WikiArt/post_impressionism/post_impressionism_0024.jpg
+WikiArt,Art_Nouveau,raphael-kirchner,genre_painting,train-00000-of-00072.parquet,225,datasets/partial/WikiArt/art_nouveau/art_nouveau_0012.jpg
+WikiArt,Expressionism,pablo-picasso,genre_painting,train-00000-of-00072.parquet,229,datasets/partial/WikiArt/expressionism/expressionism_0011.jpg
+WikiArt,Northern_Renaissance,Unknown Artist,Unknown Genre,train-00000-of-00072.parquet,231,datasets/partial/WikiArt/northern_renaissance/northern_renaissance_0014.jpg
+WikiArt,Romanticism,gustave-dore,illustration,train-00000-of-00072.parquet,232,datasets/partial/WikiArt/romanticism/romanticism_0024.jpg
+WikiArt,Art_Nouveau,nicholas-roerich,Unknown Genre,train-00000-of-00072.parquet,234,datasets/partial/WikiArt/art_nouveau/art_nouveau_0013.jpg
+WikiArt,Art_Nouveau,raphael-kirchner,genre_painting,train-00000-of-00072.parquet,235,datasets/partial/WikiArt/art_nouveau/art_nouveau_0014.jpg
+WikiArt,Post_Impressionism,vincent-van-gogh,sketch_and_study,train-00000-of-00072.parquet,239,datasets/partial/WikiArt/post_impressionism/post_impressionism_0025.jpg
+WikiArt,Expressionism,martiros-saryan,landscape,train-00000-of-00072.parquet,240,datasets/partial/WikiArt/expressionism/expressionism_0012.jpg
+WikiArt,Art_Nouveau,nicholas-roerich,Unknown Genre,train-00000-of-00072.parquet,245,datasets/partial/WikiArt/art_nouveau/art_nouveau_0015.jpg
+WikiArt,Post_Impressionism,vincent-van-gogh,Unknown Genre,train-00000-of-00072.parquet,247,datasets/partial/WikiArt/post_impressionism/post_impressionism_0026.jpg
+WikiArt,Symbolism,nicholas-roerich,landscape,train-00000-of-00072.parquet,248,datasets/partial/WikiArt/symbolism/symbolism_0019.jpg
+WikiArt,Post_Impressionism,pyotr-konchalovsky,landscape,train-00000-of-00072.parquet,254,datasets/partial/WikiArt/post_impressionism/post_impressionism_0027.jpg
+WikiArt,Romanticism,gustave-dore,illustration,train-00000-of-00072.parquet,256,datasets/partial/WikiArt/romanticism/romanticism_0025.jpg
+WikiArt,Art_Nouveau,nicholas-roerich,genre_painting,train-00000-of-00072.parquet,257,datasets/partial/WikiArt/art_nouveau/art_nouveau_0016.jpg
+WikiArt,Post_Impressionism,vincent-van-gogh,sketch_and_study,train-00000-of-00072.parquet,258,datasets/partial/WikiArt/post_impressionism/post_impressionism_0028.jpg
+WikiArt,Fauvism,martiros-saryan,Unknown Genre,train-00000-of-00072.parquet,259,datasets/partial/WikiArt/fauvism/fauvism_0001.jpg
+WikiArt,Analytical_Cubism,pablo-picasso,still_life,train-00000-of-00072.parquet,260,datasets/partial/WikiArt/analytical_cubism/analytical_cubism_0001.jpg
+WikiArt,Romanticism,gustave-dore,religious_painting,train-00000-of-00072.parquet,268,datasets/partial/WikiArt/romanticism/romanticism_0026.jpg
+WikiArt,Romanticism,gustave-dore,illustration,train-00000-of-00072.parquet,272,datasets/partial/WikiArt/romanticism/romanticism_0027.jpg
+WikiArt,Northern_Renaissance,albrecht-durer,religious_painting,train-00000-of-00072.parquet,273,datasets/partial/WikiArt/northern_renaissance/northern_renaissance_0015.jpg
+WikiArt,Post_Impressionism,vincent-van-gogh,sketch_and_study,train-00000-of-00072.parquet,278,datasets/partial/WikiArt/post_impressionism/post_impressionism_0029.jpg
+WikiArt,Post_Impressionism,pyotr-konchalovsky,portrait,train-00000-of-00072.parquet,280,datasets/partial/WikiArt/post_impressionism/post_impressionism_0030.jpg
+WikiArt,Symbolism,nicholas-roerich,landscape,train-00000-of-00072.parquet,282,datasets/partial/WikiArt/symbolism/symbolism_0020.jpg
+WikiArt,Art_Nouveau,raphael-kirchner,Unknown Genre,train-00000-of-00072.parquet,283,datasets/partial/WikiArt/art_nouveau/art_nouveau_0017.jpg
+WikiArt,Romanticism,ivan-aivazovsky,Unknown Genre,train-00000-of-00072.parquet,285,datasets/partial/WikiArt/romanticism/romanticism_0028.jpg
+WikiArt,Baroque,rembrandt,religious_painting,train-00000-of-00072.parquet,286,datasets/partial/WikiArt/baroque/baroque_0012.jpg
+WikiArt,Expressionism,marc-chagall,genre_painting,train-00000-of-00072.parquet,287,datasets/partial/WikiArt/expressionism/expressionism_0013.jpg
+WikiArt,Art_Nouveau,boris-kustodiev,genre_painting,train-00000-of-00072.parquet,291,datasets/partial/WikiArt/art_nouveau/art_nouveau_0018.jpg
+WikiArt,Post_Impressionism,vincent-van-gogh,sketch_and_study,train-00000-of-00072.parquet,292,datasets/partial/WikiArt/post_impressionism/post_impressionism_0031.jpg
+WikiArt,Cubism,pablo-picasso,still_life,train-00000-of-00072.parquet,293,datasets/partial/WikiArt/cubism/cubism_0012.jpg
+WikiArt,Post_Impressionism,pyotr-konchalovsky,cityscape,train-00000-of-00072.parquet,298,datasets/partial/WikiArt/post_impressionism/post_impressionism_0032.jpg
+WikiArt,Expressionism,pablo-picasso,nude_painting,train-00000-of-00072.parquet,299,datasets/partial/WikiArt/expressionism/expressionism_0014.jpg
+WikiArt,Analytical_Cubism,pablo-picasso,still_life,train-00000-of-00072.parquet,302,datasets/partial/WikiArt/analytical_cubism/analytical_cubism_0002.jpg
+WikiArt,Cubism,marc-chagall,portrait,train-00000-of-00072.parquet,303,datasets/partial/WikiArt/cubism/cubism_0013.jpg
+WikiArt,Symbolism,salvador-dali,Unknown Genre,train-00000-of-00072.parquet,304,datasets/partial/WikiArt/symbolism/symbolism_0021.jpg
+WikiArt,Art_Nouveau,raphael-kirchner,genre_painting,train-00000-of-00072.parquet,310,datasets/partial/WikiArt/art_nouveau/art_nouveau_0019.jpg
+WikiArt,Art_Nouveau,raphael-kirchner,Unknown Genre,train-00000-of-00072.parquet,311,datasets/partial/WikiArt/art_nouveau/art_nouveau_0020.jpg
+WikiArt,Romanticism,ivan-aivazovsky,Unknown Genre,train-00000-of-00072.parquet,313,datasets/partial/WikiArt/romanticism/romanticism_0029.jpg
+WikiArt,Symbolism,salvador-dali,religious_painting,train-00000-of-00072.parquet,314,datasets/partial/WikiArt/symbolism/symbolism_0022.jpg
+WikiArt,Analytical_Cubism,pablo-picasso,still_life,train-00000-of-00072.parquet,315,datasets/partial/WikiArt/analytical_cubism/analytical_cubism_0003.jpg
+WikiArt,Romanticism,gustave-dore,religious_painting,train-00000-of-00072.parquet,317,datasets/partial/WikiArt/romanticism/romanticism_0030.jpg
+WikiArt,Romanticism,gustave-dore,religious_painting,train-00000-of-00072.parquet,319,datasets/partial/WikiArt/romanticism/romanticism_0031.jpg
+WikiArt,Baroque,rembrandt,religious_painting,train-00000-of-00072.parquet,322,datasets/partial/WikiArt/baroque/baroque_0013.jpg
+WikiArt,Northern_Renaissance,albrecht-durer,religious_painting,train-00000-of-00072.parquet,323,datasets/partial/WikiArt/northern_renaissance/northern_renaissance_0016.jpg
+WikiArt,Northern_Renaissance,albrecht-durer,religious_painting,train-00000-of-00072.parquet,325,datasets/partial/WikiArt/northern_renaissance/northern_renaissance_0017.jpg
+WikiArt,Symbolism,nicholas-roerich,landscape,train-00000-of-00072.parquet,326,datasets/partial/WikiArt/symbolism/symbolism_0023.jpg
+WikiArt,Romanticism,paul-cezanne,landscape,train-00000-of-00072.parquet,330,datasets/partial/WikiArt/romanticism/romanticism_0032.jpg
+WikiArt,Cubism,pablo-picasso,portrait,train-00000-of-00072.parquet,331,datasets/partial/WikiArt/cubism/cubism_0014.jpg
+WikiArt,Symbolism,nicholas-roerich,religious_painting,train-00000-of-00072.parquet,332,datasets/partial/WikiArt/symbolism/symbolism_0024.jpg
+WikiArt,Naive_Art_Primitivism,marc-chagall,sketch_and_study,train-00000-of-00072.parquet,335,datasets/partial/WikiArt/naive_art_primitivism/naive_art_primitivism_0011.jpg
+WikiArt,Northern_Renaissance,albrecht-durer,religious_painting,train-00000-of-00072.parquet,337,datasets/partial/WikiArt/northern_renaissance/northern_renaissance_0018.jpg
+WikiArt,Northern_Renaissance,Unknown Artist,Unknown Genre,train-00000-of-00072.parquet,338,datasets/partial/WikiArt/northern_renaissance/northern_renaissance_0019.jpg
+WikiArt,Art_Nouveau,nicholas-roerich,sketch_and_study,train-00000-of-00072.parquet,340,datasets/partial/WikiArt/art_nouveau/art_nouveau_0021.jpg
+WikiArt,Romanticism,ivan-aivazovsky,Unknown Genre,train-00000-of-00072.parquet,342,datasets/partial/WikiArt/romanticism/romanticism_0033.jpg
+WikiArt,Post_Impressionism,pyotr-konchalovsky,landscape,train-00000-of-00072.parquet,343,datasets/partial/WikiArt/post_impressionism/post_impressionism_0033.jpg
+WikiArt,Post_Impressionism,vincent-van-gogh,Unknown Genre,train-00000-of-00072.parquet,345,datasets/partial/WikiArt/post_impressionism/post_impressionism_0034.jpg
+WikiArt,Symbolism,nicholas-roerich,landscape,train-00000-of-00072.parquet,348,datasets/partial/WikiArt/symbolism/symbolism_0025.jpg
+WikiArt,Northern_Renaissance,Unknown Artist,Unknown Genre,train-00000-of-00072.parquet,349,datasets/partial/WikiArt/northern_renaissance/northern_renaissance_0020.jpg
+WikiArt,Post_Impressionism,paul-cezanne,portrait,train-00000-of-00072.parquet,350,datasets/partial/WikiArt/post_impressionism/post_impressionism_0035.jpg
+WikiArt,Baroque,rembrandt,Unknown Genre,train-00000-of-00072.parquet,351,datasets/partial/WikiArt/baroque/baroque_0014.jpg
+WikiArt,Post_Impressionism,pyotr-konchalovsky,genre_painting,train-00000-of-00072.parquet,352,datasets/partial/WikiArt/post_impressionism/post_impressionism_0036.jpg
+WikiArt,Art_Nouveau,nicholas-roerich,genre_painting,train-00000-of-00072.parquet,353,datasets/partial/WikiArt/art_nouveau/art_nouveau_0022.jpg
+WikiArt,Post_Impressionism,pyotr-konchalovsky,still_life,train-00000-of-00072.parquet,354,datasets/partial/WikiArt/post_impressionism/post_impressionism_0037.jpg
+WikiArt,Baroque,rembrandt,portrait,train-00000-of-00072.parquet,355,datasets/partial/WikiArt/baroque/baroque_0015.jpg
+WikiArt,Northern_Renaissance,albrecht-durer,religious_painting,train-00000-of-00072.parquet,362,datasets/partial/WikiArt/northern_renaissance/northern_renaissance_0021.jpg
+WikiArt,Cubism,paul-cezanne,landscape,train-00000-of-00072.parquet,364,datasets/partial/WikiArt/cubism/cubism_0015.jpg
+WikiArt,Naive_Art_Primitivism,marc-chagall,illustration,train-00000-of-00072.parquet,366,datasets/partial/WikiArt/naive_art_primitivism/naive_art_primitivism_0012.jpg
+WikiArt,Post_Impressionism,vincent-van-gogh,sketch_and_study,train-00000-of-00072.parquet,369,datasets/partial/WikiArt/post_impressionism/post_impressionism_0038.jpg
+WikiArt,Analytical_Cubism,pablo-picasso,still_life,train-00000-of-00072.parquet,372,datasets/partial/WikiArt/analytical_cubism/analytical_cubism_0004.jpg
+WikiArt,Romanticism,gustave-dore,religious_painting,train-00000-of-00072.parquet,376,datasets/partial/WikiArt/romanticism/romanticism_0034.jpg
+WikiArt,Northern_Renaissance,albrecht-durer,sketch_and_study,train-00000-of-00072.parquet,377,datasets/partial/WikiArt/northern_renaissance/northern_renaissance_0022.jpg
+WikiArt,Baroque,rembrandt,Unknown Genre,train-00000-of-00072.parquet,378,datasets/partial/WikiArt/baroque/baroque_0016.jpg
+WikiArt,Art_Nouveau,nicholas-roerich,Unknown Genre,train-00000-of-00072.parquet,381,datasets/partial/WikiArt/art_nouveau/art_nouveau_0023.jpg
+WikiArt,Post_Impressionism,vincent-van-gogh,landscape,train-00000-of-00072.parquet,386,datasets/partial/WikiArt/post_impressionism/post_impressionism_0039.jpg
+WikiArt,Romanticism,gustave-dore,illustration,train-00000-of-00072.parquet,388,datasets/partial/WikiArt/romanticism/romanticism_0035.jpg
+WikiArt,Symbolism,nicholas-roerich,landscape,train-00000-of-00072.parquet,389,datasets/partial/WikiArt/symbolism/symbolism_0026.jpg
+WikiArt,Art_Nouveau,raphael-kirchner,Unknown Genre,train-00000-of-00072.parquet,392,datasets/partial/WikiArt/art_nouveau/art_nouveau_0024.jpg
+WikiArt,Romanticism,gustave-dore,illustration,train-00000-of-00072.parquet,394,datasets/partial/WikiArt/romanticism/romanticism_0036.jpg
+WikiArt,Romanticism,ivan-aivazovsky,portrait,train-00000-of-00072.parquet,397,datasets/partial/WikiArt/romanticism/romanticism_0037.jpg
+WikiArt,Naive_Art_Primitivism,pablo-picasso,portrait,train-00000-of-00072.parquet,399,datasets/partial/WikiArt/naive_art_primitivism/naive_art_primitivism_0013.jpg
+WikiArt,Symbolism,nicholas-roerich,landscape,train-00000-of-00072.parquet,402,datasets/partial/WikiArt/symbolism/symbolism_0027.jpg
+WikiArt,Symbolism,nicholas-roerich,religious_painting,train-00000-of-00072.parquet,403,datasets/partial/WikiArt/symbolism/symbolism_0028.jpg
+WikiArt,Northern_Renaissance,albrecht-durer,cityscape,train-00000-of-00072.parquet,404,datasets/partial/WikiArt/northern_renaissance/northern_renaissance_0023.jpg
+WikiArt,Expressionism,martiros-saryan,sketch_and_study,train-00000-of-00072.parquet,405,datasets/partial/WikiArt/expressionism/expressionism_0015.jpg
+WikiArt,Expressionism,pablo-picasso,portrait,train-00000-of-00072.parquet,406,datasets/partial/WikiArt/expressionism/expressionism_0016.jpg
+WikiArt,Art_Nouveau,nicholas-roerich,cityscape,train-00000-of-00072.parquet,410,datasets/partial/WikiArt/art_nouveau/art_nouveau_0025.jpg
+WikiArt,Baroque,rembrandt,sketch_and_study,train-00000-of-00072.parquet,412,datasets/partial/WikiArt/baroque/baroque_0017.jpg
+WikiArt,Symbolism,nicholas-roerich,landscape,train-00000-of-00072.parquet,414,datasets/partial/WikiArt/symbolism/symbolism_0029.jpg
+WikiArt,Post_Impressionism,vincent-van-gogh,sketch_and_study,train-00000-of-00072.parquet,415,datasets/partial/WikiArt/post_impressionism/post_impressionism_0040.jpg
+WikiArt,Baroque,rembrandt,portrait,train-00000-of-00072.parquet,417,datasets/partial/WikiArt/baroque/baroque_0018.jpg
+WikiArt,Naive_Art_Primitivism,marc-chagall,religious_painting,train-00000-of-00072.parquet,420,datasets/partial/WikiArt/naive_art_primitivism/naive_art_primitivism_0014.jpg
+WikiArt,Baroque,rembrandt,religious_painting,train-00000-of-00072.parquet,425,datasets/partial/WikiArt/baroque/baroque_0019.jpg
+WikiArt,Romanticism,gustave-dore,religious_painting,train-00000-of-00072.parquet,426,datasets/partial/WikiArt/romanticism/romanticism_0038.jpg
+WikiArt,Baroque,rembrandt,landscape,train-00000-of-00072.parquet,428,datasets/partial/WikiArt/baroque/baroque_0020.jpg
+WikiArt,Northern_Renaissance,albrecht-durer,religious_painting,train-00000-of-00072.parquet,433,datasets/partial/WikiArt/northern_renaissance/northern_renaissance_0024.jpg
+WikiArt,Northern_Renaissance,albrecht-durer,portrait,train-00000-of-00072.parquet,435,datasets/partial/WikiArt/northern_renaissance/northern_renaissance_0025.jpg
+WikiArt,Romanticism,ivan-aivazovsky,landscape,train-00000-of-00072.parquet,439,datasets/partial/WikiArt/romanticism/romanticism_0039.jpg
+WikiArt,Expressionism,martiros-saryan,landscape,train-00000-of-00072.parquet,441,datasets/partial/WikiArt/expressionism/expressionism_0017.jpg
+WikiArt,Expressionism,salvador-dali,genre_painting,train-00000-of-00072.parquet,444,datasets/partial/WikiArt/expressionism/expressionism_0018.jpg
+WikiArt,Northern_Renaissance,albrecht-durer,portrait,train-00000-of-00072.parquet,445,datasets/partial/WikiArt/northern_renaissance/northern_renaissance_0026.jpg
+WikiArt,Expressionism,martiros-saryan,still_life,train-00000-of-00072.parquet,446,datasets/partial/WikiArt/expressionism/expressionism_0019.jpg
+WikiArt,Expressionism,martiros-saryan,illustration,train-00000-of-00072.parquet,448,datasets/partial/WikiArt/expressionism/expressionism_0020.jpg
+WikiArt,Symbolism,nicholas-roerich,landscape,train-00000-of-00072.parquet,449,datasets/partial/WikiArt/symbolism/symbolism_0030.jpg
+WikiArt,Art_Nouveau,nicholas-roerich,Unknown Genre,train-00000-of-00072.parquet,454,datasets/partial/WikiArt/art_nouveau/art_nouveau_0026.jpg
+WikiArt,Northern_Renaissance,Unknown Artist,Unknown Genre,train-00000-of-00072.parquet,456,datasets/partial/WikiArt/northern_renaissance/northern_renaissance_0027.jpg
+WikiArt,Northern_Renaissance,albrecht-durer,religious_painting,train-00000-of-00072.parquet,457,datasets/partial/WikiArt/northern_renaissance/northern_renaissance_0028.jpg
+WikiArt,Art_Nouveau,nicholas-roerich,genre_painting,train-00000-of-00072.parquet,458,datasets/partial/WikiArt/art_nouveau/art_nouveau_0027.jpg
+WikiArt,Symbolism,nicholas-roerich,Unknown Genre,train-00000-of-00072.parquet,459,datasets/partial/WikiArt/symbolism/symbolism_0031.jpg
+WikiArt,Cubism,pablo-picasso,portrait,train-00000-of-00072.parquet,460,datasets/partial/WikiArt/cubism/cubism_0016.jpg
+WikiArt,Romanticism,gustave-dore,illustration,train-00000-of-00072.parquet,464,datasets/partial/WikiArt/romanticism/romanticism_0040.jpg
+WikiArt,Synthetic_Cubism,pablo-picasso,still_life,train-00000-of-00072.parquet,465,datasets/partial/WikiArt/synthetic_cubism/synthetic_cubism_0001.jpg
+WikiArt,Northern_Renaissance,albrecht-durer,religious_painting,train-00000-of-00072.parquet,466,datasets/partial/WikiArt/northern_renaissance/northern_renaissance_0029.jpg
+WikiArt,Baroque,rembrandt,portrait,train-00000-of-00072.parquet,470,datasets/partial/WikiArt/baroque/baroque_0021.jpg
+WikiArt,Naive_Art_Primitivism,boris-kustodiev,Unknown Genre,train-00000-of-00072.parquet,475,datasets/partial/WikiArt/naive_art_primitivism/naive_art_primitivism_0015.jpg
+WikiArt,Art_Nouveau,raphael-kirchner,nude_painting,train-00000-of-00072.parquet,476,datasets/partial/WikiArt/art_nouveau/art_nouveau_0028.jpg
+WikiArt,Expressionism,salvador-dali,nude_painting,train-00000-of-00072.parquet,482,datasets/partial/WikiArt/expressionism/expressionism_0021.jpg
+WikiArt,Symbolism,nicholas-roerich,landscape,train-00000-of-00072.parquet,484,datasets/partial/WikiArt/symbolism/symbolism_0032.jpg
+WikiArt,Northern_Renaissance,albrecht-durer,religious_painting,train-00000-of-00072.parquet,487,datasets/partial/WikiArt/northern_renaissance/northern_renaissance_0030.jpg
+WikiArt,Symbolism,nicholas-roerich,landscape,train-00000-of-00072.parquet,488,datasets/partial/WikiArt/symbolism/symbolism_0033.jpg
+WikiArt,Art_Nouveau,boris-kustodiev,genre_painting,train-00000-of-00072.parquet,489,datasets/partial/WikiArt/art_nouveau/art_nouveau_0029.jpg
+WikiArt,Expressionism,martiros-saryan,sketch_and_study,train-00000-of-00072.parquet,491,datasets/partial/WikiArt/expressionism/expressionism_0022.jpg
+WikiArt,Baroque,rembrandt,landscape,train-00000-of-00072.parquet,494,datasets/partial/WikiArt/baroque/baroque_0022.jpg
+WikiArt,Symbolism,nicholas-roerich,genre_painting,train-00000-of-00072.parquet,496,datasets/partial/WikiArt/symbolism/symbolism_0034.jpg
+WikiArt,Naive_Art_Primitivism,martiros-saryan,illustration,train-00000-of-00072.parquet,501,datasets/partial/WikiArt/naive_art_primitivism/naive_art_primitivism_0016.jpg
+WikiArt,Cubism,salvador-dali,still_life,train-00000-of-00072.parquet,505,datasets/partial/WikiArt/cubism/cubism_0017.jpg
+WikiArt,Art_Nouveau,raphael-kirchner,Unknown Genre,train-00000-of-00072.parquet,511,datasets/partial/WikiArt/art_nouveau/art_nouveau_0030.jpg
+WikiArt,Symbolism,nicholas-roerich,landscape,train-00000-of-00072.parquet,513,datasets/partial/WikiArt/symbolism/symbolism_0035.jpg
+WikiArt,Symbolism,nicholas-roerich,landscape,train-00000-of-00072.parquet,515,datasets/partial/WikiArt/symbolism/symbolism_0036.jpg
+WikiArt,Art_Nouveau,raphael-kirchner,Unknown Genre,train-00000-of-00072.parquet,521,datasets/partial/WikiArt/art_nouveau/art_nouveau_0031.jpg
+WikiArt,Northern_Renaissance,albrecht-durer,sketch_and_study,train-00000-of-00072.parquet,523,datasets/partial/WikiArt/northern_renaissance/northern_renaissance_0031.jpg
+WikiArt,Symbolism,nicholas-roerich,Unknown Genre,train-00000-of-00072.parquet,527,datasets/partial/WikiArt/symbolism/symbolism_0037.jpg
+WikiArt,Expressionism,pyotr-konchalovsky,portrait,train-00000-of-00072.parquet,531,datasets/partial/WikiArt/expressionism/expressionism_0023.jpg
+WikiArt,Symbolism,nicholas-roerich,religious_painting,train-00000-of-00072.parquet,533,datasets/partial/WikiArt/symbolism/symbolism_0038.jpg
+WikiArt,Cubism,pyotr-konchalovsky,still_life,train-00000-of-00072.parquet,536,datasets/partial/WikiArt/cubism/cubism_0018.jpg
+WikiArt,Cubism,pablo-picasso,still_life,train-00000-of-00072.parquet,542,datasets/partial/WikiArt/cubism/cubism_0019.jpg
+WikiArt,Symbolism,nicholas-roerich,genre_painting,train-00000-of-00072.parquet,546,datasets/partial/WikiArt/symbolism/symbolism_0039.jpg
+WikiArt,Naive_Art_Primitivism,boris-kustodiev,genre_painting,train-00000-of-00072.parquet,556,datasets/partial/WikiArt/naive_art_primitivism/naive_art_primitivism_0017.jpg
+WikiArt,Pointillism,camille-pissarro,landscape,train-00000-of-00072.parquet,559,datasets/partial/WikiArt/pointillism/pointillism_0001.jpg
+WikiArt,Art_Nouveau,nicholas-roerich,Unknown Genre,train-00000-of-00072.parquet,561,datasets/partial/WikiArt/art_nouveau/art_nouveau_0032.jpg
+WikiArt,Northern_Renaissance,albrecht-durer,sketch_and_study,train-00000-of-00072.parquet,562,datasets/partial/WikiArt/northern_renaissance/northern_renaissance_0032.jpg
+WikiArt,Northern_Renaissance,Unknown Artist,Unknown Genre,train-00000-of-00072.parquet,564,datasets/partial/WikiArt/northern_renaissance/northern_renaissance_0033.jpg
+WikiArt,Northern_Renaissance,albrecht-durer,religious_painting,train-00000-of-00072.parquet,566,datasets/partial/WikiArt/northern_renaissance/northern_renaissance_0034.jpg
+WikiArt,Cubism,pyotr-konchalovsky,still_life,train-00000-of-00072.parquet,567,datasets/partial/WikiArt/cubism/cubism_0020.jpg
+WikiArt,Expressionism,martiros-saryan,Unknown Genre,train-00000-of-00072.parquet,568,datasets/partial/WikiArt/expressionism/expressionism_0024.jpg
+WikiArt,Symbolism,martiros-saryan,landscape,train-00000-of-00072.parquet,571,datasets/partial/WikiArt/symbolism/symbolism_0040.jpg
+WikiArt,Art_Nouveau,nicholas-roerich,Unknown Genre,train-00000-of-00072.parquet,572,datasets/partial/WikiArt/art_nouveau/art_nouveau_0033.jpg
+WikiArt,Art_Nouveau,nicholas-roerich,landscape,train-00000-of-00072.parquet,581,datasets/partial/WikiArt/art_nouveau/art_nouveau_0034.jpg
+WikiArt,Expressionism,martiros-saryan,still_life,train-00000-of-00072.parquet,590,datasets/partial/WikiArt/expressionism/expressionism_0025.jpg
+WikiArt,Northern_Renaissance,albrecht-durer,religious_painting,train-00000-of-00072.parquet,597,datasets/partial/WikiArt/northern_renaissance/northern_renaissance_0035.jpg
+WikiArt,Baroque,rembrandt,portrait,train-00000-of-00072.parquet,598,datasets/partial/WikiArt/baroque/baroque_0023.jpg
+WikiArt,Synthetic_Cubism,pablo-picasso,still_life,train-00000-of-00072.parquet,605,datasets/partial/WikiArt/synthetic_cubism/synthetic_cubism_0002.jpg
+WikiArt,Naive_Art_Primitivism,marc-chagall,genre_painting,train-00000-of-00072.parquet,608,datasets/partial/WikiArt/naive_art_primitivism/naive_art_primitivism_0018.jpg
+WikiArt,Naive_Art_Primitivism,marc-chagall,sketch_and_study,train-00000-of-00072.parquet,612,datasets/partial/WikiArt/naive_art_primitivism/naive_art_primitivism_0019.jpg
+WikiArt,Expressionism,pyotr-konchalovsky,portrait,train-00000-of-00072.parquet,618,datasets/partial/WikiArt/expressionism/expressionism_0026.jpg
+WikiArt,Northern_Renaissance,albrecht-durer,nude_painting,train-00000-of-00072.parquet,619,datasets/partial/WikiArt/northern_renaissance/northern_renaissance_0036.jpg
+WikiArt,Expressionism,salvador-dali,genre_painting,train-00000-of-00072.parquet,621,datasets/partial/WikiArt/expressionism/expressionism_0027.jpg
+WikiArt,Art_Nouveau,raphael-kirchner,Unknown Genre,train-00000-of-00072.parquet,625,datasets/partial/WikiArt/art_nouveau/art_nouveau_0035.jpg
+WikiArt,Baroque,rembrandt,genre_painting,train-00000-of-00072.parquet,628,datasets/partial/WikiArt/baroque/baroque_0024.jpg
+WikiArt,Northern_Renaissance,Unknown Artist,Unknown Genre,train-00000-of-00072.parquet,630,datasets/partial/WikiArt/northern_renaissance/northern_renaissance_0037.jpg
+WikiArt,Expressionism,martiros-saryan,sketch_and_study,train-00000-of-00072.parquet,633,datasets/partial/WikiArt/expressionism/expressionism_0028.jpg
+WikiArt,Cubism,pyotr-konchalovsky,portrait,train-00000-of-00072.parquet,636,datasets/partial/WikiArt/cubism/cubism_0021.jpg
+WikiArt,Northern_Renaissance,albrecht-durer,sketch_and_study,train-00000-of-00072.parquet,641,datasets/partial/WikiArt/northern_renaissance/northern_renaissance_0038.jpg
+WikiArt,Baroque,rembrandt,religious_painting,train-00000-of-00072.parquet,645,datasets/partial/WikiArt/baroque/baroque_0025.jpg
+WikiArt,Analytical_Cubism,pablo-picasso,genre_painting,train-00000-of-00072.parquet,647,datasets/partial/WikiArt/analytical_cubism/analytical_cubism_0005.jpg
+WikiArt,Northern_Renaissance,albrecht-durer,religious_painting,train-00000-of-00072.parquet,648,datasets/partial/WikiArt/northern_renaissance/northern_renaissance_0039.jpg
+WikiArt,Baroque,rembrandt,religious_painting,train-00000-of-00072.parquet,657,datasets/partial/WikiArt/baroque/baroque_0026.jpg
+WikiArt,Baroque,rembrandt,sketch_and_study,train-00000-of-00072.parquet,658,datasets/partial/WikiArt/baroque/baroque_0027.jpg
+WikiArt,Northern_Renaissance,albrecht-durer,religious_painting,train-00000-of-00072.parquet,659,datasets/partial/WikiArt/northern_renaissance/northern_renaissance_0040.jpg
+WikiArt,Naive_Art_Primitivism,marc-chagall,religious_painting,train-00000-of-00072.parquet,663,datasets/partial/WikiArt/naive_art_primitivism/naive_art_primitivism_0020.jpg
+WikiArt,Art_Nouveau,nicholas-roerich,cityscape,train-00000-of-00072.parquet,670,datasets/partial/WikiArt/art_nouveau/art_nouveau_0036.jpg
+WikiArt,Expressionism,martiros-saryan,illustration,train-00000-of-00072.parquet,675,datasets/partial/WikiArt/expressionism/expressionism_0029.jpg
+WikiArt,Art_Nouveau,nicholas-roerich,illustration,train-00000-of-00072.parquet,679,datasets/partial/WikiArt/art_nouveau/art_nouveau_0037.jpg
+WikiArt,Expressionism,pablo-picasso,genre_painting,train-00000-of-00072.parquet,681,datasets/partial/WikiArt/expressionism/expressionism_0030.jpg
+WikiArt,Art_Nouveau,nicholas-roerich,Unknown Genre,train-00000-of-00072.parquet,683,datasets/partial/WikiArt/art_nouveau/art_nouveau_0038.jpg
+WikiArt,Expressionism,martiros-saryan,portrait,train-00000-of-00072.parquet,693,datasets/partial/WikiArt/expressionism/expressionism_0031.jpg
+WikiArt,Cubism,marc-chagall,landscape,train-00000-of-00072.parquet,697,datasets/partial/WikiArt/cubism/cubism_0022.jpg
+WikiArt,Naive_Art_Primitivism,marc-chagall,genre_painting,train-00000-of-00072.parquet,707,datasets/partial/WikiArt/naive_art_primitivism/naive_art_primitivism_0021.jpg
+WikiArt,Art_Nouveau,raphael-kirchner,nude_painting,train-00000-of-00072.parquet,711,datasets/partial/WikiArt/art_nouveau/art_nouveau_0039.jpg
+WikiArt,Expressionism,pablo-picasso,Unknown Genre,train-00000-of-00072.parquet,716,datasets/partial/WikiArt/expressionism/expressionism_0032.jpg
+WikiArt,Art_Nouveau,raphael-kirchner,Unknown Genre,train-00000-of-00072.parquet,718,datasets/partial/WikiArt/art_nouveau/art_nouveau_0040.jpg
+WikiArt,Expressionism,pablo-picasso,portrait,train-00000-of-00072.parquet,721,datasets/partial/WikiArt/expressionism/expressionism_0033.jpg
+WikiArt,Baroque,rembrandt,portrait,train-00000-of-00072.parquet,724,datasets/partial/WikiArt/baroque/baroque_0028.jpg
+WikiArt,Baroque,rembrandt,portrait,train-00000-of-00072.parquet,733,datasets/partial/WikiArt/baroque/baroque_0029.jpg
+WikiArt,Expressionism,marc-chagall,genre_painting,train-00000-of-00072.parquet,737,datasets/partial/WikiArt/expressionism/expressionism_0034.jpg
+WikiArt,Naive_Art_Primitivism,marc-chagall,illustration,train-00000-of-00072.parquet,743,datasets/partial/WikiArt/naive_art_primitivism/naive_art_primitivism_0022.jpg
+WikiArt,Cubism,paul-cezanne,landscape,train-00000-of-00072.parquet,754,datasets/partial/WikiArt/cubism/cubism_0023.jpg
+WikiArt,Pointillism,camille-pissarro,cityscape,train-00000-of-00072.parquet,759,datasets/partial/WikiArt/pointillism/pointillism_0002.jpg
+WikiArt,Naive_Art_Primitivism,marc-chagall,Unknown Genre,train-00000-of-00072.parquet,762,datasets/partial/WikiArt/naive_art_primitivism/naive_art_primitivism_0023.jpg
+WikiArt,Baroque,rembrandt,portrait,train-00000-of-00072.parquet,769,datasets/partial/WikiArt/baroque/baroque_0030.jpg
+WikiArt,Expressionism,marc-chagall,genre_painting,train-00000-of-00072.parquet,776,datasets/partial/WikiArt/expressionism/expressionism_0035.jpg
+WikiArt,Expressionism,martiros-saryan,genre_painting,train-00000-of-00072.parquet,779,datasets/partial/WikiArt/expressionism/expressionism_0036.jpg
+WikiArt,Expressionism,salvador-dali,portrait,train-00000-of-00072.parquet,791,datasets/partial/WikiArt/expressionism/expressionism_0037.jpg
+WikiArt,Baroque,rembrandt,portrait,train-00000-of-00072.parquet,793,datasets/partial/WikiArt/baroque/baroque_0031.jpg
+WikiArt,Baroque,rembrandt,religious_painting,train-00000-of-00072.parquet,799,datasets/partial/WikiArt/baroque/baroque_0032.jpg
+WikiArt,Expressionism,salvador-dali,portrait,train-00000-of-00072.parquet,800,datasets/partial/WikiArt/expressionism/expressionism_0038.jpg
+WikiArt,Baroque,rembrandt,portrait,train-00000-of-00072.parquet,804,datasets/partial/WikiArt/baroque/baroque_0033.jpg
+WikiArt,Cubism,pyotr-konchalovsky,still_life,train-00000-of-00072.parquet,810,datasets/partial/WikiArt/cubism/cubism_0024.jpg
+WikiArt,Expressionism,pyotr-konchalovsky,cityscape,train-00000-of-00072.parquet,824,datasets/partial/WikiArt/expressionism/expressionism_0039.jpg
+WikiArt,Cubism,pablo-picasso,still_life,train-00000-of-00072.parquet,826,datasets/partial/WikiArt/cubism/cubism_0025.jpg
+WikiArt,Naive_Art_Primitivism,marc-chagall,religious_painting,train-00000-of-00072.parquet,828,datasets/partial/WikiArt/naive_art_primitivism/naive_art_primitivism_0024.jpg
+WikiArt,Cubism,pablo-picasso,still_life,train-00000-of-00072.parquet,831,datasets/partial/WikiArt/cubism/cubism_0026.jpg
+WikiArt,Cubism,pablo-picasso,Unknown Genre,train-00000-of-00072.parquet,838,datasets/partial/WikiArt/cubism/cubism_0027.jpg
+WikiArt,Cubism,pablo-picasso,Unknown Genre,train-00000-of-00072.parquet,843,datasets/partial/WikiArt/cubism/cubism_0028.jpg
+WikiArt,Expressionism,salvador-dali,portrait,train-00000-of-00072.parquet,847,datasets/partial/WikiArt/expressionism/expressionism_0040.jpg
+WikiArt,Naive_Art_Primitivism,marc-chagall,genre_painting,train-00000-of-00072.parquet,862,datasets/partial/WikiArt/naive_art_primitivism/naive_art_primitivism_0025.jpg
+WikiArt,Baroque,rembrandt,genre_painting,train-00000-of-00072.parquet,863,datasets/partial/WikiArt/baroque/baroque_0034.jpg
+WikiArt,Analytical_Cubism,pablo-picasso,genre_painting,train-00000-of-00072.parquet,867,datasets/partial/WikiArt/analytical_cubism/analytical_cubism_0006.jpg
+WikiArt,Baroque,rembrandt,portrait,train-00000-of-00072.parquet,877,datasets/partial/WikiArt/baroque/baroque_0035.jpg
+WikiArt,Naive_Art_Primitivism,marc-chagall,illustration,train-00000-of-00072.parquet,891,datasets/partial/WikiArt/naive_art_primitivism/naive_art_primitivism_0026.jpg
+WikiArt,Cubism,salvador-dali,still_life,train-00000-of-00072.parquet,900,datasets/partial/WikiArt/cubism/cubism_0029.jpg
+WikiArt,Baroque,rembrandt,portrait,train-00000-of-00072.parquet,901,datasets/partial/WikiArt/baroque/baroque_0036.jpg
+WikiArt,Baroque,rembrandt,religious_painting,train-00000-of-00072.parquet,906,datasets/partial/WikiArt/baroque/baroque_0037.jpg
+WikiArt,Baroque,rembrandt,sketch_and_study,train-00000-of-00072.parquet,927,datasets/partial/WikiArt/baroque/baroque_0038.jpg
+WikiArt,Cubism,pablo-picasso,portrait,train-00000-of-00072.parquet,947,datasets/partial/WikiArt/cubism/cubism_0030.jpg
+WikiArt,Naive_Art_Primitivism,marc-chagall,still_life,train-00000-of-00072.parquet,949,datasets/partial/WikiArt/naive_art_primitivism/naive_art_primitivism_0027.jpg
+WikiArt,Cubism,pablo-picasso,genre_painting,train-00000-of-00072.parquet,960,datasets/partial/WikiArt/cubism/cubism_0031.jpg
+WikiArt,Baroque,rembrandt,religious_painting,train-00000-of-00072.parquet,976,datasets/partial/WikiArt/baroque/baroque_0039.jpg
+WikiArt,Naive_Art_Primitivism,marc-chagall,illustration,train-00000-of-00072.parquet,988,datasets/partial/WikiArt/naive_art_primitivism/naive_art_primitivism_0028.jpg
+WikiArt,Baroque,rembrandt,religious_painting,train-00000-of-00072.parquet,995,datasets/partial/WikiArt/baroque/baroque_0040.jpg
+WikiArt,Naive_Art_Primitivism,marc-chagall,religious_painting,train-00000-of-00072.parquet,1011,datasets/partial/WikiArt/naive_art_primitivism/naive_art_primitivism_0029.jpg
+WikiArt,Naive_Art_Primitivism,marc-chagall,genre_painting,train-00000-of-00072.parquet,1020,datasets/partial/WikiArt/naive_art_primitivism/naive_art_primitivism_0030.jpg
+WikiArt,Naive_Art_Primitivism,pablo-picasso,genre_painting,train-00000-of-00072.parquet,1042,datasets/partial/WikiArt/naive_art_primitivism/naive_art_primitivism_0031.jpg
+WikiArt,Naive_Art_Primitivism,marc-chagall,religious_painting,train-00000-of-00072.parquet,1048,datasets/partial/WikiArt/naive_art_primitivism/naive_art_primitivism_0032.jpg
+WikiArt,Cubism,marc-chagall,Unknown Genre,train-00000-of-00072.parquet,1074,datasets/partial/WikiArt/cubism/cubism_0032.jpg
+WikiArt,Naive_Art_Primitivism,pablo-picasso,portrait,train-00000-of-00072.parquet,1087,datasets/partial/WikiArt/naive_art_primitivism/naive_art_primitivism_0033.jpg
+WikiArt,Pointillism,camille-pissarro,landscape,train-00000-of-00072.parquet,1088,datasets/partial/WikiArt/pointillism/pointillism_0003.jpg
+WikiArt,Cubism,pablo-picasso,genre_painting,train-00000-of-00072.parquet,1091,datasets/partial/WikiArt/cubism/cubism_0033.jpg
+WikiArt,Cubism,pyotr-konchalovsky,sketch_and_study,train-00000-of-00072.parquet,1099,datasets/partial/WikiArt/cubism/cubism_0034.jpg
+WikiArt,Cubism,pablo-picasso,portrait,train-00000-of-00072.parquet,1128,datasets/partial/WikiArt/cubism/cubism_0035.jpg
+WikiArt,Pointillism,salvador-dali,genre_painting,train-00001-of-00072.parquet,16,datasets/partial/WikiArt/pointillism/pointillism_0004.jpg
+WikiArt,Cubism,pablo-picasso,Unknown Genre,train-00001-of-00072.parquet,76,datasets/partial/WikiArt/cubism/cubism_0036.jpg
+WikiArt,Cubism,salvador-dali,genre_painting,train-00001-of-00072.parquet,80,datasets/partial/WikiArt/cubism/cubism_0037.jpg
+WikiArt,Naive_Art_Primitivism,marc-chagall,sketch_and_study,train-00001-of-00072.parquet,103,datasets/partial/WikiArt/naive_art_primitivism/naive_art_primitivism_0034.jpg
+WikiArt,Naive_Art_Primitivism,marc-chagall,Unknown Genre,train-00001-of-00072.parquet,127,datasets/partial/WikiArt/naive_art_primitivism/naive_art_primitivism_0035.jpg
+WikiArt,Naive_Art_Primitivism,marc-chagall,religious_painting,train-00001-of-00072.parquet,132,datasets/partial/WikiArt/naive_art_primitivism/naive_art_primitivism_0036.jpg
+WikiArt,Naive_Art_Primitivism,pablo-picasso,nude_painting,train-00001-of-00072.parquet,181,datasets/partial/WikiArt/naive_art_primitivism/naive_art_primitivism_0037.jpg
+WikiArt,Cubism,pablo-picasso,genre_painting,train-00001-of-00072.parquet,182,datasets/partial/WikiArt/cubism/cubism_0038.jpg
+WikiArt,Naive_Art_Primitivism,marc-chagall,religious_painting,train-00001-of-00072.parquet,185,datasets/partial/WikiArt/naive_art_primitivism/naive_art_primitivism_0038.jpg
+WikiArt,Naive_Art_Primitivism,marc-chagall,illustration,train-00001-of-00072.parquet,188,datasets/partial/WikiArt/naive_art_primitivism/naive_art_primitivism_0039.jpg
+WikiArt,Naive_Art_Primitivism,marc-chagall,Unknown Genre,train-00001-of-00072.parquet,193,datasets/partial/WikiArt/naive_art_primitivism/naive_art_primitivism_0040.jpg
+WikiArt,Fauvism,pyotr-konchalovsky,portrait,train-00001-of-00072.parquet,247,datasets/partial/WikiArt/fauvism/fauvism_0002.jpg
+WikiArt,Cubism,pyotr-konchalovsky,Unknown Genre,train-00001-of-00072.parquet,248,datasets/partial/WikiArt/cubism/cubism_0039.jpg
+WikiArt,Cubism,pablo-picasso,Unknown Genre,train-00001-of-00072.parquet,260,datasets/partial/WikiArt/cubism/cubism_0040.jpg
+WikiArt,Pointillism,camille-pissarro,genre_painting,train-00001-of-00072.parquet,292,datasets/partial/WikiArt/pointillism/pointillism_0005.jpg
+WikiArt,Synthetic_Cubism,pablo-picasso,portrait,train-00001-of-00072.parquet,294,datasets/partial/WikiArt/synthetic_cubism/synthetic_cubism_0003.jpg
+WikiArt,Fauvism,martiros-saryan,sketch_and_study,train-00001-of-00072.parquet,314,datasets/partial/WikiArt/fauvism/fauvism_0003.jpg
+WikiArt,Synthetic_Cubism,pablo-picasso,still_life,train-00001-of-00072.parquet,527,datasets/partial/WikiArt/synthetic_cubism/synthetic_cubism_0004.jpg
+WikiArt,Synthetic_Cubism,pablo-picasso,still_life,train-00001-of-00072.parquet,786,datasets/partial/WikiArt/synthetic_cubism/synthetic_cubism_0005.jpg
+WikiArt,Analytical_Cubism,pablo-picasso,nude_painting,train-00001-of-00072.parquet,881,datasets/partial/WikiArt/analytical_cubism/analytical_cubism_0007.jpg
+WikiArt,Fauvism,pyotr-konchalovsky,Unknown Genre,train-00001-of-00072.parquet,912,datasets/partial/WikiArt/fauvism/fauvism_0004.jpg
+WikiArt,Pointillism,camille-pissarro,landscape,train-00001-of-00072.parquet,1017,datasets/partial/WikiArt/pointillism/pointillism_0006.jpg
+WikiArt,Pointillism,camille-pissarro,genre_painting,train-00003-of-00072.parquet,213,datasets/partial/WikiArt/pointillism/pointillism_0007.jpg
+WikiArt,Pointillism,camille-pissarro,landscape,train-00003-of-00072.parquet,232,datasets/partial/WikiArt/pointillism/pointillism_0008.jpg
+WikiArt,Synthetic_Cubism,pablo-picasso,still_life,train-00003-of-00072.parquet,395,datasets/partial/WikiArt/synthetic_cubism/synthetic_cubism_0006.jpg
+WikiArt,Synthetic_Cubism,pablo-picasso,still_life,train-00003-of-00072.parquet,513,datasets/partial/WikiArt/synthetic_cubism/synthetic_cubism_0007.jpg
+WikiArt,Fauvism,pyotr-konchalovsky,nude_painting,train-00003-of-00072.parquet,538,datasets/partial/WikiArt/fauvism/fauvism_0005.jpg
+WikiArt,Fauvism,pyotr-konchalovsky,landscape,train-00003-of-00072.parquet,630,datasets/partial/WikiArt/fauvism/fauvism_0006.jpg
+WikiArt,Fauvism,martiros-saryan,landscape,train-00003-of-00072.parquet,660,datasets/partial/WikiArt/fauvism/fauvism_0007.jpg
+WikiArt,Analytical_Cubism,pablo-picasso,still_life,train-00003-of-00072.parquet,725,datasets/partial/WikiArt/analytical_cubism/analytical_cubism_0008.jpg
+WikiArt,Analytical_Cubism,pablo-picasso,genre_painting,train-00003-of-00072.parquet,911,datasets/partial/WikiArt/analytical_cubism/analytical_cubism_0009.jpg
+WikiArt,Synthetic_Cubism,pablo-picasso,still_life,train-00003-of-00072.parquet,1098,datasets/partial/WikiArt/synthetic_cubism/synthetic_cubism_0008.jpg
+WikiArt,Synthetic_Cubism,pablo-picasso,still_life,train-00004-of-00072.parquet,3,datasets/partial/WikiArt/synthetic_cubism/synthetic_cubism_0009.jpg
+WikiArt,Pointillism,camille-pissarro,landscape,train-00004-of-00072.parquet,79,datasets/partial/WikiArt/pointillism/pointillism_0009.jpg
+WikiArt,Pointillism,camille-pissarro,portrait,train-00004-of-00072.parquet,323,datasets/partial/WikiArt/pointillism/pointillism_0010.jpg
+WikiArt,Synthetic_Cubism,pablo-picasso,still_life,train-00004-of-00072.parquet,448,datasets/partial/WikiArt/synthetic_cubism/synthetic_cubism_0010.jpg
+WikiArt,Fauvism,martiros-saryan,sketch_and_study,train-00004-of-00072.parquet,712,datasets/partial/WikiArt/fauvism/fauvism_0008.jpg
+WikiArt,Analytical_Cubism,pablo-picasso,genre_painting,train-00004-of-00072.parquet,716,datasets/partial/WikiArt/analytical_cubism/analytical_cubism_0010.jpg
+WikiArt,Analytical_Cubism,pablo-picasso,genre_painting,train-00004-of-00072.parquet,771,datasets/partial/WikiArt/analytical_cubism/analytical_cubism_0011.jpg
+WikiArt,Synthetic_Cubism,pablo-picasso,genre_painting,train-00004-of-00072.parquet,893,datasets/partial/WikiArt/synthetic_cubism/synthetic_cubism_0011.jpg
+WikiArt,Fauvism,martiros-saryan,still_life,train-00004-of-00072.parquet,965,datasets/partial/WikiArt/fauvism/fauvism_0009.jpg
+WikiArt,Pointillism,camille-pissarro,landscape,train-00004-of-00072.parquet,996,datasets/partial/WikiArt/pointillism/pointillism_0011.jpg
+WikiArt,Synthetic_Cubism,pablo-picasso,still_life,train-00004-of-00072.parquet,1072,datasets/partial/WikiArt/synthetic_cubism/synthetic_cubism_0012.jpg
+WikiArt,Synthetic_Cubism,pablo-picasso,still_life,train-00006-of-00072.parquet,75,datasets/partial/WikiArt/synthetic_cubism/synthetic_cubism_0013.jpg
+WikiArt,Fauvism,pyotr-konchalovsky,sketch_and_study,train-00006-of-00072.parquet,112,datasets/partial/WikiArt/fauvism/fauvism_0010.jpg
+WikiArt,Pointillism,camille-pissarro,landscape,train-00006-of-00072.parquet,131,datasets/partial/WikiArt/pointillism/pointillism_0012.jpg
+WikiArt,Synthetic_Cubism,pablo-picasso,still_life,train-00006-of-00072.parquet,312,datasets/partial/WikiArt/synthetic_cubism/synthetic_cubism_0014.jpg
+WikiArt,Pointillism,camille-pissarro,genre_painting,train-00006-of-00072.parquet,336,datasets/partial/WikiArt/pointillism/pointillism_0013.jpg
+WikiArt,Synthetic_Cubism,pablo-picasso,still_life,train-00006-of-00072.parquet,355,datasets/partial/WikiArt/synthetic_cubism/synthetic_cubism_0015.jpg
+WikiArt,Analytical_Cubism,pablo-picasso,still_life,train-00006-of-00072.parquet,368,datasets/partial/WikiArt/analytical_cubism/analytical_cubism_0012.jpg
+WikiArt,Synthetic_Cubism,pablo-picasso,still_life,train-00006-of-00072.parquet,482,datasets/partial/WikiArt/synthetic_cubism/synthetic_cubism_0016.jpg
+WikiArt,Synthetic_Cubism,pablo-picasso,still_life,train-00006-of-00072.parquet,522,datasets/partial/WikiArt/synthetic_cubism/synthetic_cubism_0017.jpg
+WikiArt,Pointillism,camille-pissarro,genre_painting,train-00006-of-00072.parquet,943,datasets/partial/WikiArt/pointillism/pointillism_0014.jpg
+WikiArt,Pointillism,camille-pissarro,genre_painting,train-00007-of-00072.parquet,112,datasets/partial/WikiArt/pointillism/pointillism_0015.jpg
+WikiArt,Synthetic_Cubism,pablo-picasso,portrait,train-00007-of-00072.parquet,180,datasets/partial/WikiArt/synthetic_cubism/synthetic_cubism_0018.jpg
+WikiArt,Synthetic_Cubism,pablo-picasso,still_life,train-00007-of-00072.parquet,240,datasets/partial/WikiArt/synthetic_cubism/synthetic_cubism_0019.jpg
+WikiArt,Pointillism,camille-pissarro,genre_painting,train-00007-of-00072.parquet,380,datasets/partial/WikiArt/pointillism/pointillism_0016.jpg
+WikiArt,Analytical_Cubism,pablo-picasso,still_life,train-00007-of-00072.parquet,441,datasets/partial/WikiArt/analytical_cubism/analytical_cubism_0013.jpg
+WikiArt,Synthetic_Cubism,pablo-picasso,portrait,train-00007-of-00072.parquet,606,datasets/partial/WikiArt/synthetic_cubism/synthetic_cubism_0020.jpg
+WikiArt,Pointillism,camille-pissarro,landscape,train-00007-of-00072.parquet,717,datasets/partial/WikiArt/pointillism/pointillism_0017.jpg
+WikiArt,Analytical_Cubism,pablo-picasso,genre_painting,train-00007-of-00072.parquet,742,datasets/partial/WikiArt/analytical_cubism/analytical_cubism_0014.jpg
+WikiArt,Analytical_Cubism,pablo-picasso,nude_painting,train-00007-of-00072.parquet,824,datasets/partial/WikiArt/analytical_cubism/analytical_cubism_0015.jpg
+WikiArt,Fauvism,pyotr-konchalovsky,Unknown Genre,train-00007-of-00072.parquet,875,datasets/partial/WikiArt/fauvism/fauvism_0011.jpg
+WikiArt,Fauvism,martiros-saryan,Unknown Genre,train-00007-of-00072.parquet,1048,datasets/partial/WikiArt/fauvism/fauvism_0012.jpg
+WikiArt,Analytical_Cubism,pablo-picasso,portrait,train-00008-of-00072.parquet,85,datasets/partial/WikiArt/analytical_cubism/analytical_cubism_0016.jpg
+WikiArt,Pointillism,camille-pissarro,cityscape,train-00008-of-00072.parquet,164,datasets/partial/WikiArt/pointillism/pointillism_0018.jpg
+WikiArt,Fauvism,pyotr-konchalovsky,portrait,train-00008-of-00072.parquet,343,datasets/partial/WikiArt/fauvism/fauvism_0013.jpg
+WikiArt,Synthetic_Cubism,pablo-picasso,still_life,train-00008-of-00072.parquet,463,datasets/partial/WikiArt/synthetic_cubism/synthetic_cubism_0021.jpg
+WikiArt,Fauvism,pyotr-konchalovsky,landscape,train-00008-of-00072.parquet,606,datasets/partial/WikiArt/fauvism/fauvism_0014.jpg
+WikiArt,Pointillism,salvador-dali,cityscape,train-00008-of-00072.parquet,613,datasets/partial/WikiArt/pointillism/pointillism_0019.jpg
+WikiArt,Analytical_Cubism,pablo-picasso,genre_painting,train-00008-of-00072.parquet,618,datasets/partial/WikiArt/analytical_cubism/analytical_cubism_0017.jpg
+WikiArt,Analytical_Cubism,pablo-picasso,landscape,train-00008-of-00072.parquet,686,datasets/partial/WikiArt/analytical_cubism/analytical_cubism_0018.jpg
+WikiArt,Pointillism,camille-pissarro,landscape,train-00008-of-00072.parquet,810,datasets/partial/WikiArt/pointillism/pointillism_0020.jpg
+WikiArt,Pointillism,camille-pissarro,genre_painting,train-00008-of-00072.parquet,813,datasets/partial/WikiArt/pointillism/pointillism_0021.jpg
+WikiArt,Fauvism,pyotr-konchalovsky,sketch_and_study,train-00008-of-00072.parquet,860,datasets/partial/WikiArt/fauvism/fauvism_0015.jpg
+WikiArt,Fauvism,martiros-saryan,cityscape,train-00008-of-00072.parquet,970,datasets/partial/WikiArt/fauvism/fauvism_0016.jpg
+WikiArt,Fauvism,pyotr-konchalovsky,still_life,train-00008-of-00072.parquet,1107,datasets/partial/WikiArt/fauvism/fauvism_0017.jpg
+WikiArt,Pointillism,salvador-dali,portrait,train-00009-of-00072.parquet,91,datasets/partial/WikiArt/pointillism/pointillism_0022.jpg
+WikiArt,Analytical_Cubism,pablo-picasso,portrait,train-00009-of-00072.parquet,155,datasets/partial/WikiArt/analytical_cubism/analytical_cubism_0019.jpg
+WikiArt,Analytical_Cubism,pablo-picasso,nude_painting,train-00009-of-00072.parquet,198,datasets/partial/WikiArt/analytical_cubism/analytical_cubism_0020.jpg
+WikiArt,Synthetic_Cubism,pablo-picasso,genre_painting,train-00009-of-00072.parquet,376,datasets/partial/WikiArt/synthetic_cubism/synthetic_cubism_0022.jpg
+WikiArt,Analytical_Cubism,pablo-picasso,genre_painting,train-00009-of-00072.parquet,510,datasets/partial/WikiArt/analytical_cubism/analytical_cubism_0021.jpg
+WikiArt,Synthetic_Cubism,pablo-picasso,portrait,train-00009-of-00072.parquet,520,datasets/partial/WikiArt/synthetic_cubism/synthetic_cubism_0023.jpg
+WikiArt,Fauvism,pyotr-konchalovsky,landscape,train-00009-of-00072.parquet,561,datasets/partial/WikiArt/fauvism/fauvism_0018.jpg
+WikiArt,Pointillism,salvador-dali,landscape,train-00009-of-00072.parquet,943,datasets/partial/WikiArt/pointillism/pointillism_0023.jpg
+WikiArt,Synthetic_Cubism,pablo-picasso,still_life,train-00009-of-00072.parquet,950,datasets/partial/WikiArt/synthetic_cubism/synthetic_cubism_0024.jpg
+WikiArt,Pointillism,pablo-picasso,portrait,train-00009-of-00072.parquet,968,datasets/partial/WikiArt/pointillism/pointillism_0024.jpg
+WikiArt,Synthetic_Cubism,pablo-picasso,still_life,train-00009-of-00072.parquet,1064,datasets/partial/WikiArt/synthetic_cubism/synthetic_cubism_0025.jpg
+WikiArt,Pointillism,salvador-dali,Unknown Genre,train-00009-of-00072.parquet,1089,datasets/partial/WikiArt/pointillism/pointillism_0025.jpg
+WikiArt,Synthetic_Cubism,pablo-picasso,still_life,train-00010-of-00072.parquet,20,datasets/partial/WikiArt/synthetic_cubism/synthetic_cubism_0026.jpg
+WikiArt,Analytical_Cubism,pablo-picasso,genre_painting,train-00010-of-00072.parquet,172,datasets/partial/WikiArt/analytical_cubism/analytical_cubism_0022.jpg
+WikiArt,Analytical_Cubism,pablo-picasso,genre_painting,train-00010-of-00072.parquet,205,datasets/partial/WikiArt/analytical_cubism/analytical_cubism_0023.jpg
+WikiArt,Analytical_Cubism,pablo-picasso,still_life,train-00010-of-00072.parquet,385,datasets/partial/WikiArt/analytical_cubism/analytical_cubism_0024.jpg
+WikiArt,Fauvism,pyotr-konchalovsky,still_life,train-00010-of-00072.parquet,570,datasets/partial/WikiArt/fauvism/fauvism_0019.jpg
+WikiArt,Pointillism,camille-pissarro,sketch_and_study,train-00010-of-00072.parquet,588,datasets/partial/WikiArt/pointillism/pointillism_0026.jpg
+WikiArt,Pointillism,camille-pissarro,portrait,train-00010-of-00072.parquet,600,datasets/partial/WikiArt/pointillism/pointillism_0027.jpg
+WikiArt,Fauvism,pyotr-konchalovsky,cityscape,train-00010-of-00072.parquet,610,datasets/partial/WikiArt/fauvism/fauvism_0020.jpg
+WikiArt,Pointillism,camille-pissarro,portrait,train-00010-of-00072.parquet,730,datasets/partial/WikiArt/pointillism/pointillism_0028.jpg
+WikiArt,Analytical_Cubism,pablo-picasso,genre_painting,train-00010-of-00072.parquet,850,datasets/partial/WikiArt/analytical_cubism/analytical_cubism_0025.jpg
+WikiArt,Analytical_Cubism,pablo-picasso,still_life,train-00010-of-00072.parquet,871,datasets/partial/WikiArt/analytical_cubism/analytical_cubism_0026.jpg
+WikiArt,Pointillism,camille-pissarro,genre_painting,train-00010-of-00072.parquet,1005,datasets/partial/WikiArt/pointillism/pointillism_0029.jpg
+WikiArt,Analytical_Cubism,pablo-picasso,genre_painting,train-00010-of-00072.parquet,1015,datasets/partial/WikiArt/analytical_cubism/analytical_cubism_0027.jpg
+WikiArt,Synthetic_Cubism,pablo-picasso,genre_painting,train-00010-of-00072.parquet,1116,datasets/partial/WikiArt/synthetic_cubism/synthetic_cubism_0027.jpg
+WikiArt,Fauvism,pyotr-konchalovsky,still_life,train-00011-of-00072.parquet,17,datasets/partial/WikiArt/fauvism/fauvism_0021.jpg
+WikiArt,Synthetic_Cubism,pablo-picasso,still_life,train-00011-of-00072.parquet,107,datasets/partial/WikiArt/synthetic_cubism/synthetic_cubism_0028.jpg
+WikiArt,Synthetic_Cubism,pablo-picasso,sketch_and_study,train-00011-of-00072.parquet,227,datasets/partial/WikiArt/synthetic_cubism/synthetic_cubism_0029.jpg
+WikiArt,Pointillism,camille-pissarro,genre_painting,train-00011-of-00072.parquet,250,datasets/partial/WikiArt/pointillism/pointillism_0030.jpg
+WikiArt,Pointillism,camille-pissarro,landscape,train-00011-of-00072.parquet,282,datasets/partial/WikiArt/pointillism/pointillism_0031.jpg
+WikiArt,Fauvism,pyotr-konchalovsky,nude_painting,train-00011-of-00072.parquet,350,datasets/partial/WikiArt/fauvism/fauvism_0022.jpg
+WikiArt,Analytical_Cubism,pablo-picasso,portrait,train-00011-of-00072.parquet,438,datasets/partial/WikiArt/analytical_cubism/analytical_cubism_0028.jpg
+WikiArt,Fauvism,martiros-saryan,Unknown Genre,train-00011-of-00072.parquet,643,datasets/partial/WikiArt/fauvism/fauvism_0023.jpg
+WikiArt,Pointillism,camille-pissarro,genre_painting,train-00011-of-00072.parquet,733,datasets/partial/WikiArt/pointillism/pointillism_0032.jpg
+WikiArt,Synthetic_Cubism,pablo-picasso,still_life,train-00011-of-00072.parquet,752,datasets/partial/WikiArt/synthetic_cubism/synthetic_cubism_0030.jpg
+WikiArt,Pointillism,camille-pissarro,landscape,train-00011-of-00072.parquet,784,datasets/partial/WikiArt/pointillism/pointillism_0033.jpg
+WikiArt,Pointillism,camille-pissarro,portrait,train-00013-of-00072.parquet,148,datasets/partial/WikiArt/pointillism/pointillism_0034.jpg
+WikiArt,Pointillism,camille-pissarro,portrait,train-00013-of-00072.parquet,167,datasets/partial/WikiArt/pointillism/pointillism_0035.jpg
+WikiArt,Pointillism,camille-pissarro,genre_painting,train-00013-of-00072.parquet,290,datasets/partial/WikiArt/pointillism/pointillism_0036.jpg
+WikiArt,Pointillism,camille-pissarro,landscape,train-00013-of-00072.parquet,297,datasets/partial/WikiArt/pointillism/pointillism_0037.jpg
+WikiArt,Pointillism,camille-pissarro,genre_painting,train-00013-of-00072.parquet,330,datasets/partial/WikiArt/pointillism/pointillism_0038.jpg
+WikiArt,Pointillism,camille-pissarro,landscape,train-00013-of-00072.parquet,352,datasets/partial/WikiArt/pointillism/pointillism_0039.jpg
+WikiArt,Pointillism,salvador-dali,nude_painting,train-00013-of-00072.parquet,763,datasets/partial/WikiArt/pointillism/pointillism_0040.jpg
+WikiArt,Fauvism,martiros-saryan,still_life,train-00014-of-00072.parquet,5,datasets/partial/WikiArt/fauvism/fauvism_0024.jpg
+WikiArt,Fauvism,martiros-saryan,still_life,train-00014-of-00072.parquet,6,datasets/partial/WikiArt/fauvism/fauvism_0025.jpg
+WikiArt,Fauvism,martiros-saryan,still_life,train-00014-of-00072.parquet,18,datasets/partial/WikiArt/fauvism/fauvism_0026.jpg
+WikiArt,Fauvism,martiros-saryan,still_life,train-00014-of-00072.parquet,92,datasets/partial/WikiArt/fauvism/fauvism_0027.jpg

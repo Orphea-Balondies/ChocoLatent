@@ -1,0 +1,16 @@
+dataset,group_by,group,available_in_loaded_shards,saved_images,target_images
+WikiArt,artist,vincent-van-gogh,1667,40,40
+WikiArt,artist,nicholas-roerich,1609,40,40
+WikiArt,artist,claude-monet,1195,40,40
+WikiArt,artist,pierre-auguste-renoir,825,40,40
+WikiArt,artist,camille-pissarro,769,40,40
+WikiArt,artist,john-singer-sargent,693,40,40
+WikiArt,artist,marc-chagall,669,40,40
+WikiArt,artist,gustave-dore,661,40,40
+WikiArt,artist,boris-kustodiev,551,40,40
+WikiArt,artist,pyotr-konchalovsky,524,40,40
+WikiArt,artist,martiros-saryan,510,40,40
+WikiArt,artist,ivan-aivazovsky,506,40,40
+WikiArt,artist,eugene-boudin,491,40,40
+WikiArt,artist,childe-hassam,475,40,40
+WikiArt,artist,raphael-kirchner,458,40,40

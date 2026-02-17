@@ -1,0 +1,23 @@
+{
+  "dataset": "Concept",
+  "zip_path": "datasets/raw/customconcept101/benchmark_dataset.zip",
+  "target_groups": 15,
+  "selected_groups": [
+    "car",
+    "cat",
+    "dog",
+    "purse",
+    "person",
+    "plushie",
+    "houseplant",
+    "cup",
+    "chair",
+    "sunglasses",
+    "headphone",
+    "flower"
+  ],
+  "images_per_group_target": 30,
+  "images_saved_total": 358,
+  "output_size_gb": 0.0223,
+  "note": "Groups are ranked by number of available instances and available images in the official zip."
+}

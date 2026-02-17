@@ -23,13 +23,15 @@ class CLDataset(Dataset):
         """
         self.image_dir = image_dir
         self.image_list = []
-        for _,_,files in os.walk(self.image_dir):
+        for root, _, files in os.walk(self.image_dir):
             for f in files:
-                if f.split('.')[-1].lower() not in ['jpg','png','jpeg']:
+                if f.split('.')[-1].lower() not in ['jpg', 'png', 'jpeg']:
                     continue
-                file_path = f
-                image_dict={"image_name": file_path,"image_dir": self.image_dir}
+                abs_path = os.path.join(root, f)
+                rel_path = os.path.relpath(abs_path, self.image_dir)
+                image_dict = {"image_name": rel_path, "image_dir": self.image_dir}
                 self.image_list.append(image_dict)
+        self.image_list.sort(key=lambda item: item["image_name"])
 
         self.transform = transform
 
@@ -45,11 +47,11 @@ class CLDataset(Dataset):
         :return: 图片和对应的标签
         """
         image_name = self.image_list[idx]["image_name"]
-        image_path = os.path.join(self.image_dir,image_name)
+        image_path = os.path.join(self.image_dir, image_name)
         image = Image.open(image_path).convert("RGB")  # 读取图片
         # 应用数据变换
         Xs = self.transform(image)
-        image_args = {"image_name":image_name}
+        image_args = {"image_name": image_name}
         # for arg in ["SEED","prompt","strength","guidance_scale"]:
         #     if arg in self.image_list[idx].keys():
         #         image_args[arg] = self.image_list[idx][arg]

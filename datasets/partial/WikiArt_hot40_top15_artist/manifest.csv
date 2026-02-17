@@ -1,0 +1,601 @@
+dataset,group_by,group,artist,style,genre,source_shard,source_row,output_path
+WikiArt,artist,vincent-van-gogh,vincent-van-gogh,Realism,landscape,train-00000-of-00072.parquet,0,datasets/partial/WikiArt_hot40_top15_artist/vincent_van_gogh/vincent_van_gogh_0001.jpg
+WikiArt,artist,pierre-auguste-renoir,pierre-auguste-renoir,Impressionism,genre_painting,train-00000-of-00072.parquet,3,datasets/partial/WikiArt_hot40_top15_artist/pierre_auguste_renoir/pierre_auguste_renoir_0001.jpg
+WikiArt,artist,ivan-aivazovsky,ivan-aivazovsky,Romanticism,Unknown Genre,train-00000-of-00072.parquet,4,datasets/partial/WikiArt_hot40_top15_artist/ivan_aivazovsky/ivan_aivazovsky_0001.jpg
+WikiArt,artist,boris-kustodiev,boris-kustodiev,Art_Nouveau,genre_painting,train-00000-of-00072.parquet,5,datasets/partial/WikiArt_hot40_top15_artist/boris_kustodiev/boris_kustodiev_0001.jpg
+WikiArt,artist,vincent-van-gogh,vincent-van-gogh,Realism,Unknown Genre,train-00000-of-00072.parquet,6,datasets/partial/WikiArt_hot40_top15_artist/vincent_van_gogh/vincent_van_gogh_0002.jpg
+WikiArt,artist,ivan-aivazovsky,ivan-aivazovsky,Romanticism,landscape,train-00000-of-00072.parquet,7,datasets/partial/WikiArt_hot40_top15_artist/ivan_aivazovsky/ivan_aivazovsky_0002.jpg
+WikiArt,artist,john-singer-sargent,john-singer-sargent,Realism,portrait,train-00000-of-00072.parquet,9,datasets/partial/WikiArt_hot40_top15_artist/john_singer_sargent/john_singer_sargent_0001.jpg
+WikiArt,artist,ivan-aivazovsky,ivan-aivazovsky,Romanticism,landscape,train-00000-of-00072.parquet,10,datasets/partial/WikiArt_hot40_top15_artist/ivan_aivazovsky/ivan_aivazovsky_0003.jpg
+WikiArt,artist,nicholas-roerich,nicholas-roerich,Symbolism,genre_painting,train-00000-of-00072.parquet,11,datasets/partial/WikiArt_hot40_top15_artist/nicholas_roerich/nicholas_roerich_0001.jpg
+WikiArt,artist,nicholas-roerich,nicholas-roerich,Symbolism,landscape,train-00000-of-00072.parquet,12,datasets/partial/WikiArt_hot40_top15_artist/nicholas_roerich/nicholas_roerich_0002.jpg
+WikiArt,artist,boris-kustodiev,boris-kustodiev,Realism,portrait,train-00000-of-00072.parquet,13,datasets/partial/WikiArt_hot40_top15_artist/boris_kustodiev/boris_kustodiev_0002.jpg
+WikiArt,artist,pierre-auguste-renoir,pierre-auguste-renoir,Impressionism,portrait,train-00000-of-00072.parquet,14,datasets/partial/WikiArt_hot40_top15_artist/pierre_auguste_renoir/pierre_auguste_renoir_0002.jpg
+WikiArt,artist,marc-chagall,marc-chagall,Naive_Art_Primitivism,still_life,train-00000-of-00072.parquet,15,datasets/partial/WikiArt_hot40_top15_artist/marc_chagall/marc_chagall_0001.jpg
+WikiArt,artist,vincent-van-gogh,vincent-van-gogh,Realism,sketch_and_study,train-00000-of-00072.parquet,16,datasets/partial/WikiArt_hot40_top15_artist/vincent_van_gogh/vincent_van_gogh_0003.jpg
+WikiArt,artist,gustave-dore,gustave-dore,Romanticism,illustration,train-00000-of-00072.parquet,17,datasets/partial/WikiArt_hot40_top15_artist/gustave_dore/gustave_dore_0001.jpg
+WikiArt,artist,ivan-aivazovsky,ivan-aivazovsky,Romanticism,landscape,train-00000-of-00072.parquet,18,datasets/partial/WikiArt_hot40_top15_artist/ivan_aivazovsky/ivan_aivazovsky_0004.jpg
+WikiArt,artist,gustave-dore,gustave-dore,Romanticism,illustration,train-00000-of-00072.parquet,19,datasets/partial/WikiArt_hot40_top15_artist/gustave_dore/gustave_dore_0002.jpg
+WikiArt,artist,pyotr-konchalovsky,pyotr-konchalovsky,Realism,landscape,train-00000-of-00072.parquet,21,datasets/partial/WikiArt_hot40_top15_artist/pyotr_konchalovsky/pyotr_konchalovsky_0001.jpg
+WikiArt,artist,pierre-auguste-renoir,pierre-auguste-renoir,Impressionism,cityscape,train-00000-of-00072.parquet,22,datasets/partial/WikiArt_hot40_top15_artist/pierre_auguste_renoir/pierre_auguste_renoir_0003.jpg
+WikiArt,artist,martiros-saryan,martiros-saryan,Expressionism,sketch_and_study,train-00000-of-00072.parquet,23,datasets/partial/WikiArt_hot40_top15_artist/martiros_saryan/martiros_saryan_0001.jpg
+WikiArt,artist,claude-monet,claude-monet,Impressionism,cityscape,train-00000-of-00072.parquet,25,datasets/partial/WikiArt_hot40_top15_artist/claude_monet/claude_monet_0001.jpg
+WikiArt,artist,nicholas-roerich,nicholas-roerich,Symbolism,landscape,train-00000-of-00072.parquet,26,datasets/partial/WikiArt_hot40_top15_artist/nicholas_roerich/nicholas_roerich_0003.jpg
+WikiArt,artist,martiros-saryan,martiros-saryan,Expressionism,Unknown Genre,train-00000-of-00072.parquet,27,datasets/partial/WikiArt_hot40_top15_artist/martiros_saryan/martiros_saryan_0002.jpg
+WikiArt,artist,vincent-van-gogh,vincent-van-gogh,Realism,nude_painting,train-00000-of-00072.parquet,29,datasets/partial/WikiArt_hot40_top15_artist/vincent_van_gogh/vincent_van_gogh_0004.jpg
+WikiArt,artist,vincent-van-gogh,vincent-van-gogh,Realism,portrait,train-00000-of-00072.parquet,30,datasets/partial/WikiArt_hot40_top15_artist/vincent_van_gogh/vincent_van_gogh_0005.jpg
+WikiArt,artist,marc-chagall,marc-chagall,Naive_Art_Primitivism,Unknown Genre,train-00000-of-00072.parquet,33,datasets/partial/WikiArt_hot40_top15_artist/marc_chagall/marc_chagall_0002.jpg
+WikiArt,artist,ivan-aivazovsky,ivan-aivazovsky,Romanticism,landscape,train-00000-of-00072.parquet,35,datasets/partial/WikiArt_hot40_top15_artist/ivan_aivazovsky/ivan_aivazovsky_0005.jpg
+WikiArt,artist,marc-chagall,marc-chagall,Naive_Art_Primitivism,religious_painting,train-00000-of-00072.parquet,36,datasets/partial/WikiArt_hot40_top15_artist/marc_chagall/marc_chagall_0003.jpg
+WikiArt,artist,nicholas-roerich,nicholas-roerich,Art_Nouveau,Unknown Genre,train-00000-of-00072.parquet,37,datasets/partial/WikiArt_hot40_top15_artist/nicholas_roerich/nicholas_roerich_0004.jpg
+WikiArt,artist,raphael-kirchner,raphael-kirchner,Art_Nouveau,nude_painting,train-00000-of-00072.parquet,38,datasets/partial/WikiArt_hot40_top15_artist/raphael_kirchner/raphael_kirchner_0001.jpg
+WikiArt,artist,pierre-auguste-renoir,pierre-auguste-renoir,Impressionism,still_life,train-00000-of-00072.parquet,40,datasets/partial/WikiArt_hot40_top15_artist/pierre_auguste_renoir/pierre_auguste_renoir_0004.jpg
+WikiArt,artist,nicholas-roerich,nicholas-roerich,Symbolism,sketch_and_study,train-00000-of-00072.parquet,42,datasets/partial/WikiArt_hot40_top15_artist/nicholas_roerich/nicholas_roerich_0005.jpg
+WikiArt,artist,eugene-boudin,eugene-boudin,Impressionism,landscape,train-00000-of-00072.parquet,43,datasets/partial/WikiArt_hot40_top15_artist/eugene_boudin/eugene_boudin_0001.jpg
+WikiArt,artist,pierre-auguste-renoir,pierre-auguste-renoir,Impressionism,still_life,train-00000-of-00072.parquet,44,datasets/partial/WikiArt_hot40_top15_artist/pierre_auguste_renoir/pierre_auguste_renoir_0005.jpg
+WikiArt,artist,vincent-van-gogh,vincent-van-gogh,Realism,sketch_and_study,train-00000-of-00072.parquet,48,datasets/partial/WikiArt_hot40_top15_artist/vincent_van_gogh/vincent_van_gogh_0006.jpg
+WikiArt,artist,raphael-kirchner,raphael-kirchner,Art_Nouveau,genre_painting,train-00000-of-00072.parquet,51,datasets/partial/WikiArt_hot40_top15_artist/raphael_kirchner/raphael_kirchner_0002.jpg
+WikiArt,artist,vincent-van-gogh,vincent-van-gogh,Realism,sketch_and_study,train-00000-of-00072.parquet,52,datasets/partial/WikiArt_hot40_top15_artist/vincent_van_gogh/vincent_van_gogh_0007.jpg
+WikiArt,artist,boris-kustodiev,boris-kustodiev,Realism,cityscape,train-00000-of-00072.parquet,56,datasets/partial/WikiArt_hot40_top15_artist/boris_kustodiev/boris_kustodiev_0003.jpg
+WikiArt,artist,boris-kustodiev,boris-kustodiev,Realism,nude_painting,train-00000-of-00072.parquet,58,datasets/partial/WikiArt_hot40_top15_artist/boris_kustodiev/boris_kustodiev_0004.jpg
+WikiArt,artist,nicholas-roerich,nicholas-roerich,Symbolism,landscape,train-00000-of-00072.parquet,59,datasets/partial/WikiArt_hot40_top15_artist/nicholas_roerich/nicholas_roerich_0006.jpg
+WikiArt,artist,gustave-dore,gustave-dore,Romanticism,illustration,train-00000-of-00072.parquet,62,datasets/partial/WikiArt_hot40_top15_artist/gustave_dore/gustave_dore_0003.jpg
+WikiArt,artist,nicholas-roerich,nicholas-roerich,Art_Nouveau,Unknown Genre,train-00000-of-00072.parquet,63,datasets/partial/WikiArt_hot40_top15_artist/nicholas_roerich/nicholas_roerich_0007.jpg
+WikiArt,artist,john-singer-sargent,john-singer-sargent,Realism,genre_painting,train-00000-of-00072.parquet,64,datasets/partial/WikiArt_hot40_top15_artist/john_singer_sargent/john_singer_sargent_0002.jpg
+WikiArt,artist,ivan-aivazovsky,ivan-aivazovsky,Romanticism,Unknown Genre,train-00000-of-00072.parquet,65,datasets/partial/WikiArt_hot40_top15_artist/ivan_aivazovsky/ivan_aivazovsky_0006.jpg
+WikiArt,artist,gustave-dore,gustave-dore,Romanticism,illustration,train-00000-of-00072.parquet,66,datasets/partial/WikiArt_hot40_top15_artist/gustave_dore/gustave_dore_0004.jpg
+WikiArt,artist,pierre-auguste-renoir,pierre-auguste-renoir,Impressionism,portrait,train-00000-of-00072.parquet,67,datasets/partial/WikiArt_hot40_top15_artist/pierre_auguste_renoir/pierre_auguste_renoir_0006.jpg
+WikiArt,artist,marc-chagall,marc-chagall,Naive_Art_Primitivism,genre_painting,train-00000-of-00072.parquet,68,datasets/partial/WikiArt_hot40_top15_artist/marc_chagall/marc_chagall_0004.jpg
+WikiArt,artist,claude-monet,claude-monet,Impressionism,landscape,train-00000-of-00072.parquet,71,datasets/partial/WikiArt_hot40_top15_artist/claude_monet/claude_monet_0002.jpg
+WikiArt,artist,vincent-van-gogh,vincent-van-gogh,Realism,genre_painting,train-00000-of-00072.parquet,72,datasets/partial/WikiArt_hot40_top15_artist/vincent_van_gogh/vincent_van_gogh_0008.jpg
+WikiArt,artist,pierre-auguste-renoir,pierre-auguste-renoir,Impressionism,portrait,train-00000-of-00072.parquet,75,datasets/partial/WikiArt_hot40_top15_artist/pierre_auguste_renoir/pierre_auguste_renoir_0007.jpg
+WikiArt,artist,childe-hassam,childe-hassam,Impressionism,cityscape,train-00000-of-00072.parquet,76,datasets/partial/WikiArt_hot40_top15_artist/childe_hassam/childe_hassam_0001.jpg
+WikiArt,artist,claude-monet,claude-monet,Impressionism,landscape,train-00000-of-00072.parquet,78,datasets/partial/WikiArt_hot40_top15_artist/claude_monet/claude_monet_0003.jpg
+WikiArt,artist,camille-pissarro,camille-pissarro,Impressionism,cityscape,train-00000-of-00072.parquet,79,datasets/partial/WikiArt_hot40_top15_artist/camille_pissarro/camille_pissarro_0001.jpg
+WikiArt,artist,vincent-van-gogh,vincent-van-gogh,Post_Impressionism,landscape,train-00000-of-00072.parquet,80,datasets/partial/WikiArt_hot40_top15_artist/vincent_van_gogh/vincent_van_gogh_0009.jpg
+WikiArt,artist,claude-monet,claude-monet,Impressionism,genre_painting,train-00000-of-00072.parquet,81,datasets/partial/WikiArt_hot40_top15_artist/claude_monet/claude_monet_0004.jpg
+WikiArt,artist,gustave-dore,gustave-dore,Romanticism,illustration,train-00000-of-00072.parquet,82,datasets/partial/WikiArt_hot40_top15_artist/gustave_dore/gustave_dore_0005.jpg
+WikiArt,artist,nicholas-roerich,nicholas-roerich,Symbolism,landscape,train-00000-of-00072.parquet,83,datasets/partial/WikiArt_hot40_top15_artist/nicholas_roerich/nicholas_roerich_0008.jpg
+WikiArt,artist,pierre-auguste-renoir,pierre-auguste-renoir,Impressionism,Unknown Genre,train-00000-of-00072.parquet,84,datasets/partial/WikiArt_hot40_top15_artist/pierre_auguste_renoir/pierre_auguste_renoir_0008.jpg
+WikiArt,artist,claude-monet,claude-monet,Impressionism,cityscape,train-00000-of-00072.parquet,85,datasets/partial/WikiArt_hot40_top15_artist/claude_monet/claude_monet_0005.jpg
+WikiArt,artist,john-singer-sargent,john-singer-sargent,Impressionism,cityscape,train-00000-of-00072.parquet,86,datasets/partial/WikiArt_hot40_top15_artist/john_singer_sargent/john_singer_sargent_0003.jpg
+WikiArt,artist,pyotr-konchalovsky,pyotr-konchalovsky,Post_Impressionism,genre_painting,train-00000-of-00072.parquet,87,datasets/partial/WikiArt_hot40_top15_artist/pyotr_konchalovsky/pyotr_konchalovsky_0002.jpg
+WikiArt,artist,boris-kustodiev,boris-kustodiev,Art_Nouveau,cityscape,train-00000-of-00072.parquet,88,datasets/partial/WikiArt_hot40_top15_artist/boris_kustodiev/boris_kustodiev_0005.jpg
+WikiArt,artist,pierre-auguste-renoir,pierre-auguste-renoir,Impressionism,nude_painting,train-00000-of-00072.parquet,89,datasets/partial/WikiArt_hot40_top15_artist/pierre_auguste_renoir/pierre_auguste_renoir_0009.jpg
+WikiArt,artist,marc-chagall,marc-chagall,Expressionism,Unknown Genre,train-00000-of-00072.parquet,91,datasets/partial/WikiArt_hot40_top15_artist/marc_chagall/marc_chagall_0005.jpg
+WikiArt,artist,nicholas-roerich,nicholas-roerich,Symbolism,landscape,train-00000-of-00072.parquet,95,datasets/partial/WikiArt_hot40_top15_artist/nicholas_roerich/nicholas_roerich_0009.jpg
+WikiArt,artist,camille-pissarro,camille-pissarro,Impressionism,landscape,train-00000-of-00072.parquet,97,datasets/partial/WikiArt_hot40_top15_artist/camille_pissarro/camille_pissarro_0002.jpg
+WikiArt,artist,nicholas-roerich,nicholas-roerich,Symbolism,landscape,train-00000-of-00072.parquet,101,datasets/partial/WikiArt_hot40_top15_artist/nicholas_roerich/nicholas_roerich_0010.jpg
+WikiArt,artist,pyotr-konchalovsky,pyotr-konchalovsky,Expressionism,still_life,train-00000-of-00072.parquet,102,datasets/partial/WikiArt_hot40_top15_artist/pyotr_konchalovsky/pyotr_konchalovsky_0003.jpg
+WikiArt,artist,nicholas-roerich,nicholas-roerich,Symbolism,sketch_and_study,train-00000-of-00072.parquet,105,datasets/partial/WikiArt_hot40_top15_artist/nicholas_roerich/nicholas_roerich_0011.jpg
+WikiArt,artist,boris-kustodiev,boris-kustodiev,Art_Nouveau,nude_painting,train-00000-of-00072.parquet,106,datasets/partial/WikiArt_hot40_top15_artist/boris_kustodiev/boris_kustodiev_0006.jpg
+WikiArt,artist,ivan-aivazovsky,ivan-aivazovsky,Romanticism,landscape,train-00000-of-00072.parquet,107,datasets/partial/WikiArt_hot40_top15_artist/ivan_aivazovsky/ivan_aivazovsky_0007.jpg
+WikiArt,artist,nicholas-roerich,nicholas-roerich,Symbolism,genre_painting,train-00000-of-00072.parquet,109,datasets/partial/WikiArt_hot40_top15_artist/nicholas_roerich/nicholas_roerich_0012.jpg
+WikiArt,artist,vincent-van-gogh,vincent-van-gogh,Post_Impressionism,landscape,train-00000-of-00072.parquet,110,datasets/partial/WikiArt_hot40_top15_artist/vincent_van_gogh/vincent_van_gogh_0010.jpg
+WikiArt,artist,nicholas-roerich,nicholas-roerich,Symbolism,landscape,train-00000-of-00072.parquet,112,datasets/partial/WikiArt_hot40_top15_artist/nicholas_roerich/nicholas_roerich_0013.jpg
+WikiArt,artist,vincent-van-gogh,vincent-van-gogh,Realism,Unknown Genre,train-00000-of-00072.parquet,113,datasets/partial/WikiArt_hot40_top15_artist/vincent_van_gogh/vincent_van_gogh_0011.jpg
+WikiArt,artist,pyotr-konchalovsky,pyotr-konchalovsky,Post_Impressionism,genre_painting,train-00000-of-00072.parquet,115,datasets/partial/WikiArt_hot40_top15_artist/pyotr_konchalovsky/pyotr_konchalovsky_0004.jpg
+WikiArt,artist,childe-hassam,childe-hassam,Impressionism,landscape,train-00000-of-00072.parquet,116,datasets/partial/WikiArt_hot40_top15_artist/childe_hassam/childe_hassam_0002.jpg
+WikiArt,artist,pyotr-konchalovsky,pyotr-konchalovsky,Realism,landscape,train-00000-of-00072.parquet,117,datasets/partial/WikiArt_hot40_top15_artist/pyotr_konchalovsky/pyotr_konchalovsky_0005.jpg
+WikiArt,artist,boris-kustodiev,boris-kustodiev,Realism,sketch_and_study,train-00000-of-00072.parquet,118,datasets/partial/WikiArt_hot40_top15_artist/boris_kustodiev/boris_kustodiev_0007.jpg
+WikiArt,artist,eugene-boudin,eugene-boudin,Impressionism,cityscape,train-00000-of-00072.parquet,119,datasets/partial/WikiArt_hot40_top15_artist/eugene_boudin/eugene_boudin_0002.jpg
+WikiArt,artist,ivan-aivazovsky,ivan-aivazovsky,Romanticism,religious_painting,train-00000-of-00072.parquet,120,datasets/partial/WikiArt_hot40_top15_artist/ivan_aivazovsky/ivan_aivazovsky_0008.jpg
+WikiArt,artist,marc-chagall,marc-chagall,Naive_Art_Primitivism,illustration,train-00000-of-00072.parquet,121,datasets/partial/WikiArt_hot40_top15_artist/marc_chagall/marc_chagall_0006.jpg
+WikiArt,artist,claude-monet,claude-monet,Impressionism,cityscape,train-00000-of-00072.parquet,122,datasets/partial/WikiArt_hot40_top15_artist/claude_monet/claude_monet_0006.jpg
+WikiArt,artist,gustave-dore,gustave-dore,Romanticism,illustration,train-00000-of-00072.parquet,123,datasets/partial/WikiArt_hot40_top15_artist/gustave_dore/gustave_dore_0006.jpg
+WikiArt,artist,pyotr-konchalovsky,pyotr-konchalovsky,Realism,landscape,train-00000-of-00072.parquet,124,datasets/partial/WikiArt_hot40_top15_artist/pyotr_konchalovsky/pyotr_konchalovsky_0006.jpg
+WikiArt,artist,childe-hassam,childe-hassam,Impressionism,landscape,train-00000-of-00072.parquet,126,datasets/partial/WikiArt_hot40_top15_artist/childe_hassam/childe_hassam_0003.jpg
+WikiArt,artist,vincent-van-gogh,vincent-van-gogh,Post_Impressionism,sketch_and_study,train-00000-of-00072.parquet,128,datasets/partial/WikiArt_hot40_top15_artist/vincent_van_gogh/vincent_van_gogh_0012.jpg
+WikiArt,artist,gustave-dore,gustave-dore,Romanticism,illustration,train-00000-of-00072.parquet,130,datasets/partial/WikiArt_hot40_top15_artist/gustave_dore/gustave_dore_0007.jpg
+WikiArt,artist,camille-pissarro,camille-pissarro,Realism,landscape,train-00000-of-00072.parquet,132,datasets/partial/WikiArt_hot40_top15_artist/camille_pissarro/camille_pissarro_0003.jpg
+WikiArt,artist,vincent-van-gogh,vincent-van-gogh,Realism,genre_painting,train-00000-of-00072.parquet,133,datasets/partial/WikiArt_hot40_top15_artist/vincent_van_gogh/vincent_van_gogh_0013.jpg
+WikiArt,artist,pierre-auguste-renoir,pierre-auguste-renoir,Impressionism,landscape,train-00000-of-00072.parquet,134,datasets/partial/WikiArt_hot40_top15_artist/pierre_auguste_renoir/pierre_auguste_renoir_0010.jpg
+WikiArt,artist,marc-chagall,marc-chagall,Naive_Art_Primitivism,genre_painting,train-00000-of-00072.parquet,135,datasets/partial/WikiArt_hot40_top15_artist/marc_chagall/marc_chagall_0007.jpg
+WikiArt,artist,boris-kustodiev,boris-kustodiev,Art_Nouveau,genre_painting,train-00000-of-00072.parquet,137,datasets/partial/WikiArt_hot40_top15_artist/boris_kustodiev/boris_kustodiev_0008.jpg
+WikiArt,artist,nicholas-roerich,nicholas-roerich,Symbolism,landscape,train-00000-of-00072.parquet,138,datasets/partial/WikiArt_hot40_top15_artist/nicholas_roerich/nicholas_roerich_0014.jpg
+WikiArt,artist,marc-chagall,marc-chagall,Naive_Art_Primitivism,illustration,train-00000-of-00072.parquet,139,datasets/partial/WikiArt_hot40_top15_artist/marc_chagall/marc_chagall_0008.jpg
+WikiArt,artist,vincent-van-gogh,vincent-van-gogh,Realism,still_life,train-00000-of-00072.parquet,140,datasets/partial/WikiArt_hot40_top15_artist/vincent_van_gogh/vincent_van_gogh_0014.jpg
+WikiArt,artist,claude-monet,claude-monet,Impressionism,landscape,train-00000-of-00072.parquet,141,datasets/partial/WikiArt_hot40_top15_artist/claude_monet/claude_monet_0007.jpg
+WikiArt,artist,nicholas-roerich,nicholas-roerich,Symbolism,sketch_and_study,train-00000-of-00072.parquet,142,datasets/partial/WikiArt_hot40_top15_artist/nicholas_roerich/nicholas_roerich_0015.jpg
+WikiArt,artist,john-singer-sargent,john-singer-sargent,Impressionism,cityscape,train-00000-of-00072.parquet,143,datasets/partial/WikiArt_hot40_top15_artist/john_singer_sargent/john_singer_sargent_0004.jpg
+WikiArt,artist,pyotr-konchalovsky,pyotr-konchalovsky,Realism,landscape,train-00000-of-00072.parquet,144,datasets/partial/WikiArt_hot40_top15_artist/pyotr_konchalovsky/pyotr_konchalovsky_0007.jpg
+WikiArt,artist,pyotr-konchalovsky,pyotr-konchalovsky,Realism,Unknown Genre,train-00000-of-00072.parquet,145,datasets/partial/WikiArt_hot40_top15_artist/pyotr_konchalovsky/pyotr_konchalovsky_0008.jpg
+WikiArt,artist,pyotr-konchalovsky,pyotr-konchalovsky,Post_Impressionism,sketch_and_study,train-00000-of-00072.parquet,146,datasets/partial/WikiArt_hot40_top15_artist/pyotr_konchalovsky/pyotr_konchalovsky_0009.jpg
+WikiArt,artist,claude-monet,claude-monet,Impressionism,genre_painting,train-00000-of-00072.parquet,148,datasets/partial/WikiArt_hot40_top15_artist/claude_monet/claude_monet_0008.jpg
+WikiArt,artist,martiros-saryan,martiros-saryan,Expressionism,genre_painting,train-00000-of-00072.parquet,150,datasets/partial/WikiArt_hot40_top15_artist/martiros_saryan/martiros_saryan_0003.jpg
+WikiArt,artist,john-singer-sargent,john-singer-sargent,Impressionism,landscape,train-00000-of-00072.parquet,151,datasets/partial/WikiArt_hot40_top15_artist/john_singer_sargent/john_singer_sargent_0005.jpg
+WikiArt,artist,vincent-van-gogh,vincent-van-gogh,Realism,landscape,train-00000-of-00072.parquet,152,datasets/partial/WikiArt_hot40_top15_artist/vincent_van_gogh/vincent_van_gogh_0015.jpg
+WikiArt,artist,pyotr-konchalovsky,pyotr-konchalovsky,Post_Impressionism,Unknown Genre,train-00000-of-00072.parquet,153,datasets/partial/WikiArt_hot40_top15_artist/pyotr_konchalovsky/pyotr_konchalovsky_0010.jpg
+WikiArt,artist,gustave-dore,gustave-dore,Romanticism,illustration,train-00000-of-00072.parquet,154,datasets/partial/WikiArt_hot40_top15_artist/gustave_dore/gustave_dore_0008.jpg
+WikiArt,artist,childe-hassam,childe-hassam,Impressionism,cityscape,train-00000-of-00072.parquet,155,datasets/partial/WikiArt_hot40_top15_artist/childe_hassam/childe_hassam_0004.jpg
+WikiArt,artist,nicholas-roerich,nicholas-roerich,Art_Nouveau,cityscape,train-00000-of-00072.parquet,156,datasets/partial/WikiArt_hot40_top15_artist/nicholas_roerich/nicholas_roerich_0016.jpg
+WikiArt,artist,childe-hassam,childe-hassam,Impressionism,Unknown Genre,train-00000-of-00072.parquet,157,datasets/partial/WikiArt_hot40_top15_artist/childe_hassam/childe_hassam_0005.jpg
+WikiArt,artist,ivan-aivazovsky,ivan-aivazovsky,Romanticism,landscape,train-00000-of-00072.parquet,158,datasets/partial/WikiArt_hot40_top15_artist/ivan_aivazovsky/ivan_aivazovsky_0009.jpg
+WikiArt,artist,camille-pissarro,camille-pissarro,Impressionism,landscape,train-00000-of-00072.parquet,161,datasets/partial/WikiArt_hot40_top15_artist/camille_pissarro/camille_pissarro_0004.jpg
+WikiArt,artist,vincent-van-gogh,vincent-van-gogh,Post_Impressionism,landscape,train-00000-of-00072.parquet,162,datasets/partial/WikiArt_hot40_top15_artist/vincent_van_gogh/vincent_van_gogh_0016.jpg
+WikiArt,artist,martiros-saryan,martiros-saryan,Post_Impressionism,landscape,train-00000-of-00072.parquet,163,datasets/partial/WikiArt_hot40_top15_artist/martiros_saryan/martiros_saryan_0004.jpg
+WikiArt,artist,vincent-van-gogh,vincent-van-gogh,Realism,sketch_and_study,train-00000-of-00072.parquet,164,datasets/partial/WikiArt_hot40_top15_artist/vincent_van_gogh/vincent_van_gogh_0017.jpg
+WikiArt,artist,marc-chagall,marc-chagall,Naive_Art_Primitivism,religious_painting,train-00000-of-00072.parquet,165,datasets/partial/WikiArt_hot40_top15_artist/marc_chagall/marc_chagall_0009.jpg
+WikiArt,artist,vincent-van-gogh,vincent-van-gogh,Post_Impressionism,sketch_and_study,train-00000-of-00072.parquet,168,datasets/partial/WikiArt_hot40_top15_artist/vincent_van_gogh/vincent_van_gogh_0018.jpg
+WikiArt,artist,boris-kustodiev,boris-kustodiev,Art_Nouveau,genre_painting,train-00000-of-00072.parquet,169,datasets/partial/WikiArt_hot40_top15_artist/boris_kustodiev/boris_kustodiev_0009.jpg
+WikiArt,artist,nicholas-roerich,nicholas-roerich,Symbolism,Unknown Genre,train-00000-of-00072.parquet,173,datasets/partial/WikiArt_hot40_top15_artist/nicholas_roerich/nicholas_roerich_0017.jpg
+WikiArt,artist,nicholas-roerich,nicholas-roerich,Symbolism,landscape,train-00000-of-00072.parquet,174,datasets/partial/WikiArt_hot40_top15_artist/nicholas_roerich/nicholas_roerich_0018.jpg
+WikiArt,artist,vincent-van-gogh,vincent-van-gogh,Post_Impressionism,still_life,train-00000-of-00072.parquet,176,datasets/partial/WikiArt_hot40_top15_artist/vincent_van_gogh/vincent_van_gogh_0019.jpg
+WikiArt,artist,childe-hassam,childe-hassam,Impressionism,genre_painting,train-00000-of-00072.parquet,178,datasets/partial/WikiArt_hot40_top15_artist/childe_hassam/childe_hassam_0006.jpg
+WikiArt,artist,nicholas-roerich,nicholas-roerich,Art_Nouveau,Unknown Genre,train-00000-of-00072.parquet,179,datasets/partial/WikiArt_hot40_top15_artist/nicholas_roerich/nicholas_roerich_0019.jpg
+WikiArt,artist,gustave-dore,gustave-dore,Romanticism,illustration,train-00000-of-00072.parquet,180,datasets/partial/WikiArt_hot40_top15_artist/gustave_dore/gustave_dore_0009.jpg
+WikiArt,artist,john-singer-sargent,john-singer-sargent,Impressionism,Unknown Genre,train-00000-of-00072.parquet,182,datasets/partial/WikiArt_hot40_top15_artist/john_singer_sargent/john_singer_sargent_0006.jpg
+WikiArt,artist,marc-chagall,marc-chagall,Cubism,genre_painting,train-00000-of-00072.parquet,184,datasets/partial/WikiArt_hot40_top15_artist/marc_chagall/marc_chagall_0010.jpg
+WikiArt,artist,claude-monet,claude-monet,Impressionism,genre_painting,train-00000-of-00072.parquet,185,datasets/partial/WikiArt_hot40_top15_artist/claude_monet/claude_monet_0009.jpg
+WikiArt,artist,childe-hassam,childe-hassam,Impressionism,nude_painting,train-00000-of-00072.parquet,186,datasets/partial/WikiArt_hot40_top15_artist/childe_hassam/childe_hassam_0007.jpg
+WikiArt,artist,nicholas-roerich,nicholas-roerich,Symbolism,Unknown Genre,train-00000-of-00072.parquet,187,datasets/partial/WikiArt_hot40_top15_artist/nicholas_roerich/nicholas_roerich_0020.jpg
+WikiArt,artist,john-singer-sargent,john-singer-sargent,Realism,genre_painting,train-00000-of-00072.parquet,190,datasets/partial/WikiArt_hot40_top15_artist/john_singer_sargent/john_singer_sargent_0007.jpg
+WikiArt,artist,vincent-van-gogh,vincent-van-gogh,Post_Impressionism,sketch_and_study,train-00000-of-00072.parquet,192,datasets/partial/WikiArt_hot40_top15_artist/vincent_van_gogh/vincent_van_gogh_0020.jpg
+WikiArt,artist,pierre-auguste-renoir,pierre-auguste-renoir,Impressionism,nude_painting,train-00000-of-00072.parquet,195,datasets/partial/WikiArt_hot40_top15_artist/pierre_auguste_renoir/pierre_auguste_renoir_0011.jpg
+WikiArt,artist,nicholas-roerich,nicholas-roerich,Symbolism,landscape,train-00000-of-00072.parquet,196,datasets/partial/WikiArt_hot40_top15_artist/nicholas_roerich/nicholas_roerich_0021.jpg
+WikiArt,artist,vincent-van-gogh,vincent-van-gogh,Realism,sketch_and_study,train-00000-of-00072.parquet,197,datasets/partial/WikiArt_hot40_top15_artist/vincent_van_gogh/vincent_van_gogh_0021.jpg
+WikiArt,artist,claude-monet,claude-monet,Impressionism,cityscape,train-00000-of-00072.parquet,198,datasets/partial/WikiArt_hot40_top15_artist/claude_monet/claude_monet_0010.jpg
+WikiArt,artist,vincent-van-gogh,vincent-van-gogh,Post_Impressionism,portrait,train-00000-of-00072.parquet,199,datasets/partial/WikiArt_hot40_top15_artist/vincent_van_gogh/vincent_van_gogh_0022.jpg
+WikiArt,artist,vincent-van-gogh,vincent-van-gogh,Realism,landscape,train-00000-of-00072.parquet,200,datasets/partial/WikiArt_hot40_top15_artist/vincent_van_gogh/vincent_van_gogh_0023.jpg
+WikiArt,artist,pyotr-konchalovsky,pyotr-konchalovsky,Realism,Unknown Genre,train-00000-of-00072.parquet,202,datasets/partial/WikiArt_hot40_top15_artist/pyotr_konchalovsky/pyotr_konchalovsky_0011.jpg
+WikiArt,artist,vincent-van-gogh,vincent-van-gogh,Post_Impressionism,landscape,train-00000-of-00072.parquet,203,datasets/partial/WikiArt_hot40_top15_artist/vincent_van_gogh/vincent_van_gogh_0024.jpg
+WikiArt,artist,gustave-dore,gustave-dore,Romanticism,illustration,train-00000-of-00072.parquet,204,datasets/partial/WikiArt_hot40_top15_artist/gustave_dore/gustave_dore_0010.jpg
+WikiArt,artist,marc-chagall,marc-chagall,Naive_Art_Primitivism,religious_painting,train-00000-of-00072.parquet,205,datasets/partial/WikiArt_hot40_top15_artist/marc_chagall/marc_chagall_0011.jpg
+WikiArt,artist,martiros-saryan,martiros-saryan,Expressionism,landscape,train-00000-of-00072.parquet,207,datasets/partial/WikiArt_hot40_top15_artist/martiros_saryan/martiros_saryan_0005.jpg
+WikiArt,artist,ivan-aivazovsky,ivan-aivazovsky,Romanticism,Unknown Genre,train-00000-of-00072.parquet,208,datasets/partial/WikiArt_hot40_top15_artist/ivan_aivazovsky/ivan_aivazovsky_0010.jpg
+WikiArt,artist,vincent-van-gogh,vincent-van-gogh,Realism,sketch_and_study,train-00000-of-00072.parquet,209,datasets/partial/WikiArt_hot40_top15_artist/vincent_van_gogh/vincent_van_gogh_0025.jpg
+WikiArt,artist,ivan-aivazovsky,ivan-aivazovsky,Romanticism,cityscape,train-00000-of-00072.parquet,211,datasets/partial/WikiArt_hot40_top15_artist/ivan_aivazovsky/ivan_aivazovsky_0011.jpg
+WikiArt,artist,vincent-van-gogh,vincent-van-gogh,Realism,sketch_and_study,train-00000-of-00072.parquet,213,datasets/partial/WikiArt_hot40_top15_artist/vincent_van_gogh/vincent_van_gogh_0026.jpg
+WikiArt,artist,martiros-saryan,martiros-saryan,Realism,portrait,train-00000-of-00072.parquet,214,datasets/partial/WikiArt_hot40_top15_artist/martiros_saryan/martiros_saryan_0006.jpg
+WikiArt,artist,claude-monet,claude-monet,Impressionism,Unknown Genre,train-00000-of-00072.parquet,216,datasets/partial/WikiArt_hot40_top15_artist/claude_monet/claude_monet_0011.jpg
+WikiArt,artist,pyotr-konchalovsky,pyotr-konchalovsky,Cubism,sketch_and_study,train-00000-of-00072.parquet,217,datasets/partial/WikiArt_hot40_top15_artist/pyotr_konchalovsky/pyotr_konchalovsky_0012.jpg
+WikiArt,artist,marc-chagall,marc-chagall,Naive_Art_Primitivism,genre_painting,train-00000-of-00072.parquet,218,datasets/partial/WikiArt_hot40_top15_artist/marc_chagall/marc_chagall_0012.jpg
+WikiArt,artist,camille-pissarro,camille-pissarro,Impressionism,landscape,train-00000-of-00072.parquet,220,datasets/partial/WikiArt_hot40_top15_artist/camille_pissarro/camille_pissarro_0005.jpg
+WikiArt,artist,pyotr-konchalovsky,pyotr-konchalovsky,Realism,Unknown Genre,train-00000-of-00072.parquet,221,datasets/partial/WikiArt_hot40_top15_artist/pyotr_konchalovsky/pyotr_konchalovsky_0013.jpg
+WikiArt,artist,gustave-dore,gustave-dore,Romanticism,illustration,train-00000-of-00072.parquet,222,datasets/partial/WikiArt_hot40_top15_artist/gustave_dore/gustave_dore_0011.jpg
+WikiArt,artist,martiros-saryan,martiros-saryan,Post_Impressionism,Unknown Genre,train-00000-of-00072.parquet,223,datasets/partial/WikiArt_hot40_top15_artist/martiros_saryan/martiros_saryan_0007.jpg
+WikiArt,artist,pyotr-konchalovsky,pyotr-konchalovsky,Post_Impressionism,Unknown Genre,train-00000-of-00072.parquet,224,datasets/partial/WikiArt_hot40_top15_artist/pyotr_konchalovsky/pyotr_konchalovsky_0014.jpg
+WikiArt,artist,raphael-kirchner,raphael-kirchner,Art_Nouveau,genre_painting,train-00000-of-00072.parquet,225,datasets/partial/WikiArt_hot40_top15_artist/raphael_kirchner/raphael_kirchner_0003.jpg
+WikiArt,artist,vincent-van-gogh,vincent-van-gogh,Realism,landscape,train-00000-of-00072.parquet,227,datasets/partial/WikiArt_hot40_top15_artist/vincent_van_gogh/vincent_van_gogh_0027.jpg
+WikiArt,artist,claude-monet,claude-monet,Impressionism,landscape,train-00000-of-00072.parquet,228,datasets/partial/WikiArt_hot40_top15_artist/claude_monet/claude_monet_0012.jpg
+WikiArt,artist,john-singer-sargent,john-singer-sargent,Realism,portrait,train-00000-of-00072.parquet,230,datasets/partial/WikiArt_hot40_top15_artist/john_singer_sargent/john_singer_sargent_0008.jpg
+WikiArt,artist,gustave-dore,gustave-dore,Romanticism,illustration,train-00000-of-00072.parquet,232,datasets/partial/WikiArt_hot40_top15_artist/gustave_dore/gustave_dore_0012.jpg
+WikiArt,artist,eugene-boudin,eugene-boudin,Realism,cityscape,train-00000-of-00072.parquet,233,datasets/partial/WikiArt_hot40_top15_artist/eugene_boudin/eugene_boudin_0003.jpg
+WikiArt,artist,nicholas-roerich,nicholas-roerich,Art_Nouveau,Unknown Genre,train-00000-of-00072.parquet,234,datasets/partial/WikiArt_hot40_top15_artist/nicholas_roerich/nicholas_roerich_0022.jpg
+WikiArt,artist,raphael-kirchner,raphael-kirchner,Art_Nouveau,genre_painting,train-00000-of-00072.parquet,235,datasets/partial/WikiArt_hot40_top15_artist/raphael_kirchner/raphael_kirchner_0004.jpg
+WikiArt,artist,nicholas-roerich,nicholas-roerich,Realism,sketch_and_study,train-00000-of-00072.parquet,236,datasets/partial/WikiArt_hot40_top15_artist/nicholas_roerich/nicholas_roerich_0023.jpg
+WikiArt,artist,boris-kustodiev,boris-kustodiev,Realism,Unknown Genre,train-00000-of-00072.parquet,237,datasets/partial/WikiArt_hot40_top15_artist/boris_kustodiev/boris_kustodiev_0010.jpg
+WikiArt,artist,pyotr-konchalovsky,pyotr-konchalovsky,Realism,Unknown Genre,train-00000-of-00072.parquet,238,datasets/partial/WikiArt_hot40_top15_artist/pyotr_konchalovsky/pyotr_konchalovsky_0015.jpg
+WikiArt,artist,vincent-van-gogh,vincent-van-gogh,Post_Impressionism,sketch_and_study,train-00000-of-00072.parquet,239,datasets/partial/WikiArt_hot40_top15_artist/vincent_van_gogh/vincent_van_gogh_0028.jpg
+WikiArt,artist,martiros-saryan,martiros-saryan,Expressionism,landscape,train-00000-of-00072.parquet,240,datasets/partial/WikiArt_hot40_top15_artist/martiros_saryan/martiros_saryan_0008.jpg
+WikiArt,artist,eugene-boudin,eugene-boudin,Impressionism,landscape,train-00000-of-00072.parquet,241,datasets/partial/WikiArt_hot40_top15_artist/eugene_boudin/eugene_boudin_0004.jpg
+WikiArt,artist,claude-monet,claude-monet,Impressionism,cityscape,train-00000-of-00072.parquet,242,datasets/partial/WikiArt_hot40_top15_artist/claude_monet/claude_monet_0013.jpg
+WikiArt,artist,pierre-auguste-renoir,pierre-auguste-renoir,Impressionism,portrait,train-00000-of-00072.parquet,244,datasets/partial/WikiArt_hot40_top15_artist/pierre_auguste_renoir/pierre_auguste_renoir_0012.jpg
+WikiArt,artist,nicholas-roerich,nicholas-roerich,Art_Nouveau,Unknown Genre,train-00000-of-00072.parquet,245,datasets/partial/WikiArt_hot40_top15_artist/nicholas_roerich/nicholas_roerich_0024.jpg
+WikiArt,artist,childe-hassam,childe-hassam,Impressionism,landscape,train-00000-of-00072.parquet,246,datasets/partial/WikiArt_hot40_top15_artist/childe_hassam/childe_hassam_0008.jpg
+WikiArt,artist,vincent-van-gogh,vincent-van-gogh,Post_Impressionism,Unknown Genre,train-00000-of-00072.parquet,247,datasets/partial/WikiArt_hot40_top15_artist/vincent_van_gogh/vincent_van_gogh_0029.jpg
+WikiArt,artist,nicholas-roerich,nicholas-roerich,Symbolism,landscape,train-00000-of-00072.parquet,248,datasets/partial/WikiArt_hot40_top15_artist/nicholas_roerich/nicholas_roerich_0025.jpg
+WikiArt,artist,boris-kustodiev,boris-kustodiev,Realism,sketch_and_study,train-00000-of-00072.parquet,249,datasets/partial/WikiArt_hot40_top15_artist/boris_kustodiev/boris_kustodiev_0011.jpg
+WikiArt,artist,vincent-van-gogh,vincent-van-gogh,Realism,sketch_and_study,train-00000-of-00072.parquet,250,datasets/partial/WikiArt_hot40_top15_artist/vincent_van_gogh/vincent_van_gogh_0030.jpg
+WikiArt,artist,nicholas-roerich,nicholas-roerich,Realism,still_life,train-00000-of-00072.parquet,251,datasets/partial/WikiArt_hot40_top15_artist/nicholas_roerich/nicholas_roerich_0026.jpg
+WikiArt,artist,claude-monet,claude-monet,Impressionism,landscape,train-00000-of-00072.parquet,252,datasets/partial/WikiArt_hot40_top15_artist/claude_monet/claude_monet_0014.jpg
+WikiArt,artist,pierre-auguste-renoir,pierre-auguste-renoir,Impressionism,nude_painting,train-00000-of-00072.parquet,253,datasets/partial/WikiArt_hot40_top15_artist/pierre_auguste_renoir/pierre_auguste_renoir_0013.jpg
+WikiArt,artist,pyotr-konchalovsky,pyotr-konchalovsky,Post_Impressionism,landscape,train-00000-of-00072.parquet,254,datasets/partial/WikiArt_hot40_top15_artist/pyotr_konchalovsky/pyotr_konchalovsky_0016.jpg
+WikiArt,artist,pierre-auguste-renoir,pierre-auguste-renoir,Impressionism,nude_painting,train-00000-of-00072.parquet,255,datasets/partial/WikiArt_hot40_top15_artist/pierre_auguste_renoir/pierre_auguste_renoir_0014.jpg
+WikiArt,artist,gustave-dore,gustave-dore,Romanticism,illustration,train-00000-of-00072.parquet,256,datasets/partial/WikiArt_hot40_top15_artist/gustave_dore/gustave_dore_0013.jpg
+WikiArt,artist,nicholas-roerich,nicholas-roerich,Art_Nouveau,genre_painting,train-00000-of-00072.parquet,257,datasets/partial/WikiArt_hot40_top15_artist/nicholas_roerich/nicholas_roerich_0027.jpg
+WikiArt,artist,vincent-van-gogh,vincent-van-gogh,Post_Impressionism,sketch_and_study,train-00000-of-00072.parquet,258,datasets/partial/WikiArt_hot40_top15_artist/vincent_van_gogh/vincent_van_gogh_0031.jpg
+WikiArt,artist,martiros-saryan,martiros-saryan,Fauvism,Unknown Genre,train-00000-of-00072.parquet,259,datasets/partial/WikiArt_hot40_top15_artist/martiros_saryan/martiros_saryan_0009.jpg
+WikiArt,artist,john-singer-sargent,john-singer-sargent,Impressionism,landscape,train-00000-of-00072.parquet,261,datasets/partial/WikiArt_hot40_top15_artist/john_singer_sargent/john_singer_sargent_0009.jpg
+WikiArt,artist,boris-kustodiev,boris-kustodiev,Realism,sketch_and_study,train-00000-of-00072.parquet,263,datasets/partial/WikiArt_hot40_top15_artist/boris_kustodiev/boris_kustodiev_0012.jpg
+WikiArt,artist,claude-monet,claude-monet,Impressionism,cityscape,train-00000-of-00072.parquet,264,datasets/partial/WikiArt_hot40_top15_artist/claude_monet/claude_monet_0015.jpg
+WikiArt,artist,pierre-auguste-renoir,pierre-auguste-renoir,Impressionism,landscape,train-00000-of-00072.parquet,265,datasets/partial/WikiArt_hot40_top15_artist/pierre_auguste_renoir/pierre_auguste_renoir_0015.jpg
+WikiArt,artist,eugene-boudin,eugene-boudin,Impressionism,landscape,train-00000-of-00072.parquet,266,datasets/partial/WikiArt_hot40_top15_artist/eugene_boudin/eugene_boudin_0005.jpg
+WikiArt,artist,claude-monet,claude-monet,Impressionism,landscape,train-00000-of-00072.parquet,267,datasets/partial/WikiArt_hot40_top15_artist/claude_monet/claude_monet_0016.jpg
+WikiArt,artist,gustave-dore,gustave-dore,Romanticism,religious_painting,train-00000-of-00072.parquet,268,datasets/partial/WikiArt_hot40_top15_artist/gustave_dore/gustave_dore_0014.jpg
+WikiArt,artist,pierre-auguste-renoir,pierre-auguste-renoir,Impressionism,nude_painting,train-00000-of-00072.parquet,269,datasets/partial/WikiArt_hot40_top15_artist/pierre_auguste_renoir/pierre_auguste_renoir_0016.jpg
+WikiArt,artist,vincent-van-gogh,vincent-van-gogh,Realism,genre_painting,train-00000-of-00072.parquet,271,datasets/partial/WikiArt_hot40_top15_artist/vincent_van_gogh/vincent_van_gogh_0032.jpg
+WikiArt,artist,gustave-dore,gustave-dore,Romanticism,illustration,train-00000-of-00072.parquet,272,datasets/partial/WikiArt_hot40_top15_artist/gustave_dore/gustave_dore_0015.jpg
+WikiArt,artist,vincent-van-gogh,vincent-van-gogh,Realism,sketch_and_study,train-00000-of-00072.parquet,274,datasets/partial/WikiArt_hot40_top15_artist/vincent_van_gogh/vincent_van_gogh_0033.jpg
+WikiArt,artist,john-singer-sargent,john-singer-sargent,Realism,portrait,train-00000-of-00072.parquet,275,datasets/partial/WikiArt_hot40_top15_artist/john_singer_sargent/john_singer_sargent_0010.jpg
+WikiArt,artist,claude-monet,claude-monet,Impressionism,landscape,train-00000-of-00072.parquet,277,datasets/partial/WikiArt_hot40_top15_artist/claude_monet/claude_monet_0017.jpg
+WikiArt,artist,vincent-van-gogh,vincent-van-gogh,Post_Impressionism,sketch_and_study,train-00000-of-00072.parquet,278,datasets/partial/WikiArt_hot40_top15_artist/vincent_van_gogh/vincent_van_gogh_0034.jpg
+WikiArt,artist,claude-monet,claude-monet,Impressionism,landscape,train-00000-of-00072.parquet,279,datasets/partial/WikiArt_hot40_top15_artist/claude_monet/claude_monet_0018.jpg
+WikiArt,artist,pyotr-konchalovsky,pyotr-konchalovsky,Post_Impressionism,portrait,train-00000-of-00072.parquet,280,datasets/partial/WikiArt_hot40_top15_artist/pyotr_konchalovsky/pyotr_konchalovsky_0017.jpg
+WikiArt,artist,pierre-auguste-renoir,pierre-auguste-renoir,Impressionism,genre_painting,train-00000-of-00072.parquet,281,datasets/partial/WikiArt_hot40_top15_artist/pierre_auguste_renoir/pierre_auguste_renoir_0017.jpg
+WikiArt,artist,nicholas-roerich,nicholas-roerich,Symbolism,landscape,train-00000-of-00072.parquet,282,datasets/partial/WikiArt_hot40_top15_artist/nicholas_roerich/nicholas_roerich_0028.jpg
+WikiArt,artist,raphael-kirchner,raphael-kirchner,Art_Nouveau,Unknown Genre,train-00000-of-00072.parquet,283,datasets/partial/WikiArt_hot40_top15_artist/raphael_kirchner/raphael_kirchner_0005.jpg
+WikiArt,artist,claude-monet,claude-monet,Impressionism,landscape,train-00000-of-00072.parquet,284,datasets/partial/WikiArt_hot40_top15_artist/claude_monet/claude_monet_0019.jpg
+WikiArt,artist,ivan-aivazovsky,ivan-aivazovsky,Romanticism,Unknown Genre,train-00000-of-00072.parquet,285,datasets/partial/WikiArt_hot40_top15_artist/ivan_aivazovsky/ivan_aivazovsky_0012.jpg
+WikiArt,artist,marc-chagall,marc-chagall,Expressionism,genre_painting,train-00000-of-00072.parquet,287,datasets/partial/WikiArt_hot40_top15_artist/marc_chagall/marc_chagall_0013.jpg
+WikiArt,artist,pierre-auguste-renoir,pierre-auguste-renoir,Impressionism,portrait,train-00000-of-00072.parquet,288,datasets/partial/WikiArt_hot40_top15_artist/pierre_auguste_renoir/pierre_auguste_renoir_0018.jpg
+WikiArt,artist,pierre-auguste-renoir,pierre-auguste-renoir,Impressionism,portrait,train-00000-of-00072.parquet,289,datasets/partial/WikiArt_hot40_top15_artist/pierre_auguste_renoir/pierre_auguste_renoir_0019.jpg
+WikiArt,artist,claude-monet,claude-monet,Impressionism,Unknown Genre,train-00000-of-00072.parquet,290,datasets/partial/WikiArt_hot40_top15_artist/claude_monet/claude_monet_0020.jpg
+WikiArt,artist,boris-kustodiev,boris-kustodiev,Art_Nouveau,genre_painting,train-00000-of-00072.parquet,291,datasets/partial/WikiArt_hot40_top15_artist/boris_kustodiev/boris_kustodiev_0013.jpg
+WikiArt,artist,vincent-van-gogh,vincent-van-gogh,Post_Impressionism,sketch_and_study,train-00000-of-00072.parquet,292,datasets/partial/WikiArt_hot40_top15_artist/vincent_van_gogh/vincent_van_gogh_0035.jpg
+WikiArt,artist,vincent-van-gogh,vincent-van-gogh,Realism,genre_painting,train-00000-of-00072.parquet,294,datasets/partial/WikiArt_hot40_top15_artist/vincent_van_gogh/vincent_van_gogh_0036.jpg
+WikiArt,artist,childe-hassam,childe-hassam,Impressionism,Unknown Genre,train-00000-of-00072.parquet,296,datasets/partial/WikiArt_hot40_top15_artist/childe_hassam/childe_hassam_0009.jpg
+WikiArt,artist,boris-kustodiev,boris-kustodiev,Realism,portrait,train-00000-of-00072.parquet,297,datasets/partial/WikiArt_hot40_top15_artist/boris_kustodiev/boris_kustodiev_0014.jpg
+WikiArt,artist,pyotr-konchalovsky,pyotr-konchalovsky,Post_Impressionism,cityscape,train-00000-of-00072.parquet,298,datasets/partial/WikiArt_hot40_top15_artist/pyotr_konchalovsky/pyotr_konchalovsky_0018.jpg
+WikiArt,artist,vincent-van-gogh,vincent-van-gogh,Realism,portrait,train-00000-of-00072.parquet,300,datasets/partial/WikiArt_hot40_top15_artist/vincent_van_gogh/vincent_van_gogh_0037.jpg
+WikiArt,artist,vincent-van-gogh,vincent-van-gogh,Realism,sketch_and_study,train-00000-of-00072.parquet,301,datasets/partial/WikiArt_hot40_top15_artist/vincent_van_gogh/vincent_van_gogh_0038.jpg
+WikiArt,artist,marc-chagall,marc-chagall,Cubism,portrait,train-00000-of-00072.parquet,303,datasets/partial/WikiArt_hot40_top15_artist/marc_chagall/marc_chagall_0014.jpg
+WikiArt,artist,vincent-van-gogh,vincent-van-gogh,Realism,portrait,train-00000-of-00072.parquet,306,datasets/partial/WikiArt_hot40_top15_artist/vincent_van_gogh/vincent_van_gogh_0039.jpg
+WikiArt,artist,claude-monet,claude-monet,Impressionism,Unknown Genre,train-00000-of-00072.parquet,307,datasets/partial/WikiArt_hot40_top15_artist/claude_monet/claude_monet_0021.jpg
+WikiArt,artist,vincent-van-gogh,vincent-van-gogh,Realism,sketch_and_study,train-00000-of-00072.parquet,308,datasets/partial/WikiArt_hot40_top15_artist/vincent_van_gogh/vincent_van_gogh_0040.jpg
+WikiArt,artist,pierre-auguste-renoir,pierre-auguste-renoir,Impressionism,genre_painting,train-00000-of-00072.parquet,309,datasets/partial/WikiArt_hot40_top15_artist/pierre_auguste_renoir/pierre_auguste_renoir_0020.jpg
+WikiArt,artist,raphael-kirchner,raphael-kirchner,Art_Nouveau,genre_painting,train-00000-of-00072.parquet,310,datasets/partial/WikiArt_hot40_top15_artist/raphael_kirchner/raphael_kirchner_0006.jpg
+WikiArt,artist,raphael-kirchner,raphael-kirchner,Art_Nouveau,Unknown Genre,train-00000-of-00072.parquet,311,datasets/partial/WikiArt_hot40_top15_artist/raphael_kirchner/raphael_kirchner_0007.jpg
+WikiArt,artist,pyotr-konchalovsky,pyotr-konchalovsky,Realism,still_life,train-00000-of-00072.parquet,312,datasets/partial/WikiArt_hot40_top15_artist/pyotr_konchalovsky/pyotr_konchalovsky_0019.jpg
+WikiArt,artist,ivan-aivazovsky,ivan-aivazovsky,Romanticism,Unknown Genre,train-00000-of-00072.parquet,313,datasets/partial/WikiArt_hot40_top15_artist/ivan_aivazovsky/ivan_aivazovsky_0013.jpg
+WikiArt,artist,gustave-dore,gustave-dore,Romanticism,religious_painting,train-00000-of-00072.parquet,317,datasets/partial/WikiArt_hot40_top15_artist/gustave_dore/gustave_dore_0016.jpg
+WikiArt,artist,gustave-dore,gustave-dore,Romanticism,religious_painting,train-00000-of-00072.parquet,319,datasets/partial/WikiArt_hot40_top15_artist/gustave_dore/gustave_dore_0017.jpg
+WikiArt,artist,pierre-auguste-renoir,pierre-auguste-renoir,Impressionism,Unknown Genre,train-00000-of-00072.parquet,320,datasets/partial/WikiArt_hot40_top15_artist/pierre_auguste_renoir/pierre_auguste_renoir_0021.jpg
+WikiArt,artist,john-singer-sargent,john-singer-sargent,Impressionism,genre_painting,train-00000-of-00072.parquet,321,datasets/partial/WikiArt_hot40_top15_artist/john_singer_sargent/john_singer_sargent_0011.jpg
+WikiArt,artist,nicholas-roerich,nicholas-roerich,Symbolism,landscape,train-00000-of-00072.parquet,326,datasets/partial/WikiArt_hot40_top15_artist/nicholas_roerich/nicholas_roerich_0029.jpg
+WikiArt,artist,eugene-boudin,eugene-boudin,Impressionism,genre_painting,train-00000-of-00072.parquet,327,datasets/partial/WikiArt_hot40_top15_artist/eugene_boudin/eugene_boudin_0006.jpg
+WikiArt,artist,claude-monet,claude-monet,Impressionism,genre_painting,train-00000-of-00072.parquet,328,datasets/partial/WikiArt_hot40_top15_artist/claude_monet/claude_monet_0022.jpg
+WikiArt,artist,boris-kustodiev,boris-kustodiev,Realism,Unknown Genre,train-00000-of-00072.parquet,329,datasets/partial/WikiArt_hot40_top15_artist/boris_kustodiev/boris_kustodiev_0015.jpg
+WikiArt,artist,nicholas-roerich,nicholas-roerich,Symbolism,religious_painting,train-00000-of-00072.parquet,332,datasets/partial/WikiArt_hot40_top15_artist/nicholas_roerich/nicholas_roerich_0030.jpg
+WikiArt,artist,john-singer-sargent,john-singer-sargent,Realism,portrait,train-00000-of-00072.parquet,333,datasets/partial/WikiArt_hot40_top15_artist/john_singer_sargent/john_singer_sargent_0012.jpg
+WikiArt,artist,marc-chagall,marc-chagall,Naive_Art_Primitivism,sketch_and_study,train-00000-of-00072.parquet,335,datasets/partial/WikiArt_hot40_top15_artist/marc_chagall/marc_chagall_0015.jpg
+WikiArt,artist,nicholas-roerich,nicholas-roerich,Art_Nouveau,sketch_and_study,train-00000-of-00072.parquet,340,datasets/partial/WikiArt_hot40_top15_artist/nicholas_roerich/nicholas_roerich_0031.jpg
+WikiArt,artist,eugene-boudin,eugene-boudin,Realism,genre_painting,train-00000-of-00072.parquet,341,datasets/partial/WikiArt_hot40_top15_artist/eugene_boudin/eugene_boudin_0007.jpg
+WikiArt,artist,ivan-aivazovsky,ivan-aivazovsky,Romanticism,Unknown Genre,train-00000-of-00072.parquet,342,datasets/partial/WikiArt_hot40_top15_artist/ivan_aivazovsky/ivan_aivazovsky_0014.jpg
+WikiArt,artist,pyotr-konchalovsky,pyotr-konchalovsky,Post_Impressionism,landscape,train-00000-of-00072.parquet,343,datasets/partial/WikiArt_hot40_top15_artist/pyotr_konchalovsky/pyotr_konchalovsky_0020.jpg
+WikiArt,artist,claude-monet,claude-monet,Impressionism,landscape,train-00000-of-00072.parquet,344,datasets/partial/WikiArt_hot40_top15_artist/claude_monet/claude_monet_0023.jpg
+WikiArt,artist,childe-hassam,childe-hassam,Impressionism,landscape,train-00000-of-00072.parquet,346,datasets/partial/WikiArt_hot40_top15_artist/childe_hassam/childe_hassam_0010.jpg
+WikiArt,artist,nicholas-roerich,nicholas-roerich,Symbolism,landscape,train-00000-of-00072.parquet,348,datasets/partial/WikiArt_hot40_top15_artist/nicholas_roerich/nicholas_roerich_0032.jpg
+WikiArt,artist,pyotr-konchalovsky,pyotr-konchalovsky,Post_Impressionism,genre_painting,train-00000-of-00072.parquet,352,datasets/partial/WikiArt_hot40_top15_artist/pyotr_konchalovsky/pyotr_konchalovsky_0021.jpg
+WikiArt,artist,nicholas-roerich,nicholas-roerich,Art_Nouveau,genre_painting,train-00000-of-00072.parquet,353,datasets/partial/WikiArt_hot40_top15_artist/nicholas_roerich/nicholas_roerich_0033.jpg
+WikiArt,artist,pyotr-konchalovsky,pyotr-konchalovsky,Post_Impressionism,still_life,train-00000-of-00072.parquet,354,datasets/partial/WikiArt_hot40_top15_artist/pyotr_konchalovsky/pyotr_konchalovsky_0022.jpg
+WikiArt,artist,john-singer-sargent,john-singer-sargent,Realism,portrait,train-00000-of-00072.parquet,357,datasets/partial/WikiArt_hot40_top15_artist/john_singer_sargent/john_singer_sargent_0013.jpg
+WikiArt,artist,childe-hassam,childe-hassam,Impressionism,cityscape,train-00000-of-00072.parquet,360,datasets/partial/WikiArt_hot40_top15_artist/childe_hassam/childe_hassam_0011.jpg
+WikiArt,artist,john-singer-sargent,john-singer-sargent,Realism,nude_painting,train-00000-of-00072.parquet,365,datasets/partial/WikiArt_hot40_top15_artist/john_singer_sargent/john_singer_sargent_0014.jpg
+WikiArt,artist,marc-chagall,marc-chagall,Naive_Art_Primitivism,illustration,train-00000-of-00072.parquet,366,datasets/partial/WikiArt_hot40_top15_artist/marc_chagall/marc_chagall_0016.jpg
+WikiArt,artist,camille-pissarro,camille-pissarro,Impressionism,genre_painting,train-00000-of-00072.parquet,367,datasets/partial/WikiArt_hot40_top15_artist/camille_pissarro/camille_pissarro_0006.jpg
+WikiArt,artist,pierre-auguste-renoir,pierre-auguste-renoir,Impressionism,portrait,train-00000-of-00072.parquet,368,datasets/partial/WikiArt_hot40_top15_artist/pierre_auguste_renoir/pierre_auguste_renoir_0022.jpg
+WikiArt,artist,pierre-auguste-renoir,pierre-auguste-renoir,Impressionism,nude_painting,train-00000-of-00072.parquet,370,datasets/partial/WikiArt_hot40_top15_artist/pierre_auguste_renoir/pierre_auguste_renoir_0023.jpg
+WikiArt,artist,john-singer-sargent,john-singer-sargent,Realism,portrait,train-00000-of-00072.parquet,375,datasets/partial/WikiArt_hot40_top15_artist/john_singer_sargent/john_singer_sargent_0015.jpg
+WikiArt,artist,gustave-dore,gustave-dore,Romanticism,religious_painting,train-00000-of-00072.parquet,376,datasets/partial/WikiArt_hot40_top15_artist/gustave_dore/gustave_dore_0018.jpg
+WikiArt,artist,boris-kustodiev,boris-kustodiev,Realism,portrait,train-00000-of-00072.parquet,379,datasets/partial/WikiArt_hot40_top15_artist/boris_kustodiev/boris_kustodiev_0016.jpg
+WikiArt,artist,pierre-auguste-renoir,pierre-auguste-renoir,Impressionism,landscape,train-00000-of-00072.parquet,380,datasets/partial/WikiArt_hot40_top15_artist/pierre_auguste_renoir/pierre_auguste_renoir_0024.jpg
+WikiArt,artist,nicholas-roerich,nicholas-roerich,Art_Nouveau,Unknown Genre,train-00000-of-00072.parquet,381,datasets/partial/WikiArt_hot40_top15_artist/nicholas_roerich/nicholas_roerich_0034.jpg
+WikiArt,artist,claude-monet,claude-monet,Impressionism,cityscape,train-00000-of-00072.parquet,382,datasets/partial/WikiArt_hot40_top15_artist/claude_monet/claude_monet_0024.jpg
+WikiArt,artist,john-singer-sargent,john-singer-sargent,Realism,portrait,train-00000-of-00072.parquet,384,datasets/partial/WikiArt_hot40_top15_artist/john_singer_sargent/john_singer_sargent_0016.jpg
+WikiArt,artist,john-singer-sargent,john-singer-sargent,Realism,portrait,train-00000-of-00072.parquet,385,datasets/partial/WikiArt_hot40_top15_artist/john_singer_sargent/john_singer_sargent_0017.jpg
+WikiArt,artist,childe-hassam,childe-hassam,Impressionism,landscape,train-00000-of-00072.parquet,387,datasets/partial/WikiArt_hot40_top15_artist/childe_hassam/childe_hassam_0012.jpg
+WikiArt,artist,gustave-dore,gustave-dore,Romanticism,illustration,train-00000-of-00072.parquet,388,datasets/partial/WikiArt_hot40_top15_artist/gustave_dore/gustave_dore_0019.jpg
+WikiArt,artist,nicholas-roerich,nicholas-roerich,Symbolism,landscape,train-00000-of-00072.parquet,389,datasets/partial/WikiArt_hot40_top15_artist/nicholas_roerich/nicholas_roerich_0035.jpg
+WikiArt,artist,boris-kustodiev,boris-kustodiev,Realism,portrait,train-00000-of-00072.parquet,390,datasets/partial/WikiArt_hot40_top15_artist/boris_kustodiev/boris_kustodiev_0017.jpg
+WikiArt,artist,raphael-kirchner,raphael-kirchner,Art_Nouveau,Unknown Genre,train-00000-of-00072.parquet,392,datasets/partial/WikiArt_hot40_top15_artist/raphael_kirchner/raphael_kirchner_0008.jpg
+WikiArt,artist,john-singer-sargent,john-singer-sargent,Impressionism,cityscape,train-00000-of-00072.parquet,393,datasets/partial/WikiArt_hot40_top15_artist/john_singer_sargent/john_singer_sargent_0018.jpg
+WikiArt,artist,gustave-dore,gustave-dore,Romanticism,illustration,train-00000-of-00072.parquet,394,datasets/partial/WikiArt_hot40_top15_artist/gustave_dore/gustave_dore_0020.jpg
+WikiArt,artist,claude-monet,claude-monet,Impressionism,Unknown Genre,train-00000-of-00072.parquet,395,datasets/partial/WikiArt_hot40_top15_artist/claude_monet/claude_monet_0025.jpg
+WikiArt,artist,pierre-auguste-renoir,pierre-auguste-renoir,Impressionism,portrait,train-00000-of-00072.parquet,396,datasets/partial/WikiArt_hot40_top15_artist/pierre_auguste_renoir/pierre_auguste_renoir_0025.jpg
+WikiArt,artist,ivan-aivazovsky,ivan-aivazovsky,Romanticism,portrait,train-00000-of-00072.parquet,397,datasets/partial/WikiArt_hot40_top15_artist/ivan_aivazovsky/ivan_aivazovsky_0015.jpg
+WikiArt,artist,nicholas-roerich,nicholas-roerich,Realism,cityscape,train-00000-of-00072.parquet,398,datasets/partial/WikiArt_hot40_top15_artist/nicholas_roerich/nicholas_roerich_0036.jpg
+WikiArt,artist,childe-hassam,childe-hassam,Impressionism,genre_painting,train-00000-of-00072.parquet,400,datasets/partial/WikiArt_hot40_top15_artist/childe_hassam/childe_hassam_0013.jpg
+WikiArt,artist,nicholas-roerich,nicholas-roerich,Symbolism,landscape,train-00000-of-00072.parquet,402,datasets/partial/WikiArt_hot40_top15_artist/nicholas_roerich/nicholas_roerich_0037.jpg
+WikiArt,artist,nicholas-roerich,nicholas-roerich,Symbolism,religious_painting,train-00000-of-00072.parquet,403,datasets/partial/WikiArt_hot40_top15_artist/nicholas_roerich/nicholas_roerich_0038.jpg
+WikiArt,artist,martiros-saryan,martiros-saryan,Expressionism,sketch_and_study,train-00000-of-00072.parquet,405,datasets/partial/WikiArt_hot40_top15_artist/martiros_saryan/martiros_saryan_0010.jpg
+WikiArt,artist,claude-monet,claude-monet,Impressionism,cityscape,train-00000-of-00072.parquet,408,datasets/partial/WikiArt_hot40_top15_artist/claude_monet/claude_monet_0026.jpg
+WikiArt,artist,claude-monet,claude-monet,Impressionism,Unknown Genre,train-00000-of-00072.parquet,409,datasets/partial/WikiArt_hot40_top15_artist/claude_monet/claude_monet_0027.jpg
+WikiArt,artist,nicholas-roerich,nicholas-roerich,Art_Nouveau,cityscape,train-00000-of-00072.parquet,410,datasets/partial/WikiArt_hot40_top15_artist/nicholas_roerich/nicholas_roerich_0039.jpg
+WikiArt,artist,claude-monet,claude-monet,Impressionism,landscape,train-00000-of-00072.parquet,413,datasets/partial/WikiArt_hot40_top15_artist/claude_monet/claude_monet_0028.jpg
+WikiArt,artist,nicholas-roerich,nicholas-roerich,Symbolism,landscape,train-00000-of-00072.parquet,414,datasets/partial/WikiArt_hot40_top15_artist/nicholas_roerich/nicholas_roerich_0040.jpg
+WikiArt,artist,pierre-auguste-renoir,pierre-auguste-renoir,Impressionism,Unknown Genre,train-00000-of-00072.parquet,416,datasets/partial/WikiArt_hot40_top15_artist/pierre_auguste_renoir/pierre_auguste_renoir_0026.jpg
+WikiArt,artist,camille-pissarro,camille-pissarro,Impressionism,landscape,train-00000-of-00072.parquet,419,datasets/partial/WikiArt_hot40_top15_artist/camille_pissarro/camille_pissarro_0007.jpg
+WikiArt,artist,marc-chagall,marc-chagall,Naive_Art_Primitivism,religious_painting,train-00000-of-00072.parquet,420,datasets/partial/WikiArt_hot40_top15_artist/marc_chagall/marc_chagall_0017.jpg
+WikiArt,artist,pierre-auguste-renoir,pierre-auguste-renoir,Impressionism,still_life,train-00000-of-00072.parquet,421,datasets/partial/WikiArt_hot40_top15_artist/pierre_auguste_renoir/pierre_auguste_renoir_0027.jpg
+WikiArt,artist,eugene-boudin,eugene-boudin,Impressionism,sketch_and_study,train-00000-of-00072.parquet,423,datasets/partial/WikiArt_hot40_top15_artist/eugene_boudin/eugene_boudin_0008.jpg
+WikiArt,artist,childe-hassam,childe-hassam,Impressionism,cityscape,train-00000-of-00072.parquet,424,datasets/partial/WikiArt_hot40_top15_artist/childe_hassam/childe_hassam_0014.jpg
+WikiArt,artist,gustave-dore,gustave-dore,Romanticism,religious_painting,train-00000-of-00072.parquet,426,datasets/partial/WikiArt_hot40_top15_artist/gustave_dore/gustave_dore_0021.jpg
+WikiArt,artist,claude-monet,claude-monet,Impressionism,cityscape,train-00000-of-00072.parquet,429,datasets/partial/WikiArt_hot40_top15_artist/claude_monet/claude_monet_0029.jpg
+WikiArt,artist,camille-pissarro,camille-pissarro,Impressionism,landscape,train-00000-of-00072.parquet,436,datasets/partial/WikiArt_hot40_top15_artist/camille_pissarro/camille_pissarro_0008.jpg
+WikiArt,artist,john-singer-sargent,john-singer-sargent,Realism,portrait,train-00000-of-00072.parquet,437,datasets/partial/WikiArt_hot40_top15_artist/john_singer_sargent/john_singer_sargent_0019.jpg
+WikiArt,artist,boris-kustodiev,boris-kustodiev,Realism,sketch_and_study,train-00000-of-00072.parquet,438,datasets/partial/WikiArt_hot40_top15_artist/boris_kustodiev/boris_kustodiev_0018.jpg
+WikiArt,artist,ivan-aivazovsky,ivan-aivazovsky,Romanticism,landscape,train-00000-of-00072.parquet,439,datasets/partial/WikiArt_hot40_top15_artist/ivan_aivazovsky/ivan_aivazovsky_0016.jpg
+WikiArt,artist,camille-pissarro,camille-pissarro,Impressionism,landscape,train-00000-of-00072.parquet,440,datasets/partial/WikiArt_hot40_top15_artist/camille_pissarro/camille_pissarro_0009.jpg
+WikiArt,artist,martiros-saryan,martiros-saryan,Expressionism,landscape,train-00000-of-00072.parquet,441,datasets/partial/WikiArt_hot40_top15_artist/martiros_saryan/martiros_saryan_0011.jpg
+WikiArt,artist,eugene-boudin,eugene-boudin,Impressionism,Unknown Genre,train-00000-of-00072.parquet,443,datasets/partial/WikiArt_hot40_top15_artist/eugene_boudin/eugene_boudin_0009.jpg
+WikiArt,artist,martiros-saryan,martiros-saryan,Expressionism,still_life,train-00000-of-00072.parquet,446,datasets/partial/WikiArt_hot40_top15_artist/martiros_saryan/martiros_saryan_0012.jpg
+WikiArt,artist,eugene-boudin,eugene-boudin,Impressionism,genre_painting,train-00000-of-00072.parquet,447,datasets/partial/WikiArt_hot40_top15_artist/eugene_boudin/eugene_boudin_0010.jpg
+WikiArt,artist,martiros-saryan,martiros-saryan,Expressionism,illustration,train-00000-of-00072.parquet,448,datasets/partial/WikiArt_hot40_top15_artist/martiros_saryan/martiros_saryan_0013.jpg
+WikiArt,artist,camille-pissarro,camille-pissarro,Impressionism,landscape,train-00000-of-00072.parquet,450,datasets/partial/WikiArt_hot40_top15_artist/camille_pissarro/camille_pissarro_0010.jpg
+WikiArt,artist,claude-monet,claude-monet,Impressionism,landscape,train-00000-of-00072.parquet,451,datasets/partial/WikiArt_hot40_top15_artist/claude_monet/claude_monet_0030.jpg
+WikiArt,artist,pierre-auguste-renoir,pierre-auguste-renoir,Impressionism,portrait,train-00000-of-00072.parquet,452,datasets/partial/WikiArt_hot40_top15_artist/pierre_auguste_renoir/pierre_auguste_renoir_0028.jpg
+WikiArt,artist,boris-kustodiev,boris-kustodiev,Realism,portrait,train-00000-of-00072.parquet,453,datasets/partial/WikiArt_hot40_top15_artist/boris_kustodiev/boris_kustodiev_0019.jpg
+WikiArt,artist,claude-monet,claude-monet,Impressionism,Unknown Genre,train-00000-of-00072.parquet,455,datasets/partial/WikiArt_hot40_top15_artist/claude_monet/claude_monet_0031.jpg
+WikiArt,artist,john-singer-sargent,john-singer-sargent,Impressionism,cityscape,train-00000-of-00072.parquet,463,datasets/partial/WikiArt_hot40_top15_artist/john_singer_sargent/john_singer_sargent_0020.jpg
+WikiArt,artist,gustave-dore,gustave-dore,Romanticism,illustration,train-00000-of-00072.parquet,464,datasets/partial/WikiArt_hot40_top15_artist/gustave_dore/gustave_dore_0022.jpg
+WikiArt,artist,camille-pissarro,camille-pissarro,Impressionism,cityscape,train-00000-of-00072.parquet,467,datasets/partial/WikiArt_hot40_top15_artist/camille_pissarro/camille_pissarro_0011.jpg
+WikiArt,artist,gustave-dore,gustave-dore,Romanticism,illustration,train-00000-of-00072.parquet,468,datasets/partial/WikiArt_hot40_top15_artist/gustave_dore/gustave_dore_0023.jpg
+WikiArt,artist,gustave-dore,gustave-dore,Romanticism,illustration,train-00000-of-00072.parquet,469,datasets/partial/WikiArt_hot40_top15_artist/gustave_dore/gustave_dore_0024.jpg
+WikiArt,artist,martiros-saryan,martiros-saryan,Post_Impressionism,landscape,train-00000-of-00072.parquet,471,datasets/partial/WikiArt_hot40_top15_artist/martiros_saryan/martiros_saryan_0014.jpg
+WikiArt,artist,ivan-aivazovsky,ivan-aivazovsky,Romanticism,landscape,train-00000-of-00072.parquet,472,datasets/partial/WikiArt_hot40_top15_artist/ivan_aivazovsky/ivan_aivazovsky_0017.jpg
+WikiArt,artist,childe-hassam,childe-hassam,Impressionism,portrait,train-00000-of-00072.parquet,473,datasets/partial/WikiArt_hot40_top15_artist/childe_hassam/childe_hassam_0015.jpg
+WikiArt,artist,claude-monet,claude-monet,Impressionism,landscape,train-00000-of-00072.parquet,474,datasets/partial/WikiArt_hot40_top15_artist/claude_monet/claude_monet_0032.jpg
+WikiArt,artist,boris-kustodiev,boris-kustodiev,Naive_Art_Primitivism,Unknown Genre,train-00000-of-00072.parquet,475,datasets/partial/WikiArt_hot40_top15_artist/boris_kustodiev/boris_kustodiev_0020.jpg
+WikiArt,artist,raphael-kirchner,raphael-kirchner,Art_Nouveau,nude_painting,train-00000-of-00072.parquet,476,datasets/partial/WikiArt_hot40_top15_artist/raphael_kirchner/raphael_kirchner_0009.jpg
+WikiArt,artist,pyotr-konchalovsky,pyotr-konchalovsky,Post_Impressionism,nude_painting,train-00000-of-00072.parquet,478,datasets/partial/WikiArt_hot40_top15_artist/pyotr_konchalovsky/pyotr_konchalovsky_0023.jpg
+WikiArt,artist,claude-monet,claude-monet,Impressionism,landscape,train-00000-of-00072.parquet,480,datasets/partial/WikiArt_hot40_top15_artist/claude_monet/claude_monet_0033.jpg
+WikiArt,artist,claude-monet,claude-monet,Impressionism,Unknown Genre,train-00000-of-00072.parquet,481,datasets/partial/WikiArt_hot40_top15_artist/claude_monet/claude_monet_0034.jpg
+WikiArt,artist,john-singer-sargent,john-singer-sargent,Impressionism,cityscape,train-00000-of-00072.parquet,483,datasets/partial/WikiArt_hot40_top15_artist/john_singer_sargent/john_singer_sargent_0021.jpg
+WikiArt,artist,pyotr-konchalovsky,pyotr-konchalovsky,Realism,still_life,train-00000-of-00072.parquet,486,datasets/partial/WikiArt_hot40_top15_artist/pyotr_konchalovsky/pyotr_konchalovsky_0024.jpg
+WikiArt,artist,boris-kustodiev,boris-kustodiev,Art_Nouveau,genre_painting,train-00000-of-00072.parquet,489,datasets/partial/WikiArt_hot40_top15_artist/boris_kustodiev/boris_kustodiev_0021.jpg
+WikiArt,artist,ivan-aivazovsky,ivan-aivazovsky,Romanticism,landscape,train-00000-of-00072.parquet,490,datasets/partial/WikiArt_hot40_top15_artist/ivan_aivazovsky/ivan_aivazovsky_0018.jpg
+WikiArt,artist,martiros-saryan,martiros-saryan,Expressionism,sketch_and_study,train-00000-of-00072.parquet,491,datasets/partial/WikiArt_hot40_top15_artist/martiros_saryan/martiros_saryan_0015.jpg
+WikiArt,artist,pierre-auguste-renoir,pierre-auguste-renoir,Impressionism,portrait,train-00000-of-00072.parquet,495,datasets/partial/WikiArt_hot40_top15_artist/pierre_auguste_renoir/pierre_auguste_renoir_0029.jpg
+WikiArt,artist,pierre-auguste-renoir,pierre-auguste-renoir,Impressionism,sketch_and_study,train-00000-of-00072.parquet,497,datasets/partial/WikiArt_hot40_top15_artist/pierre_auguste_renoir/pierre_auguste_renoir_0030.jpg
+WikiArt,artist,pierre-auguste-renoir,pierre-auguste-renoir,Impressionism,genre_painting,train-00000-of-00072.parquet,498,datasets/partial/WikiArt_hot40_top15_artist/pierre_auguste_renoir/pierre_auguste_renoir_0031.jpg
+WikiArt,artist,pyotr-konchalovsky,pyotr-konchalovsky,Post_Impressionism,landscape,train-00000-of-00072.parquet,499,datasets/partial/WikiArt_hot40_top15_artist/pyotr_konchalovsky/pyotr_konchalovsky_0025.jpg
+WikiArt,artist,john-singer-sargent,john-singer-sargent,Impressionism,portrait,train-00000-of-00072.parquet,500,datasets/partial/WikiArt_hot40_top15_artist/john_singer_sargent/john_singer_sargent_0022.jpg
+WikiArt,artist,martiros-saryan,martiros-saryan,Naive_Art_Primitivism,illustration,train-00000-of-00072.parquet,501,datasets/partial/WikiArt_hot40_top15_artist/martiros_saryan/martiros_saryan_0016.jpg
+WikiArt,artist,pierre-auguste-renoir,pierre-auguste-renoir,Impressionism,cityscape,train-00000-of-00072.parquet,502,datasets/partial/WikiArt_hot40_top15_artist/pierre_auguste_renoir/pierre_auguste_renoir_0032.jpg
+WikiArt,artist,boris-kustodiev,boris-kustodiev,Realism,portrait,train-00000-of-00072.parquet,503,datasets/partial/WikiArt_hot40_top15_artist/boris_kustodiev/boris_kustodiev_0022.jpg
+WikiArt,artist,john-singer-sargent,john-singer-sargent,Realism,portrait,train-00000-of-00072.parquet,504,datasets/partial/WikiArt_hot40_top15_artist/john_singer_sargent/john_singer_sargent_0023.jpg
+WikiArt,artist,camille-pissarro,camille-pissarro,Impressionism,cityscape,train-00000-of-00072.parquet,506,datasets/partial/WikiArt_hot40_top15_artist/camille_pissarro/camille_pissarro_0012.jpg
+WikiArt,artist,pyotr-konchalovsky,pyotr-konchalovsky,Post_Impressionism,Unknown Genre,train-00000-of-00072.parquet,507,datasets/partial/WikiArt_hot40_top15_artist/pyotr_konchalovsky/pyotr_konchalovsky_0026.jpg
+WikiArt,artist,john-singer-sargent,john-singer-sargent,Realism,portrait,train-00000-of-00072.parquet,508,datasets/partial/WikiArt_hot40_top15_artist/john_singer_sargent/john_singer_sargent_0024.jpg
+WikiArt,artist,eugene-boudin,eugene-boudin,Impressionism,genre_painting,train-00000-of-00072.parquet,509,datasets/partial/WikiArt_hot40_top15_artist/eugene_boudin/eugene_boudin_0011.jpg
+WikiArt,artist,eugene-boudin,eugene-boudin,Impressionism,Unknown Genre,train-00000-of-00072.parquet,510,datasets/partial/WikiArt_hot40_top15_artist/eugene_boudin/eugene_boudin_0012.jpg
+WikiArt,artist,raphael-kirchner,raphael-kirchner,Art_Nouveau,Unknown Genre,train-00000-of-00072.parquet,511,datasets/partial/WikiArt_hot40_top15_artist/raphael_kirchner/raphael_kirchner_0010.jpg
+WikiArt,artist,ivan-aivazovsky,ivan-aivazovsky,Romanticism,Unknown Genre,train-00000-of-00072.parquet,512,datasets/partial/WikiArt_hot40_top15_artist/ivan_aivazovsky/ivan_aivazovsky_0019.jpg
+WikiArt,artist,boris-kustodiev,boris-kustodiev,Realism,landscape,train-00000-of-00072.parquet,517,datasets/partial/WikiArt_hot40_top15_artist/boris_kustodiev/boris_kustodiev_0023.jpg
+WikiArt,artist,eugene-boudin,eugene-boudin,Impressionism,landscape,train-00000-of-00072.parquet,518,datasets/partial/WikiArt_hot40_top15_artist/eugene_boudin/eugene_boudin_0013.jpg
+WikiArt,artist,raphael-kirchner,raphael-kirchner,Art_Nouveau,Unknown Genre,train-00000-of-00072.parquet,521,datasets/partial/WikiArt_hot40_top15_artist/raphael_kirchner/raphael_kirchner_0011.jpg
+WikiArt,artist,camille-pissarro,camille-pissarro,Impressionism,genre_painting,train-00000-of-00072.parquet,524,datasets/partial/WikiArt_hot40_top15_artist/camille_pissarro/camille_pissarro_0013.jpg
+WikiArt,artist,ivan-aivazovsky,ivan-aivazovsky,Romanticism,Unknown Genre,train-00000-of-00072.parquet,525,datasets/partial/WikiArt_hot40_top15_artist/ivan_aivazovsky/ivan_aivazovsky_0020.jpg
+WikiArt,artist,pyotr-konchalovsky,pyotr-konchalovsky,Realism,Unknown Genre,train-00000-of-00072.parquet,526,datasets/partial/WikiArt_hot40_top15_artist/pyotr_konchalovsky/pyotr_konchalovsky_0027.jpg
+WikiArt,artist,childe-hassam,childe-hassam,Impressionism,landscape,train-00000-of-00072.parquet,528,datasets/partial/WikiArt_hot40_top15_artist/childe_hassam/childe_hassam_0016.jpg
+WikiArt,artist,john-singer-sargent,john-singer-sargent,Realism,portrait,train-00000-of-00072.parquet,530,datasets/partial/WikiArt_hot40_top15_artist/john_singer_sargent/john_singer_sargent_0025.jpg
+WikiArt,artist,pyotr-konchalovsky,pyotr-konchalovsky,Expressionism,portrait,train-00000-of-00072.parquet,531,datasets/partial/WikiArt_hot40_top15_artist/pyotr_konchalovsky/pyotr_konchalovsky_0028.jpg
+WikiArt,artist,claude-monet,claude-monet,Impressionism,landscape,train-00000-of-00072.parquet,532,datasets/partial/WikiArt_hot40_top15_artist/claude_monet/claude_monet_0035.jpg
+WikiArt,artist,john-singer-sargent,john-singer-sargent,Realism,portrait,train-00000-of-00072.parquet,534,datasets/partial/WikiArt_hot40_top15_artist/john_singer_sargent/john_singer_sargent_0026.jpg
+WikiArt,artist,claude-monet,claude-monet,Impressionism,landscape,train-00000-of-00072.parquet,535,datasets/partial/WikiArt_hot40_top15_artist/claude_monet/claude_monet_0036.jpg
+WikiArt,artist,pyotr-konchalovsky,pyotr-konchalovsky,Cubism,still_life,train-00000-of-00072.parquet,536,datasets/partial/WikiArt_hot40_top15_artist/pyotr_konchalovsky/pyotr_konchalovsky_0029.jpg
+WikiArt,artist,pierre-auguste-renoir,pierre-auguste-renoir,Impressionism,still_life,train-00000-of-00072.parquet,537,datasets/partial/WikiArt_hot40_top15_artist/pierre_auguste_renoir/pierre_auguste_renoir_0033.jpg
+WikiArt,artist,childe-hassam,childe-hassam,Impressionism,cityscape,train-00000-of-00072.parquet,538,datasets/partial/WikiArt_hot40_top15_artist/childe_hassam/childe_hassam_0017.jpg
+WikiArt,artist,camille-pissarro,camille-pissarro,Impressionism,landscape,train-00000-of-00072.parquet,545,datasets/partial/WikiArt_hot40_top15_artist/camille_pissarro/camille_pissarro_0014.jpg
+WikiArt,artist,ivan-aivazovsky,ivan-aivazovsky,Romanticism,Unknown Genre,train-00000-of-00072.parquet,547,datasets/partial/WikiArt_hot40_top15_artist/ivan_aivazovsky/ivan_aivazovsky_0021.jpg
+WikiArt,artist,childe-hassam,childe-hassam,Impressionism,landscape,train-00000-of-00072.parquet,553,datasets/partial/WikiArt_hot40_top15_artist/childe_hassam/childe_hassam_0018.jpg
+WikiArt,artist,camille-pissarro,camille-pissarro,Impressionism,cityscape,train-00000-of-00072.parquet,555,datasets/partial/WikiArt_hot40_top15_artist/camille_pissarro/camille_pissarro_0015.jpg
+WikiArt,artist,boris-kustodiev,boris-kustodiev,Naive_Art_Primitivism,genre_painting,train-00000-of-00072.parquet,556,datasets/partial/WikiArt_hot40_top15_artist/boris_kustodiev/boris_kustodiev_0024.jpg
+WikiArt,artist,camille-pissarro,camille-pissarro,Impressionism,landscape,train-00000-of-00072.parquet,557,datasets/partial/WikiArt_hot40_top15_artist/camille_pissarro/camille_pissarro_0016.jpg
+WikiArt,artist,ivan-aivazovsky,ivan-aivazovsky,Romanticism,Unknown Genre,train-00000-of-00072.parquet,558,datasets/partial/WikiArt_hot40_top15_artist/ivan_aivazovsky/ivan_aivazovsky_0022.jpg
+WikiArt,artist,camille-pissarro,camille-pissarro,Pointillism,landscape,train-00000-of-00072.parquet,559,datasets/partial/WikiArt_hot40_top15_artist/camille_pissarro/camille_pissarro_0017.jpg
+WikiArt,artist,boris-kustodiev,boris-kustodiev,Realism,sketch_and_study,train-00000-of-00072.parquet,563,datasets/partial/WikiArt_hot40_top15_artist/boris_kustodiev/boris_kustodiev_0025.jpg
+WikiArt,artist,pyotr-konchalovsky,pyotr-konchalovsky,Cubism,still_life,train-00000-of-00072.parquet,567,datasets/partial/WikiArt_hot40_top15_artist/pyotr_konchalovsky/pyotr_konchalovsky_0030.jpg
+WikiArt,artist,martiros-saryan,martiros-saryan,Expressionism,Unknown Genre,train-00000-of-00072.parquet,568,datasets/partial/WikiArt_hot40_top15_artist/martiros_saryan/martiros_saryan_0017.jpg
+WikiArt,artist,john-singer-sargent,john-singer-sargent,Realism,portrait,train-00000-of-00072.parquet,569,datasets/partial/WikiArt_hot40_top15_artist/john_singer_sargent/john_singer_sargent_0027.jpg
+WikiArt,artist,pierre-auguste-renoir,pierre-auguste-renoir,Impressionism,genre_painting,train-00000-of-00072.parquet,570,datasets/partial/WikiArt_hot40_top15_artist/pierre_auguste_renoir/pierre_auguste_renoir_0034.jpg
+WikiArt,artist,martiros-saryan,martiros-saryan,Symbolism,landscape,train-00000-of-00072.parquet,571,datasets/partial/WikiArt_hot40_top15_artist/martiros_saryan/martiros_saryan_0018.jpg
+WikiArt,artist,gustave-dore,gustave-dore,Romanticism,religious_painting,train-00000-of-00072.parquet,574,datasets/partial/WikiArt_hot40_top15_artist/gustave_dore/gustave_dore_0025.jpg
+WikiArt,artist,martiros-saryan,martiros-saryan,Symbolism,landscape,train-00000-of-00072.parquet,575,datasets/partial/WikiArt_hot40_top15_artist/martiros_saryan/martiros_saryan_0019.jpg
+WikiArt,artist,ivan-aivazovsky,ivan-aivazovsky,Romanticism,Unknown Genre,train-00000-of-00072.parquet,576,datasets/partial/WikiArt_hot40_top15_artist/ivan_aivazovsky/ivan_aivazovsky_0023.jpg
+WikiArt,artist,pierre-auguste-renoir,pierre-auguste-renoir,Impressionism,still_life,train-00000-of-00072.parquet,577,datasets/partial/WikiArt_hot40_top15_artist/pierre_auguste_renoir/pierre_auguste_renoir_0035.jpg
+WikiArt,artist,eugene-boudin,eugene-boudin,Impressionism,landscape,train-00000-of-00072.parquet,578,datasets/partial/WikiArt_hot40_top15_artist/eugene_boudin/eugene_boudin_0014.jpg
+WikiArt,artist,gustave-dore,gustave-dore,Romanticism,illustration,train-00000-of-00072.parquet,582,datasets/partial/WikiArt_hot40_top15_artist/gustave_dore/gustave_dore_0026.jpg
+WikiArt,artist,childe-hassam,childe-hassam,Impressionism,landscape,train-00000-of-00072.parquet,584,datasets/partial/WikiArt_hot40_top15_artist/childe_hassam/childe_hassam_0019.jpg
+WikiArt,artist,ivan-aivazovsky,ivan-aivazovsky,Romanticism,landscape,train-00000-of-00072.parquet,585,datasets/partial/WikiArt_hot40_top15_artist/ivan_aivazovsky/ivan_aivazovsky_0024.jpg
+WikiArt,artist,childe-hassam,childe-hassam,Impressionism,genre_painting,train-00000-of-00072.parquet,588,datasets/partial/WikiArt_hot40_top15_artist/childe_hassam/childe_hassam_0020.jpg
+WikiArt,artist,camille-pissarro,camille-pissarro,Impressionism,landscape,train-00000-of-00072.parquet,589,datasets/partial/WikiArt_hot40_top15_artist/camille_pissarro/camille_pissarro_0018.jpg
+WikiArt,artist,martiros-saryan,martiros-saryan,Expressionism,still_life,train-00000-of-00072.parquet,590,datasets/partial/WikiArt_hot40_top15_artist/martiros_saryan/martiros_saryan_0020.jpg
+WikiArt,artist,eugene-boudin,eugene-boudin,Impressionism,Unknown Genre,train-00000-of-00072.parquet,591,datasets/partial/WikiArt_hot40_top15_artist/eugene_boudin/eugene_boudin_0015.jpg
+WikiArt,artist,claude-monet,claude-monet,Impressionism,Unknown Genre,train-00000-of-00072.parquet,592,datasets/partial/WikiArt_hot40_top15_artist/claude_monet/claude_monet_0037.jpg
+WikiArt,artist,eugene-boudin,eugene-boudin,Impressionism,Unknown Genre,train-00000-of-00072.parquet,593,datasets/partial/WikiArt_hot40_top15_artist/eugene_boudin/eugene_boudin_0016.jpg
+WikiArt,artist,claude-monet,claude-monet,Impressionism,landscape,train-00000-of-00072.parquet,594,datasets/partial/WikiArt_hot40_top15_artist/claude_monet/claude_monet_0038.jpg
+WikiArt,artist,childe-hassam,childe-hassam,Impressionism,genre_painting,train-00000-of-00072.parquet,595,datasets/partial/WikiArt_hot40_top15_artist/childe_hassam/childe_hassam_0021.jpg
+WikiArt,artist,pyotr-konchalovsky,pyotr-konchalovsky,Post_Impressionism,still_life,train-00000-of-00072.parquet,596,datasets/partial/WikiArt_hot40_top15_artist/pyotr_konchalovsky/pyotr_konchalovsky_0031.jpg
+WikiArt,artist,pyotr-konchalovsky,pyotr-konchalovsky,Post_Impressionism,still_life,train-00000-of-00072.parquet,599,datasets/partial/WikiArt_hot40_top15_artist/pyotr_konchalovsky/pyotr_konchalovsky_0032.jpg
+WikiArt,artist,pierre-auguste-renoir,pierre-auguste-renoir,Impressionism,Unknown Genre,train-00000-of-00072.parquet,601,datasets/partial/WikiArt_hot40_top15_artist/pierre_auguste_renoir/pierre_auguste_renoir_0036.jpg
+WikiArt,artist,martiros-saryan,martiros-saryan,Realism,Unknown Genre,train-00000-of-00072.parquet,602,datasets/partial/WikiArt_hot40_top15_artist/martiros_saryan/martiros_saryan_0021.jpg
+WikiArt,artist,martiros-saryan,martiros-saryan,Realism,Unknown Genre,train-00000-of-00072.parquet,603,datasets/partial/WikiArt_hot40_top15_artist/martiros_saryan/martiros_saryan_0022.jpg
+WikiArt,artist,camille-pissarro,camille-pissarro,Impressionism,portrait,train-00000-of-00072.parquet,607,datasets/partial/WikiArt_hot40_top15_artist/camille_pissarro/camille_pissarro_0019.jpg
+WikiArt,artist,marc-chagall,marc-chagall,Naive_Art_Primitivism,genre_painting,train-00000-of-00072.parquet,608,datasets/partial/WikiArt_hot40_top15_artist/marc_chagall/marc_chagall_0018.jpg
+WikiArt,artist,camille-pissarro,camille-pissarro,Impressionism,landscape,train-00000-of-00072.parquet,611,datasets/partial/WikiArt_hot40_top15_artist/camille_pissarro/camille_pissarro_0020.jpg
+WikiArt,artist,marc-chagall,marc-chagall,Naive_Art_Primitivism,sketch_and_study,train-00000-of-00072.parquet,612,datasets/partial/WikiArt_hot40_top15_artist/marc_chagall/marc_chagall_0019.jpg
+WikiArt,artist,claude-monet,claude-monet,Impressionism,landscape,train-00000-of-00072.parquet,613,datasets/partial/WikiArt_hot40_top15_artist/claude_monet/claude_monet_0039.jpg
+WikiArt,artist,pierre-auguste-renoir,pierre-auguste-renoir,Impressionism,portrait,train-00000-of-00072.parquet,614,datasets/partial/WikiArt_hot40_top15_artist/pierre_auguste_renoir/pierre_auguste_renoir_0037.jpg
+WikiArt,artist,pyotr-konchalovsky,pyotr-konchalovsky,Expressionism,portrait,train-00000-of-00072.parquet,618,datasets/partial/WikiArt_hot40_top15_artist/pyotr_konchalovsky/pyotr_konchalovsky_0033.jpg
+WikiArt,artist,ivan-aivazovsky,ivan-aivazovsky,Romanticism,landscape,train-00000-of-00072.parquet,620,datasets/partial/WikiArt_hot40_top15_artist/ivan_aivazovsky/ivan_aivazovsky_0025.jpg
+WikiArt,artist,eugene-boudin,eugene-boudin,Impressionism,landscape,train-00000-of-00072.parquet,622,datasets/partial/WikiArt_hot40_top15_artist/eugene_boudin/eugene_boudin_0017.jpg
+WikiArt,artist,raphael-kirchner,raphael-kirchner,Art_Nouveau,Unknown Genre,train-00000-of-00072.parquet,625,datasets/partial/WikiArt_hot40_top15_artist/raphael_kirchner/raphael_kirchner_0012.jpg
+WikiArt,artist,martiros-saryan,martiros-saryan,Expressionism,sketch_and_study,train-00000-of-00072.parquet,633,datasets/partial/WikiArt_hot40_top15_artist/martiros_saryan/martiros_saryan_0023.jpg
+WikiArt,artist,claude-monet,claude-monet,Impressionism,Unknown Genre,train-00000-of-00072.parquet,634,datasets/partial/WikiArt_hot40_top15_artist/claude_monet/claude_monet_0040.jpg
+WikiArt,artist,pyotr-konchalovsky,pyotr-konchalovsky,Cubism,portrait,train-00000-of-00072.parquet,636,datasets/partial/WikiArt_hot40_top15_artist/pyotr_konchalovsky/pyotr_konchalovsky_0034.jpg
+WikiArt,artist,ivan-aivazovsky,ivan-aivazovsky,Romanticism,Unknown Genre,train-00000-of-00072.parquet,642,datasets/partial/WikiArt_hot40_top15_artist/ivan_aivazovsky/ivan_aivazovsky_0026.jpg
+WikiArt,artist,childe-hassam,childe-hassam,Impressionism,genre_painting,train-00000-of-00072.parquet,649,datasets/partial/WikiArt_hot40_top15_artist/childe_hassam/childe_hassam_0022.jpg
+WikiArt,artist,childe-hassam,childe-hassam,Impressionism,genre_painting,train-00000-of-00072.parquet,650,datasets/partial/WikiArt_hot40_top15_artist/childe_hassam/childe_hassam_0023.jpg
+WikiArt,artist,gustave-dore,gustave-dore,Romanticism,illustration,train-00000-of-00072.parquet,653,datasets/partial/WikiArt_hot40_top15_artist/gustave_dore/gustave_dore_0027.jpg
+WikiArt,artist,camille-pissarro,camille-pissarro,Impressionism,landscape,train-00000-of-00072.parquet,656,datasets/partial/WikiArt_hot40_top15_artist/camille_pissarro/camille_pissarro_0021.jpg
+WikiArt,artist,camille-pissarro,camille-pissarro,Impressionism,landscape,train-00000-of-00072.parquet,661,datasets/partial/WikiArt_hot40_top15_artist/camille_pissarro/camille_pissarro_0022.jpg
+WikiArt,artist,pierre-auguste-renoir,pierre-auguste-renoir,Impressionism,landscape,train-00000-of-00072.parquet,662,datasets/partial/WikiArt_hot40_top15_artist/pierre_auguste_renoir/pierre_auguste_renoir_0038.jpg
+WikiArt,artist,marc-chagall,marc-chagall,Naive_Art_Primitivism,religious_painting,train-00000-of-00072.parquet,663,datasets/partial/WikiArt_hot40_top15_artist/marc_chagall/marc_chagall_0020.jpg
+WikiArt,artist,john-singer-sargent,john-singer-sargent,Impressionism,landscape,train-00000-of-00072.parquet,664,datasets/partial/WikiArt_hot40_top15_artist/john_singer_sargent/john_singer_sargent_0028.jpg
+WikiArt,artist,pyotr-konchalovsky,pyotr-konchalovsky,Realism,landscape,train-00000-of-00072.parquet,665,datasets/partial/WikiArt_hot40_top15_artist/pyotr_konchalovsky/pyotr_konchalovsky_0035.jpg
+WikiArt,artist,camille-pissarro,camille-pissarro,Impressionism,cityscape,train-00000-of-00072.parquet,668,datasets/partial/WikiArt_hot40_top15_artist/camille_pissarro/camille_pissarro_0023.jpg
+WikiArt,artist,eugene-boudin,eugene-boudin,Impressionism,Unknown Genre,train-00000-of-00072.parquet,673,datasets/partial/WikiArt_hot40_top15_artist/eugene_boudin/eugene_boudin_0018.jpg
+WikiArt,artist,martiros-saryan,martiros-saryan,Expressionism,illustration,train-00000-of-00072.parquet,675,datasets/partial/WikiArt_hot40_top15_artist/martiros_saryan/martiros_saryan_0024.jpg
+WikiArt,artist,john-singer-sargent,john-singer-sargent,Impressionism,Unknown Genre,train-00000-of-00072.parquet,685,datasets/partial/WikiArt_hot40_top15_artist/john_singer_sargent/john_singer_sargent_0029.jpg
+WikiArt,artist,pyotr-konchalovsky,pyotr-konchalovsky,Realism,landscape,train-00000-of-00072.parquet,688,datasets/partial/WikiArt_hot40_top15_artist/pyotr_konchalovsky/pyotr_konchalovsky_0036.jpg
+WikiArt,artist,camille-pissarro,camille-pissarro,Impressionism,landscape,train-00000-of-00072.parquet,689,datasets/partial/WikiArt_hot40_top15_artist/camille_pissarro/camille_pissarro_0024.jpg
+WikiArt,artist,pierre-auguste-renoir,pierre-auguste-renoir,Impressionism,genre_painting,train-00000-of-00072.parquet,690,datasets/partial/WikiArt_hot40_top15_artist/pierre_auguste_renoir/pierre_auguste_renoir_0039.jpg
+WikiArt,artist,camille-pissarro,camille-pissarro,Impressionism,landscape,train-00000-of-00072.parquet,692,datasets/partial/WikiArt_hot40_top15_artist/camille_pissarro/camille_pissarro_0025.jpg
+WikiArt,artist,martiros-saryan,martiros-saryan,Expressionism,portrait,train-00000-of-00072.parquet,693,datasets/partial/WikiArt_hot40_top15_artist/martiros_saryan/martiros_saryan_0025.jpg
+WikiArt,artist,boris-kustodiev,boris-kustodiev,Realism,sketch_and_study,train-00000-of-00072.parquet,695,datasets/partial/WikiArt_hot40_top15_artist/boris_kustodiev/boris_kustodiev_0026.jpg
+WikiArt,artist,marc-chagall,marc-chagall,Cubism,landscape,train-00000-of-00072.parquet,697,datasets/partial/WikiArt_hot40_top15_artist/marc_chagall/marc_chagall_0021.jpg
+WikiArt,artist,pierre-auguste-renoir,pierre-auguste-renoir,Impressionism,portrait,train-00000-of-00072.parquet,698,datasets/partial/WikiArt_hot40_top15_artist/pierre_auguste_renoir/pierre_auguste_renoir_0040.jpg
+WikiArt,artist,gustave-dore,gustave-dore,Romanticism,religious_painting,train-00000-of-00072.parquet,699,datasets/partial/WikiArt_hot40_top15_artist/gustave_dore/gustave_dore_0028.jpg
+WikiArt,artist,camille-pissarro,camille-pissarro,Impressionism,cityscape,train-00000-of-00072.parquet,705,datasets/partial/WikiArt_hot40_top15_artist/camille_pissarro/camille_pissarro_0026.jpg
+WikiArt,artist,camille-pissarro,camille-pissarro,Impressionism,cityscape,train-00000-of-00072.parquet,706,datasets/partial/WikiArt_hot40_top15_artist/camille_pissarro/camille_pissarro_0027.jpg
+WikiArt,artist,marc-chagall,marc-chagall,Naive_Art_Primitivism,genre_painting,train-00000-of-00072.parquet,707,datasets/partial/WikiArt_hot40_top15_artist/marc_chagall/marc_chagall_0022.jpg
+WikiArt,artist,pyotr-konchalovsky,pyotr-konchalovsky,Post_Impressionism,still_life,train-00000-of-00072.parquet,710,datasets/partial/WikiArt_hot40_top15_artist/pyotr_konchalovsky/pyotr_konchalovsky_0037.jpg
+WikiArt,artist,raphael-kirchner,raphael-kirchner,Art_Nouveau,nude_painting,train-00000-of-00072.parquet,711,datasets/partial/WikiArt_hot40_top15_artist/raphael_kirchner/raphael_kirchner_0013.jpg
+WikiArt,artist,camille-pissarro,camille-pissarro,Impressionism,landscape,train-00000-of-00072.parquet,712,datasets/partial/WikiArt_hot40_top15_artist/camille_pissarro/camille_pissarro_0028.jpg
+WikiArt,artist,ivan-aivazovsky,ivan-aivazovsky,Romanticism,Unknown Genre,train-00000-of-00072.parquet,713,datasets/partial/WikiArt_hot40_top15_artist/ivan_aivazovsky/ivan_aivazovsky_0027.jpg
+WikiArt,artist,raphael-kirchner,raphael-kirchner,Art_Nouveau,Unknown Genre,train-00000-of-00072.parquet,718,datasets/partial/WikiArt_hot40_top15_artist/raphael_kirchner/raphael_kirchner_0014.jpg
+WikiArt,artist,childe-hassam,childe-hassam,Impressionism,landscape,train-00000-of-00072.parquet,719,datasets/partial/WikiArt_hot40_top15_artist/childe_hassam/childe_hassam_0024.jpg
+WikiArt,artist,john-singer-sargent,john-singer-sargent,Realism,portrait,train-00000-of-00072.parquet,722,datasets/partial/WikiArt_hot40_top15_artist/john_singer_sargent/john_singer_sargent_0030.jpg
+WikiArt,artist,gustave-dore,gustave-dore,Romanticism,illustration,train-00000-of-00072.parquet,723,datasets/partial/WikiArt_hot40_top15_artist/gustave_dore/gustave_dore_0029.jpg
+WikiArt,artist,boris-kustodiev,boris-kustodiev,Realism,Unknown Genre,train-00000-of-00072.parquet,725,datasets/partial/WikiArt_hot40_top15_artist/boris_kustodiev/boris_kustodiev_0027.jpg
+WikiArt,artist,pyotr-konchalovsky,pyotr-konchalovsky,Realism,portrait,train-00000-of-00072.parquet,732,datasets/partial/WikiArt_hot40_top15_artist/pyotr_konchalovsky/pyotr_konchalovsky_0038.jpg
+WikiArt,artist,marc-chagall,marc-chagall,Expressionism,genre_painting,train-00000-of-00072.parquet,737,datasets/partial/WikiArt_hot40_top15_artist/marc_chagall/marc_chagall_0023.jpg
+WikiArt,artist,john-singer-sargent,john-singer-sargent,Impressionism,genre_painting,train-00000-of-00072.parquet,739,datasets/partial/WikiArt_hot40_top15_artist/john_singer_sargent/john_singer_sargent_0031.jpg
+WikiArt,artist,pyotr-konchalovsky,pyotr-konchalovsky,Realism,Unknown Genre,train-00000-of-00072.parquet,740,datasets/partial/WikiArt_hot40_top15_artist/pyotr_konchalovsky/pyotr_konchalovsky_0039.jpg
+WikiArt,artist,camille-pissarro,camille-pissarro,Impressionism,landscape,train-00000-of-00072.parquet,742,datasets/partial/WikiArt_hot40_top15_artist/camille_pissarro/camille_pissarro_0029.jpg
+WikiArt,artist,marc-chagall,marc-chagall,Naive_Art_Primitivism,illustration,train-00000-of-00072.parquet,743,datasets/partial/WikiArt_hot40_top15_artist/marc_chagall/marc_chagall_0024.jpg
+WikiArt,artist,eugene-boudin,eugene-boudin,Impressionism,genre_painting,train-00000-of-00072.parquet,744,datasets/partial/WikiArt_hot40_top15_artist/eugene_boudin/eugene_boudin_0019.jpg
+WikiArt,artist,pyotr-konchalovsky,pyotr-konchalovsky,Post_Impressionism,sketch_and_study,train-00000-of-00072.parquet,747,datasets/partial/WikiArt_hot40_top15_artist/pyotr_konchalovsky/pyotr_konchalovsky_0040.jpg
+WikiArt,artist,gustave-dore,gustave-dore,Romanticism,religious_painting,train-00000-of-00072.parquet,749,datasets/partial/WikiArt_hot40_top15_artist/gustave_dore/gustave_dore_0030.jpg
+WikiArt,artist,john-singer-sargent,john-singer-sargent,Realism,sketch_and_study,train-00000-of-00072.parquet,750,datasets/partial/WikiArt_hot40_top15_artist/john_singer_sargent/john_singer_sargent_0032.jpg
+WikiArt,artist,raphael-kirchner,raphael-kirchner,Art_Nouveau,genre_painting,train-00000-of-00072.parquet,751,datasets/partial/WikiArt_hot40_top15_artist/raphael_kirchner/raphael_kirchner_0015.jpg
+WikiArt,artist,ivan-aivazovsky,ivan-aivazovsky,Romanticism,Unknown Genre,train-00000-of-00072.parquet,755,datasets/partial/WikiArt_hot40_top15_artist/ivan_aivazovsky/ivan_aivazovsky_0028.jpg
+WikiArt,artist,boris-kustodiev,boris-kustodiev,Realism,sketch_and_study,train-00000-of-00072.parquet,757,datasets/partial/WikiArt_hot40_top15_artist/boris_kustodiev/boris_kustodiev_0028.jpg
+WikiArt,artist,camille-pissarro,camille-pissarro,Pointillism,cityscape,train-00000-of-00072.parquet,759,datasets/partial/WikiArt_hot40_top15_artist/camille_pissarro/camille_pissarro_0030.jpg
+WikiArt,artist,gustave-dore,gustave-dore,Romanticism,illustration,train-00000-of-00072.parquet,760,datasets/partial/WikiArt_hot40_top15_artist/gustave_dore/gustave_dore_0031.jpg
+WikiArt,artist,raphael-kirchner,raphael-kirchner,Art_Nouveau,genre_painting,train-00000-of-00072.parquet,761,datasets/partial/WikiArt_hot40_top15_artist/raphael_kirchner/raphael_kirchner_0016.jpg
+WikiArt,artist,marc-chagall,marc-chagall,Naive_Art_Primitivism,Unknown Genre,train-00000-of-00072.parquet,762,datasets/partial/WikiArt_hot40_top15_artist/marc_chagall/marc_chagall_0025.jpg
+WikiArt,artist,childe-hassam,childe-hassam,Impressionism,landscape,train-00000-of-00072.parquet,764,datasets/partial/WikiArt_hot40_top15_artist/childe_hassam/childe_hassam_0025.jpg
+WikiArt,artist,camille-pissarro,camille-pissarro,Impressionism,landscape,train-00000-of-00072.parquet,774,datasets/partial/WikiArt_hot40_top15_artist/camille_pissarro/camille_pissarro_0031.jpg
+WikiArt,artist,marc-chagall,marc-chagall,Expressionism,genre_painting,train-00000-of-00072.parquet,776,datasets/partial/WikiArt_hot40_top15_artist/marc_chagall/marc_chagall_0026.jpg
+WikiArt,artist,camille-pissarro,camille-pissarro,Impressionism,portrait,train-00000-of-00072.parquet,777,datasets/partial/WikiArt_hot40_top15_artist/camille_pissarro/camille_pissarro_0032.jpg
+WikiArt,artist,martiros-saryan,martiros-saryan,Expressionism,genre_painting,train-00000-of-00072.parquet,779,datasets/partial/WikiArt_hot40_top15_artist/martiros_saryan/martiros_saryan_0026.jpg
+WikiArt,artist,eugene-boudin,eugene-boudin,Impressionism,cityscape,train-00000-of-00072.parquet,788,datasets/partial/WikiArt_hot40_top15_artist/eugene_boudin/eugene_boudin_0020.jpg
+WikiArt,artist,childe-hassam,childe-hassam,Impressionism,cityscape,train-00000-of-00072.parquet,789,datasets/partial/WikiArt_hot40_top15_artist/childe_hassam/childe_hassam_0026.jpg
+WikiArt,artist,boris-kustodiev,boris-kustodiev,Realism,Unknown Genre,train-00000-of-00072.parquet,790,datasets/partial/WikiArt_hot40_top15_artist/boris_kustodiev/boris_kustodiev_0029.jpg
+WikiArt,artist,childe-hassam,childe-hassam,Impressionism,still_life,train-00000-of-00072.parquet,792,datasets/partial/WikiArt_hot40_top15_artist/childe_hassam/childe_hassam_0027.jpg
+WikiArt,artist,martiros-saryan,martiros-saryan,Symbolism,genre_painting,train-00000-of-00072.parquet,796,datasets/partial/WikiArt_hot40_top15_artist/martiros_saryan/martiros_saryan_0027.jpg
+WikiArt,artist,john-singer-sargent,john-singer-sargent,Impressionism,genre_painting,train-00000-of-00072.parquet,798,datasets/partial/WikiArt_hot40_top15_artist/john_singer_sargent/john_singer_sargent_0033.jpg
+WikiArt,artist,boris-kustodiev,boris-kustodiev,Realism,sketch_and_study,train-00000-of-00072.parquet,801,datasets/partial/WikiArt_hot40_top15_artist/boris_kustodiev/boris_kustodiev_0030.jpg
+WikiArt,artist,raphael-kirchner,raphael-kirchner,Art_Nouveau,portrait,train-00000-of-00072.parquet,807,datasets/partial/WikiArt_hot40_top15_artist/raphael_kirchner/raphael_kirchner_0017.jpg
+WikiArt,artist,boris-kustodiev,boris-kustodiev,Realism,portrait,train-00000-of-00072.parquet,808,datasets/partial/WikiArt_hot40_top15_artist/boris_kustodiev/boris_kustodiev_0031.jpg
+WikiArt,artist,eugene-boudin,eugene-boudin,Realism,genre_painting,train-00000-of-00072.parquet,814,datasets/partial/WikiArt_hot40_top15_artist/eugene_boudin/eugene_boudin_0021.jpg
+WikiArt,artist,camille-pissarro,camille-pissarro,Impressionism,landscape,train-00000-of-00072.parquet,815,datasets/partial/WikiArt_hot40_top15_artist/camille_pissarro/camille_pissarro_0033.jpg
+WikiArt,artist,john-singer-sargent,john-singer-sargent,Realism,portrait,train-00000-of-00072.parquet,816,datasets/partial/WikiArt_hot40_top15_artist/john_singer_sargent/john_singer_sargent_0034.jpg
+WikiArt,artist,martiros-saryan,martiros-saryan,Realism,landscape,train-00000-of-00072.parquet,821,datasets/partial/WikiArt_hot40_top15_artist/martiros_saryan/martiros_saryan_0028.jpg
+WikiArt,artist,boris-kustodiev,boris-kustodiev,Realism,genre_painting,train-00000-of-00072.parquet,827,datasets/partial/WikiArt_hot40_top15_artist/boris_kustodiev/boris_kustodiev_0032.jpg
+WikiArt,artist,marc-chagall,marc-chagall,Naive_Art_Primitivism,religious_painting,train-00000-of-00072.parquet,828,datasets/partial/WikiArt_hot40_top15_artist/marc_chagall/marc_chagall_0027.jpg
+WikiArt,artist,boris-kustodiev,boris-kustodiev,Realism,Unknown Genre,train-00000-of-00072.parquet,832,datasets/partial/WikiArt_hot40_top15_artist/boris_kustodiev/boris_kustodiev_0033.jpg
+WikiArt,artist,childe-hassam,childe-hassam,Impressionism,genre_painting,train-00000-of-00072.parquet,835,datasets/partial/WikiArt_hot40_top15_artist/childe_hassam/childe_hassam_0028.jpg
+WikiArt,artist,gustave-dore,gustave-dore,Romanticism,religious_painting,train-00000-of-00072.parquet,836,datasets/partial/WikiArt_hot40_top15_artist/gustave_dore/gustave_dore_0032.jpg
+WikiArt,artist,ivan-aivazovsky,ivan-aivazovsky,Romanticism,Unknown Genre,train-00000-of-00072.parquet,844,datasets/partial/WikiArt_hot40_top15_artist/ivan_aivazovsky/ivan_aivazovsky_0029.jpg
+WikiArt,artist,raphael-kirchner,raphael-kirchner,Art_Nouveau,portrait,train-00000-of-00072.parquet,855,datasets/partial/WikiArt_hot40_top15_artist/raphael_kirchner/raphael_kirchner_0018.jpg
+WikiArt,artist,camille-pissarro,camille-pissarro,Impressionism,cityscape,train-00000-of-00072.parquet,858,datasets/partial/WikiArt_hot40_top15_artist/camille_pissarro/camille_pissarro_0034.jpg
+WikiArt,artist,marc-chagall,marc-chagall,Naive_Art_Primitivism,genre_painting,train-00000-of-00072.parquet,862,datasets/partial/WikiArt_hot40_top15_artist/marc_chagall/marc_chagall_0028.jpg
+WikiArt,artist,childe-hassam,childe-hassam,Impressionism,cityscape,train-00000-of-00072.parquet,864,datasets/partial/WikiArt_hot40_top15_artist/childe_hassam/childe_hassam_0029.jpg
+WikiArt,artist,martiros-saryan,martiros-saryan,Symbolism,Unknown Genre,train-00000-of-00072.parquet,865,datasets/partial/WikiArt_hot40_top15_artist/martiros_saryan/martiros_saryan_0029.jpg
+WikiArt,artist,gustave-dore,gustave-dore,Romanticism,religious_painting,train-00000-of-00072.parquet,866,datasets/partial/WikiArt_hot40_top15_artist/gustave_dore/gustave_dore_0033.jpg
+WikiArt,artist,gustave-dore,gustave-dore,Romanticism,illustration,train-00000-of-00072.parquet,869,datasets/partial/WikiArt_hot40_top15_artist/gustave_dore/gustave_dore_0034.jpg
+WikiArt,artist,boris-kustodiev,boris-kustodiev,Realism,illustration,train-00000-of-00072.parquet,870,datasets/partial/WikiArt_hot40_top15_artist/boris_kustodiev/boris_kustodiev_0034.jpg
+WikiArt,artist,raphael-kirchner,raphael-kirchner,Art_Nouveau,portrait,train-00000-of-00072.parquet,871,datasets/partial/WikiArt_hot40_top15_artist/raphael_kirchner/raphael_kirchner_0019.jpg
+WikiArt,artist,camille-pissarro,camille-pissarro,Impressionism,cityscape,train-00000-of-00072.parquet,874,datasets/partial/WikiArt_hot40_top15_artist/camille_pissarro/camille_pissarro_0035.jpg
+WikiArt,artist,gustave-dore,gustave-dore,Romanticism,religious_painting,train-00000-of-00072.parquet,878,datasets/partial/WikiArt_hot40_top15_artist/gustave_dore/gustave_dore_0035.jpg
+WikiArt,artist,eugene-boudin,eugene-boudin,Impressionism,landscape,train-00000-of-00072.parquet,879,datasets/partial/WikiArt_hot40_top15_artist/eugene_boudin/eugene_boudin_0022.jpg
+WikiArt,artist,boris-kustodiev,boris-kustodiev,Art_Nouveau,portrait,train-00000-of-00072.parquet,880,datasets/partial/WikiArt_hot40_top15_artist/boris_kustodiev/boris_kustodiev_0035.jpg
+WikiArt,artist,martiros-saryan,martiros-saryan,Expressionism,Unknown Genre,train-00000-of-00072.parquet,881,datasets/partial/WikiArt_hot40_top15_artist/martiros_saryan/martiros_saryan_0030.jpg
+WikiArt,artist,ivan-aivazovsky,ivan-aivazovsky,Romanticism,landscape,train-00000-of-00072.parquet,887,datasets/partial/WikiArt_hot40_top15_artist/ivan_aivazovsky/ivan_aivazovsky_0030.jpg
+WikiArt,artist,camille-pissarro,camille-pissarro,Impressionism,landscape,train-00000-of-00072.parquet,888,datasets/partial/WikiArt_hot40_top15_artist/camille_pissarro/camille_pissarro_0036.jpg
+WikiArt,artist,marc-chagall,marc-chagall,Naive_Art_Primitivism,illustration,train-00000-of-00072.parquet,891,datasets/partial/WikiArt_hot40_top15_artist/marc_chagall/marc_chagall_0029.jpg
+WikiArt,artist,camille-pissarro,camille-pissarro,Impressionism,landscape,train-00000-of-00072.parquet,892,datasets/partial/WikiArt_hot40_top15_artist/camille_pissarro/camille_pissarro_0037.jpg
+WikiArt,artist,martiros-saryan,martiros-saryan,Realism,portrait,train-00000-of-00072.parquet,895,datasets/partial/WikiArt_hot40_top15_artist/martiros_saryan/martiros_saryan_0031.jpg
+WikiArt,artist,john-singer-sargent,john-singer-sargent,Realism,portrait,train-00000-of-00072.parquet,898,datasets/partial/WikiArt_hot40_top15_artist/john_singer_sargent/john_singer_sargent_0035.jpg
+WikiArt,artist,gustave-dore,gustave-dore,Romanticism,illustration,train-00000-of-00072.parquet,909,datasets/partial/WikiArt_hot40_top15_artist/gustave_dore/gustave_dore_0036.jpg
+WikiArt,artist,gustave-dore,gustave-dore,Romanticism,illustration,train-00000-of-00072.parquet,911,datasets/partial/WikiArt_hot40_top15_artist/gustave_dore/gustave_dore_0037.jpg
+WikiArt,artist,martiros-saryan,martiros-saryan,Expressionism,sketch_and_study,train-00000-of-00072.parquet,913,datasets/partial/WikiArt_hot40_top15_artist/martiros_saryan/martiros_saryan_0032.jpg
+WikiArt,artist,john-singer-sargent,john-singer-sargent,Realism,portrait,train-00000-of-00072.parquet,926,datasets/partial/WikiArt_hot40_top15_artist/john_singer_sargent/john_singer_sargent_0036.jpg
+WikiArt,artist,childe-hassam,childe-hassam,Impressionism,genre_painting,train-00000-of-00072.parquet,928,datasets/partial/WikiArt_hot40_top15_artist/childe_hassam/childe_hassam_0030.jpg
+WikiArt,artist,boris-kustodiev,boris-kustodiev,Realism,Unknown Genre,train-00000-of-00072.parquet,931,datasets/partial/WikiArt_hot40_top15_artist/boris_kustodiev/boris_kustodiev_0036.jpg
+WikiArt,artist,camille-pissarro,camille-pissarro,Realism,sketch_and_study,train-00000-of-00072.parquet,932,datasets/partial/WikiArt_hot40_top15_artist/camille_pissarro/camille_pissarro_0038.jpg
+WikiArt,artist,gustave-dore,gustave-dore,Romanticism,religious_painting,train-00000-of-00072.parquet,933,datasets/partial/WikiArt_hot40_top15_artist/gustave_dore/gustave_dore_0038.jpg
+WikiArt,artist,martiros-saryan,martiros-saryan,Symbolism,genre_painting,train-00000-of-00072.parquet,936,datasets/partial/WikiArt_hot40_top15_artist/martiros_saryan/martiros_saryan_0033.jpg
+WikiArt,artist,ivan-aivazovsky,ivan-aivazovsky,Romanticism,landscape,train-00000-of-00072.parquet,938,datasets/partial/WikiArt_hot40_top15_artist/ivan_aivazovsky/ivan_aivazovsky_0031.jpg
+WikiArt,artist,raphael-kirchner,raphael-kirchner,Art_Nouveau,genre_painting,train-00000-of-00072.parquet,939,datasets/partial/WikiArt_hot40_top15_artist/raphael_kirchner/raphael_kirchner_0020.jpg
+WikiArt,artist,eugene-boudin,eugene-boudin,Impressionism,genre_painting,train-00000-of-00072.parquet,941,datasets/partial/WikiArt_hot40_top15_artist/eugene_boudin/eugene_boudin_0023.jpg
+WikiArt,artist,john-singer-sargent,john-singer-sargent,Realism,portrait,train-00000-of-00072.parquet,946,datasets/partial/WikiArt_hot40_top15_artist/john_singer_sargent/john_singer_sargent_0037.jpg
+WikiArt,artist,marc-chagall,marc-chagall,Naive_Art_Primitivism,still_life,train-00000-of-00072.parquet,949,datasets/partial/WikiArt_hot40_top15_artist/marc_chagall/marc_chagall_0030.jpg
+WikiArt,artist,raphael-kirchner,raphael-kirchner,Art_Nouveau,Unknown Genre,train-00000-of-00072.parquet,950,datasets/partial/WikiArt_hot40_top15_artist/raphael_kirchner/raphael_kirchner_0021.jpg
+WikiArt,artist,gustave-dore,gustave-dore,Romanticism,illustration,train-00000-of-00072.parquet,951,datasets/partial/WikiArt_hot40_top15_artist/gustave_dore/gustave_dore_0039.jpg
+WikiArt,artist,martiros-saryan,martiros-saryan,Expressionism,sketch_and_study,train-00000-of-00072.parquet,954,datasets/partial/WikiArt_hot40_top15_artist/martiros_saryan/martiros_saryan_0034.jpg
+WikiArt,artist,boris-kustodiev,boris-kustodiev,Realism,portrait,train-00000-of-00072.parquet,958,datasets/partial/WikiArt_hot40_top15_artist/boris_kustodiev/boris_kustodiev_0037.jpg
+WikiArt,artist,john-singer-sargent,john-singer-sargent,Realism,portrait,train-00000-of-00072.parquet,961,datasets/partial/WikiArt_hot40_top15_artist/john_singer_sargent/john_singer_sargent_0038.jpg
+WikiArt,artist,ivan-aivazovsky,ivan-aivazovsky,Romanticism,Unknown Genre,train-00000-of-00072.parquet,966,datasets/partial/WikiArt_hot40_top15_artist/ivan_aivazovsky/ivan_aivazovsky_0032.jpg
+WikiArt,artist,raphael-kirchner,raphael-kirchner,Art_Nouveau,Unknown Genre,train-00000-of-00072.parquet,967,datasets/partial/WikiArt_hot40_top15_artist/raphael_kirchner/raphael_kirchner_0022.jpg
+WikiArt,artist,martiros-saryan,martiros-saryan,Expressionism,landscape,train-00000-of-00072.parquet,968,datasets/partial/WikiArt_hot40_top15_artist/martiros_saryan/martiros_saryan_0035.jpg
+WikiArt,artist,raphael-kirchner,raphael-kirchner,Art_Nouveau,Unknown Genre,train-00000-of-00072.parquet,973,datasets/partial/WikiArt_hot40_top15_artist/raphael_kirchner/raphael_kirchner_0023.jpg
+WikiArt,artist,raphael-kirchner,raphael-kirchner,Art_Nouveau,portrait,train-00000-of-00072.parquet,980,datasets/partial/WikiArt_hot40_top15_artist/raphael_kirchner/raphael_kirchner_0024.jpg
+WikiArt,artist,marc-chagall,marc-chagall,Naive_Art_Primitivism,illustration,train-00000-of-00072.parquet,988,datasets/partial/WikiArt_hot40_top15_artist/marc_chagall/marc_chagall_0031.jpg
+WikiArt,artist,childe-hassam,childe-hassam,Impressionism,still_life,train-00000-of-00072.parquet,991,datasets/partial/WikiArt_hot40_top15_artist/childe_hassam/childe_hassam_0031.jpg
+WikiArt,artist,john-singer-sargent,john-singer-sargent,Realism,sketch_and_study,train-00000-of-00072.parquet,994,datasets/partial/WikiArt_hot40_top15_artist/john_singer_sargent/john_singer_sargent_0039.jpg
+WikiArt,artist,boris-kustodiev,boris-kustodiev,Realism,cityscape,train-00000-of-00072.parquet,999,datasets/partial/WikiArt_hot40_top15_artist/boris_kustodiev/boris_kustodiev_0038.jpg
+WikiArt,artist,john-singer-sargent,john-singer-sargent,Realism,portrait,train-00000-of-00072.parquet,1001,datasets/partial/WikiArt_hot40_top15_artist/john_singer_sargent/john_singer_sargent_0040.jpg
+WikiArt,artist,raphael-kirchner,raphael-kirchner,Art_Nouveau,Unknown Genre,train-00000-of-00072.parquet,1002,datasets/partial/WikiArt_hot40_top15_artist/raphael_kirchner/raphael_kirchner_0025.jpg
+WikiArt,artist,marc-chagall,marc-chagall,Naive_Art_Primitivism,religious_painting,train-00000-of-00072.parquet,1011,datasets/partial/WikiArt_hot40_top15_artist/marc_chagall/marc_chagall_0032.jpg
+WikiArt,artist,eugene-boudin,eugene-boudin,Impressionism,landscape,train-00000-of-00072.parquet,1014,datasets/partial/WikiArt_hot40_top15_artist/eugene_boudin/eugene_boudin_0024.jpg
+WikiArt,artist,marc-chagall,marc-chagall,Naive_Art_Primitivism,genre_painting,train-00000-of-00072.parquet,1020,datasets/partial/WikiArt_hot40_top15_artist/marc_chagall/marc_chagall_0033.jpg
+WikiArt,artist,camille-pissarro,camille-pissarro,Impressionism,landscape,train-00000-of-00072.parquet,1023,datasets/partial/WikiArt_hot40_top15_artist/camille_pissarro/camille_pissarro_0039.jpg
+WikiArt,artist,ivan-aivazovsky,ivan-aivazovsky,Romanticism,Unknown Genre,train-00000-of-00072.parquet,1025,datasets/partial/WikiArt_hot40_top15_artist/ivan_aivazovsky/ivan_aivazovsky_0033.jpg
+WikiArt,artist,camille-pissarro,camille-pissarro,Impressionism,genre_painting,train-00000-of-00072.parquet,1026,datasets/partial/WikiArt_hot40_top15_artist/camille_pissarro/camille_pissarro_0040.jpg
+WikiArt,artist,marc-chagall,marc-chagall,Expressionism,genre_painting,train-00000-of-00072.parquet,1027,datasets/partial/WikiArt_hot40_top15_artist/marc_chagall/marc_chagall_0034.jpg
+WikiArt,artist,gustave-dore,gustave-dore,Romanticism,religious_painting,train-00000-of-00072.parquet,1031,datasets/partial/WikiArt_hot40_top15_artist/gustave_dore/gustave_dore_0040.jpg
+WikiArt,artist,martiros-saryan,martiros-saryan,Symbolism,landscape,train-00000-of-00072.parquet,1035,datasets/partial/WikiArt_hot40_top15_artist/martiros_saryan/martiros_saryan_0036.jpg
+WikiArt,artist,eugene-boudin,eugene-boudin,Impressionism,landscape,train-00000-of-00072.parquet,1044,datasets/partial/WikiArt_hot40_top15_artist/eugene_boudin/eugene_boudin_0025.jpg
+WikiArt,artist,marc-chagall,marc-chagall,Naive_Art_Primitivism,religious_painting,train-00000-of-00072.parquet,1048,datasets/partial/WikiArt_hot40_top15_artist/marc_chagall/marc_chagall_0035.jpg
+WikiArt,artist,childe-hassam,childe-hassam,Impressionism,landscape,train-00000-of-00072.parquet,1050,datasets/partial/WikiArt_hot40_top15_artist/childe_hassam/childe_hassam_0032.jpg
+WikiArt,artist,boris-kustodiev,boris-kustodiev,Realism,sketch_and_study,train-00000-of-00072.parquet,1053,datasets/partial/WikiArt_hot40_top15_artist/boris_kustodiev/boris_kustodiev_0039.jpg
+WikiArt,artist,boris-kustodiev,boris-kustodiev,Realism,Unknown Genre,train-00000-of-00072.parquet,1057,datasets/partial/WikiArt_hot40_top15_artist/boris_kustodiev/boris_kustodiev_0040.jpg
+WikiArt,artist,marc-chagall,marc-chagall,Cubism,Unknown Genre,train-00000-of-00072.parquet,1074,datasets/partial/WikiArt_hot40_top15_artist/marc_chagall/marc_chagall_0036.jpg
+WikiArt,artist,marc-chagall,marc-chagall,Expressionism,genre_painting,train-00000-of-00072.parquet,1080,datasets/partial/WikiArt_hot40_top15_artist/marc_chagall/marc_chagall_0037.jpg
+WikiArt,artist,eugene-boudin,eugene-boudin,Impressionism,Unknown Genre,train-00000-of-00072.parquet,1090,datasets/partial/WikiArt_hot40_top15_artist/eugene_boudin/eugene_boudin_0026.jpg
+WikiArt,artist,childe-hassam,childe-hassam,Impressionism,cityscape,train-00000-of-00072.parquet,1115,datasets/partial/WikiArt_hot40_top15_artist/childe_hassam/childe_hassam_0033.jpg
+WikiArt,artist,ivan-aivazovsky,ivan-aivazovsky,Romanticism,Unknown Genre,train-00000-of-00072.parquet,1121,datasets/partial/WikiArt_hot40_top15_artist/ivan_aivazovsky/ivan_aivazovsky_0034.jpg
+WikiArt,artist,raphael-kirchner,raphael-kirchner,Art_Nouveau,Unknown Genre,train-00001-of-00072.parquet,0,datasets/partial/WikiArt_hot40_top15_artist/raphael_kirchner/raphael_kirchner_0026.jpg
+WikiArt,artist,eugene-boudin,eugene-boudin,Impressionism,genre_painting,train-00001-of-00072.parquet,4,datasets/partial/WikiArt_hot40_top15_artist/eugene_boudin/eugene_boudin_0027.jpg
+WikiArt,artist,raphael-kirchner,raphael-kirchner,Art_Nouveau,Unknown Genre,train-00001-of-00072.parquet,10,datasets/partial/WikiArt_hot40_top15_artist/raphael_kirchner/raphael_kirchner_0027.jpg
+WikiArt,artist,eugene-boudin,eugene-boudin,Impressionism,Unknown Genre,train-00001-of-00072.parquet,11,datasets/partial/WikiArt_hot40_top15_artist/eugene_boudin/eugene_boudin_0028.jpg
+WikiArt,artist,raphael-kirchner,raphael-kirchner,Art_Nouveau,genre_painting,train-00001-of-00072.parquet,14,datasets/partial/WikiArt_hot40_top15_artist/raphael_kirchner/raphael_kirchner_0028.jpg
+WikiArt,artist,martiros-saryan,martiros-saryan,Expressionism,Unknown Genre,train-00001-of-00072.parquet,23,datasets/partial/WikiArt_hot40_top15_artist/martiros_saryan/martiros_saryan_0037.jpg
+WikiArt,artist,raphael-kirchner,raphael-kirchner,Art_Nouveau,portrait,train-00001-of-00072.parquet,27,datasets/partial/WikiArt_hot40_top15_artist/raphael_kirchner/raphael_kirchner_0029.jpg
+WikiArt,artist,eugene-boudin,eugene-boudin,Impressionism,Unknown Genre,train-00001-of-00072.parquet,28,datasets/partial/WikiArt_hot40_top15_artist/eugene_boudin/eugene_boudin_0029.jpg
+WikiArt,artist,ivan-aivazovsky,ivan-aivazovsky,Romanticism,Unknown Genre,train-00001-of-00072.parquet,46,datasets/partial/WikiArt_hot40_top15_artist/ivan_aivazovsky/ivan_aivazovsky_0035.jpg
+WikiArt,artist,ivan-aivazovsky,ivan-aivazovsky,Romanticism,Unknown Genre,train-00001-of-00072.parquet,47,datasets/partial/WikiArt_hot40_top15_artist/ivan_aivazovsky/ivan_aivazovsky_0036.jpg
+WikiArt,artist,raphael-kirchner,raphael-kirchner,Art_Nouveau,genre_painting,train-00001-of-00072.parquet,55,datasets/partial/WikiArt_hot40_top15_artist/raphael_kirchner/raphael_kirchner_0030.jpg
+WikiArt,artist,ivan-aivazovsky,ivan-aivazovsky,Romanticism,Unknown Genre,train-00001-of-00072.parquet,57,datasets/partial/WikiArt_hot40_top15_artist/ivan_aivazovsky/ivan_aivazovsky_0037.jpg
+WikiArt,artist,eugene-boudin,eugene-boudin,Impressionism,landscape,train-00001-of-00072.parquet,73,datasets/partial/WikiArt_hot40_top15_artist/eugene_boudin/eugene_boudin_0030.jpg
+WikiArt,artist,raphael-kirchner,raphael-kirchner,Art_Nouveau,portrait,train-00001-of-00072.parquet,77,datasets/partial/WikiArt_hot40_top15_artist/raphael_kirchner/raphael_kirchner_0031.jpg
+WikiArt,artist,eugene-boudin,eugene-boudin,Impressionism,genre_painting,train-00001-of-00072.parquet,78,datasets/partial/WikiArt_hot40_top15_artist/eugene_boudin/eugene_boudin_0031.jpg
+WikiArt,artist,martiros-saryan,martiros-saryan,Expressionism,illustration,train-00001-of-00072.parquet,79,datasets/partial/WikiArt_hot40_top15_artist/martiros_saryan/martiros_saryan_0038.jpg
+WikiArt,artist,childe-hassam,childe-hassam,Impressionism,cityscape,train-00001-of-00072.parquet,89,datasets/partial/WikiArt_hot40_top15_artist/childe_hassam/childe_hassam_0034.jpg
+WikiArt,artist,ivan-aivazovsky,ivan-aivazovsky,Romanticism,Unknown Genre,train-00001-of-00072.parquet,91,datasets/partial/WikiArt_hot40_top15_artist/ivan_aivazovsky/ivan_aivazovsky_0038.jpg
+WikiArt,artist,marc-chagall,marc-chagall,Naive_Art_Primitivism,sketch_and_study,train-00001-of-00072.parquet,103,datasets/partial/WikiArt_hot40_top15_artist/marc_chagall/marc_chagall_0038.jpg
+WikiArt,artist,eugene-boudin,eugene-boudin,Impressionism,landscape,train-00001-of-00072.parquet,111,datasets/partial/WikiArt_hot40_top15_artist/eugene_boudin/eugene_boudin_0032.jpg
+WikiArt,artist,childe-hassam,childe-hassam,Impressionism,landscape,train-00001-of-00072.parquet,114,datasets/partial/WikiArt_hot40_top15_artist/childe_hassam/childe_hassam_0035.jpg
+WikiArt,artist,ivan-aivazovsky,ivan-aivazovsky,Romanticism,Unknown Genre,train-00001-of-00072.parquet,118,datasets/partial/WikiArt_hot40_top15_artist/ivan_aivazovsky/ivan_aivazovsky_0039.jpg
+WikiArt,artist,childe-hassam,childe-hassam,Impressionism,genre_painting,train-00001-of-00072.parquet,126,datasets/partial/WikiArt_hot40_top15_artist/childe_hassam/childe_hassam_0036.jpg
+WikiArt,artist,marc-chagall,marc-chagall,Naive_Art_Primitivism,Unknown Genre,train-00001-of-00072.parquet,127,datasets/partial/WikiArt_hot40_top15_artist/marc_chagall/marc_chagall_0039.jpg
+WikiArt,artist,raphael-kirchner,raphael-kirchner,Art_Nouveau,nude_painting,train-00001-of-00072.parquet,128,datasets/partial/WikiArt_hot40_top15_artist/raphael_kirchner/raphael_kirchner_0032.jpg
+WikiArt,artist,raphael-kirchner,raphael-kirchner,Art_Nouveau,Unknown Genre,train-00001-of-00072.parquet,129,datasets/partial/WikiArt_hot40_top15_artist/raphael_kirchner/raphael_kirchner_0033.jpg
+WikiArt,artist,martiros-saryan,martiros-saryan,Post_Impressionism,landscape,train-00001-of-00072.parquet,131,datasets/partial/WikiArt_hot40_top15_artist/martiros_saryan/martiros_saryan_0039.jpg
+WikiArt,artist,marc-chagall,marc-chagall,Naive_Art_Primitivism,religious_painting,train-00001-of-00072.parquet,132,datasets/partial/WikiArt_hot40_top15_artist/marc_chagall/marc_chagall_0040.jpg
+WikiArt,artist,eugene-boudin,eugene-boudin,Impressionism,landscape,train-00001-of-00072.parquet,136,datasets/partial/WikiArt_hot40_top15_artist/eugene_boudin/eugene_boudin_0033.jpg
+WikiArt,artist,childe-hassam,childe-hassam,Impressionism,Unknown Genre,train-00001-of-00072.parquet,148,datasets/partial/WikiArt_hot40_top15_artist/childe_hassam/childe_hassam_0037.jpg
+WikiArt,artist,eugene-boudin,eugene-boudin,Impressionism,cityscape,train-00001-of-00072.parquet,155,datasets/partial/WikiArt_hot40_top15_artist/eugene_boudin/eugene_boudin_0034.jpg
+WikiArt,artist,eugene-boudin,eugene-boudin,Impressionism,genre_painting,train-00001-of-00072.parquet,157,datasets/partial/WikiArt_hot40_top15_artist/eugene_boudin/eugene_boudin_0035.jpg
+WikiArt,artist,raphael-kirchner,raphael-kirchner,Art_Nouveau,Unknown Genre,train-00001-of-00072.parquet,160,datasets/partial/WikiArt_hot40_top15_artist/raphael_kirchner/raphael_kirchner_0034.jpg
+WikiArt,artist,martiros-saryan,martiros-saryan,Expressionism,portrait,train-00001-of-00072.parquet,198,datasets/partial/WikiArt_hot40_top15_artist/martiros_saryan/martiros_saryan_0040.jpg
+WikiArt,artist,eugene-boudin,eugene-boudin,Impressionism,Unknown Genre,train-00001-of-00072.parquet,208,datasets/partial/WikiArt_hot40_top15_artist/eugene_boudin/eugene_boudin_0036.jpg
+WikiArt,artist,eugene-boudin,eugene-boudin,Impressionism,genre_painting,train-00001-of-00072.parquet,227,datasets/partial/WikiArt_hot40_top15_artist/eugene_boudin/eugene_boudin_0037.jpg
+WikiArt,artist,raphael-kirchner,raphael-kirchner,Art_Nouveau,Unknown Genre,train-00001-of-00072.parquet,246,datasets/partial/WikiArt_hot40_top15_artist/raphael_kirchner/raphael_kirchner_0035.jpg
+WikiArt,artist,childe-hassam,childe-hassam,Impressionism,landscape,train-00001-of-00072.parquet,253,datasets/partial/WikiArt_hot40_top15_artist/childe_hassam/childe_hassam_0038.jpg
+WikiArt,artist,raphael-kirchner,raphael-kirchner,Art_Nouveau,illustration,train-00001-of-00072.parquet,271,datasets/partial/WikiArt_hot40_top15_artist/raphael_kirchner/raphael_kirchner_0036.jpg
+WikiArt,artist,ivan-aivazovsky,ivan-aivazovsky,Romanticism,Unknown Genre,train-00001-of-00072.parquet,291,datasets/partial/WikiArt_hot40_top15_artist/ivan_aivazovsky/ivan_aivazovsky_0040.jpg
+WikiArt,artist,raphael-kirchner,raphael-kirchner,Art_Nouveau,Unknown Genre,train-00001-of-00072.parquet,312,datasets/partial/WikiArt_hot40_top15_artist/raphael_kirchner/raphael_kirchner_0037.jpg
+WikiArt,artist,raphael-kirchner,raphael-kirchner,Art_Nouveau,Unknown Genre,train-00001-of-00072.parquet,316,datasets/partial/WikiArt_hot40_top15_artist/raphael_kirchner/raphael_kirchner_0038.jpg
+WikiArt,artist,childe-hassam,childe-hassam,Impressionism,nude_painting,train-00001-of-00072.parquet,338,datasets/partial/WikiArt_hot40_top15_artist/childe_hassam/childe_hassam_0039.jpg
+WikiArt,artist,eugene-boudin,eugene-boudin,Realism,sketch_and_study,train-00001-of-00072.parquet,341,datasets/partial/WikiArt_hot40_top15_artist/eugene_boudin/eugene_boudin_0038.jpg
+WikiArt,artist,raphael-kirchner,raphael-kirchner,Art_Nouveau,genre_painting,train-00001-of-00072.parquet,364,datasets/partial/WikiArt_hot40_top15_artist/raphael_kirchner/raphael_kirchner_0039.jpg
+WikiArt,artist,childe-hassam,childe-hassam,Impressionism,landscape,train-00001-of-00072.parquet,374,datasets/partial/WikiArt_hot40_top15_artist/childe_hassam/childe_hassam_0040.jpg
+WikiArt,artist,raphael-kirchner,raphael-kirchner,Art_Nouveau,genre_painting,train-00001-of-00072.parquet,387,datasets/partial/WikiArt_hot40_top15_artist/raphael_kirchner/raphael_kirchner_0040.jpg
+WikiArt,artist,eugene-boudin,eugene-boudin,Impressionism,genre_painting,train-00001-of-00072.parquet,408,datasets/partial/WikiArt_hot40_top15_artist/eugene_boudin/eugene_boudin_0039.jpg
+WikiArt,artist,eugene-boudin,eugene-boudin,Impressionism,Unknown Genre,train-00001-of-00072.parquet,423,datasets/partial/WikiArt_hot40_top15_artist/eugene_boudin/eugene_boudin_0040.jpg

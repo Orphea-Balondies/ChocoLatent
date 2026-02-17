@@ -1,2 +1,5 @@
 exp/
+experiments/outputs/
+**/__pycache__/
 model/*
+datasets/raw/

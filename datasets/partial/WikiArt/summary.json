@@ -1,0 +1,41 @@
+{
+  "dataset": "WikiArt",
+  "snapshot": "/root/.cache/huggingface/hub/datasets--huggan--wikiart/snapshots/d559852d2b232e0fcf195e775866964f0564f2b5",
+  "parquet_shards_used": [
+    "train-00000-of-00072.parquet",
+    "train-00001-of-00072.parquet",
+    "train-00003-of-00072.parquet",
+    "train-00004-of-00072.parquet",
+    "train-00006-of-00072.parquet",
+    "train-00007-of-00072.parquet",
+    "train-00008-of-00072.parquet",
+    "train-00009-of-00072.parquet",
+    "train-00010-of-00072.parquet",
+    "train-00011-of-00072.parquet",
+    "train-00012-of-00072.parquet",
+    "train-00013-of-00072.parquet",
+    "train-00014-of-00072.parquet"
+  ],
+  "target_groups": 15,
+  "selected_groups": [
+    "Impressionism",
+    "Realism",
+    "Post_Impressionism",
+    "Symbolism",
+    "Romanticism",
+    "Art_Nouveau",
+    "Naive_Art_Primitivism",
+    "Expressionism",
+    "Northern_Renaissance",
+    "Baroque",
+    "Cubism",
+    "Pointillism",
+    "Synthetic_Cubism",
+    "Analytical_Cubism",
+    "Fauvism"
+  ],
+  "images_per_group_target": 40,
+  "images_saved_total": 565,
+  "output_size_gb": 0.09,
+  "note": "Groups are ranked by frequency from locally available parquet shards."
+}

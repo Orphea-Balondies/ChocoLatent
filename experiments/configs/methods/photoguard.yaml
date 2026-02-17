@@ -1,0 +1,5 @@
+method: photoguard
+objective: minimize_mse_to_gray_target
+gray_value: 0.0
+strict_lpips_projection: true
+lpips_bisection_steps: 6

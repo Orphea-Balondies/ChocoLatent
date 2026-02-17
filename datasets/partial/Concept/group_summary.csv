@@ -1,0 +1,13 @@
+dataset,group,instances_used,saved_images,target_images
+Concept,car,11,30,30
+Concept,cat,7,30,30
+Concept,dog,4,30,30
+Concept,purse,4,30,30
+Concept,person,3,30,30
+Concept,plushie,3,30,30
+Concept,houseplant,3,30,30
+Concept,cup,3,30,30
+Concept,chair,3,28,30
+Concept,sunglasses,2,30,30
+Concept,headphone,2,30,30
+Concept,flower,2,30,30
