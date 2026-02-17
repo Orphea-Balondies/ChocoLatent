@@ -23,6 +23,9 @@ This folder follows `exp_plan/experiment_protocol_latent_protection.md`.
 - `experiments/scripts/run_full_pipeline.py`
   - End-to-end one-command pipeline:
   - `protect (all methods x all budgets) -> train clean/adv LoRA -> generate clean/adv by multi prompts+seeds -> conclusion metrics -> summary`.
+- `experiments/scripts/run_campaign_analysis.py`
+  - Cross-experiment aggregation for multiple `exp_id`s.
+  - Filters by target method and budget grid, then exports merged CSV/JSON and heatmap plots.
 
 ## Example
 
@@ -66,4 +69,22 @@ GLAZE_STYLE_BACKEND=onnx_mosaic \
 GLAZE_STYLE_ONNX_PATH=model/style_transfer/mosaic-9.onnx \
 nohup bash scripts/run_full_pipeline.sh \
   > experiments/outputs/full-run.log 2>&1 &
+```
+
+## Campaign (10 groups)
+
+Run 5 Concept groups + 5 WikiArt artist groups (includes `boris_kustodiev`) with auto-resume:
+
+```bash
+bash scripts/run_full_pipeline_campaign10.sh
+```
+
+Useful overrides:
+
+```bash
+CAMPAIGN_ID=campaign10-v1 \
+PIPELINE_BUDGET_L2_GRID=8/255,12/255 \
+PIPELINE_BUDGET_LPIPS_GRID=0.1,0.2,0.5 \
+PIPELINE_METHODS=chocolatent,glaze,photoguard,robust-ldm,mist \
+bash scripts/run_full_pipeline_campaign10.sh
 ```

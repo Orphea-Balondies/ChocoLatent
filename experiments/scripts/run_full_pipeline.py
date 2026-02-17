@@ -148,6 +148,14 @@ def parse_budget_grid(text: str) -> List[float]:
     return values
 
 
+def value_in_budget_grid(value: str, grid: List[float], atol: float = 1e-9) -> bool:
+    try:
+        target = float(value)
+    except Exception:
+        return False
+    return any(abs(target - item) <= atol for item in grid)
+
+
 def parse_list_file_or_csv(file_path: str, csv_text: str, rng_seed: int, random_count: int) -> List[int]:
     items: List[int] = []
     if file_path:
@@ -551,6 +559,8 @@ def main():
     exp_root = (repo_root / args.output_root / args.exp_id).resolve()
     dataset_dir = (repo_root / args.image_root / args.image_dirname).resolve()
     methods = parse_methods(args.methods)
+    budget_l2_values = parse_budget_grid(args.budget_l2_grid)
+    budget_lpips_values = parse_budget_grid(args.budget_lpips_grid)
     prompts = load_prompts(args.prompt_file)
     seeds = parse_list_file_or_csv(args.seed_file, args.seeds, args.seed, args.num_random_seeds)
     expected_samples_per_adapter = len(prompts) * len(seeds)
@@ -692,11 +702,12 @@ def main():
         manifest_rows = [
             row
             for row in manifest_rows
-            if row.get("method") in methods and row.get("dataset_name") == args.image_dirname
+            if row.get("method") in methods
+            and row.get("dataset_name") == args.image_dirname
+            and value_in_budget_grid(row.get("budget_l2", ""), budget_l2_values)
+            and value_in_budget_grid(row.get("budget_lpips", ""), budget_lpips_values)
         ]
     elif args.dry_run:
-        budget_l2_values = parse_budget_grid(args.budget_l2_grid)
-        budget_lpips_values = parse_budget_grid(args.budget_lpips_grid)
         manifest_rows = []
         for method in methods:
             for b2 in budget_l2_values:
